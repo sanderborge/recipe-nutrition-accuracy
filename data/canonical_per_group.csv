@@ -1,0 +1,62 @@
+group_key,canonical_row_index,canonical_foodId,canonical_foodName,n_items_in_group,disp_median
+8.2,1146,8.249,"Oil, coconut",16,0.04795388199616901
+15.1,1350,6.263,"Potatoes, autumn, boiled, salted water",10,0.12116540258750386
+3.10,1408,3.26,"Reindeer, meat, smoked",22,0.2254229059181658
+5.5.2,183,5.05,"Bread, 25 % wholemeal flour, water, home-made",8,0.24595074383831855
+6.2,1162,6.188,"Okra, raw",113,0.26208328307010104
+5.6.4,190,5.389,"Bread, coarse (50-75 %), Norsk Fjellbrød",10,0.2848405760477821
+13.1,136,6.844,"Berries, mixed, frozen",26,0.2891370317422975
+9.5,1133,13.121,"Oat based beverage, organic",15,0.2893605586285292
+1.1,1047,1.278,"Milk, semi-skimmed, beetroot/apple/lime, Biola",45,0.3061147643220818
+5.5.3,179,5.041,"Bread, 100 % wholemeal flour, skimmed milk, home-made",11,0.3062588602943219
+3.7,1192,3.463,Pasta bolognese,9,0.3198093336812225
+5.12,1336,5.245,"Porridge, prepared with rice and whole milk",13,0.3230471424683667
+9.1,281,13.039,"Cappucino, single, with semi-skimmed milk",35,0.34106237328393996
+1.4.7,366,1.245,"Cheese, hard, matured, Norvegia",22,0.3422095884245834
+3.8,1318,3.348,"Pork, minced meat, 9 % fat, raw",13,0.3583620225330695
+5.5.1,68,5.454,"Bagels, home-made",18,0.3588959422912512
+4.3,1245,4.367,"Periwinkle, common, Norwegian",30,0.36674399485539133
+2,1166,2.006,"Omelette, fried in fat",15,0.36918858314000097
+5.6.1,1730,5.371,"Tortilla, wheat flour, Santa Maria",15,0.3818815508015415
+4.1.2,733,4.008,"Garfish, raw",69,0.38188827965355976
+13.2,970,6.542,"Mango, raw",52,0.3902417742404181
+4.2,1663,4.334,"Sushi, nigiri, salmon",18,0.39649587702029176
+1.4.8,371,1.136,"Cheese, ripened, Brie",9,0.4403480521543804
+1.2,1817,1.305,"Yoghurt, vanilla",15,0.45661994775386316
+4.1.1,1493,4.015,"Salmon, ocean, raw",44,0.4857718573248875
+1.4.6,572,1.258,"Cream cheese, goat milk, Snøfrisk, red onion and thyme",16,0.48827527955631916
+3.4,1330,3.209,"Pork, tenderloin, raw",16,0.4901792983493859
+3.2,881,3.482,"Lamb, shoulder, roasted",15,0.5380443146134577
+3.3,105,3.057,"Beef, chuck roll, raw",16,0.5696383054645465
+6.6,995,6.671,Mashed swede,44,0.6147147639487958
+3.1,420,3.391,"Chicken, with skin, landkylling, roasted",42,0.6389663098205879
+3.5,98,3.442,"Beef patties, First Price",102,0.6391355692610388
+5.7,600,5.069,"Crisp bread, light",20,0.6584106746726046
+14.2,300,13.093,"Cashew nuts, salted, Rema 1000",20,0.699296086656797
+9.4,1606,13.043,"Soda, Tonic Water",8,0.739846215049999
+10.6,1278,6.821,"Plant-based grill sausage, vegetables and potato, Hoff",54,0.7589137685417664
+10.5,1725,13.085,"Tortilla chips, nacho chips, Maarud",20,0.7935432361450048
+9.3,1803,13.058,"Wine, white, rosé, sparkling, unspecified",27,0.8185047259217628
+1.3,585,1.175,"Cream, household, 18 % fat",10,0.8337275195595608
+5.1,1143,5.122,Oatbran,44,0.9164459056785138
+9.2,723,6.613,"Fruit drink, blackcurrant, 500 g sugar/l syrup, ready-to-drink",44,0.9219813657874663
+8.1,979,8.222,"Margarine, for baking/frying, soft, vegetable fat, Soft Flora",25,0.9281970045201373
+5.2,1223,5.443,Pearled barley,62,0.9479636813624778
+12,84,6.735,"Beans, brown, cooked ",36,0.9574511542849858
+1.4.4,377,1.138,"Cheese, semi-hard, low-fat, Mozzarella, Norwegian",15,1.013014802809566
+4.4,952,4.377,"Mackerel fillet, in tomato sauce, 60 % mackerel, canned, First Price",37,1.0745847222356864
+5.3,1780,5.241,"Wheat bran, roasted, sweetened, All-Bran Plus",29,1.155782908609385
+5.10,466,5.314,"Cinnamon roll, sugar coated, industrially made",31,1.1948226990967552
+1.4.5,385,1.054,"Cheese, whey, cow milk, low-fat",9,1.212036154251516
+5.8,151,5.221,"Biscuit, sweet, with oats, Bixit",38,1.2322433645264836
+7.3,1080,10.002,"Mousse, powder base, prepared",52,1.368696423106175
+16,990,6.186,"Marjoram, dried",41,1.3820693916890434
+11,233,11.041,"Breast milk replacement from 6 months, prepared",29,1.4217491436964063
+7.2,458,9.177,"Chocolate, filled with toffee",40,1.6320540924774773
+7.1,814,9.003,Honey,9,1.73413704400023
+8.3,997,8.01,"Mayonnaise, fat reduced, 50 % fat",10,1.7493433787311399
+13.3,471,6.81,Cloudberry jam,65,1.8422806165942505
+10.11,1507,10.015,"Sauce, Bernaise, powder base, prepared",28,1.8529326787055318
+10.7,1103,12.008,Mustard,25,1.9542781660664157
+14.1,397,5.38,"Chia seeds, dried",17,2.140237359887464
+10.10,919,10.137,"Liquid vitamins, Multi Vitaminmikstur, Nycoplus",9,2.566746994075009

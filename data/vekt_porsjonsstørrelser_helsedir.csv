@@ -1,0 +1,2787 @@
+﻿"Matvare
+Food item";"Matvaregruppe
+Foodgroup";"Vekt pr dl, g 
+Weight per dl, g";"Vekt pr ms, g 
+Weight per msp, g";"Vekt pr ss, g 
+Weight per tbsp, g";"Vekt pr ts, g 
+Weight per tsp, g";"g/enhet 
+g/unit";"Enhet 
+Unit";Brutto g;Spiselig del % Edible part %;Netto g;"Vekt pr porsjon, g 
+Weight per portion, g";
+"Drikkeyoghurt 
+Yoghurt drink";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Fløte 
+Cream";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Fløteerstatning, vegetabilsk fløte 
+Cream substitute, vegetable fat";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Kaffemelk 
+Coffee creamer";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Kaffemelk 
+Coffee creamer";"Melk og meieriprodukter
+Milk and dairy products";;;;;10ģ;" porsjon
+portion";;;;;
+"Krem/topping på boks 
+Whipped cream, canned";"Melk og meieriprodukter
+Milk and dairy products";25a;;2,5a;;;;;;;;
+"Melk 
+Milk";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Melkepulver 
+Instant coffee creamer";"Melk og meieriprodukter
+Milk and dairy products";55a;;6a;3a;;;;;;;
+"Milkshake 
+Milkshake";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Rømme, crème fraîche, kesam
+Sour cream, crème fraîche, quark";"Melk og meieriprodukter
+Milk and dairy products";100a;;18f;7f;;;;;;;
+"Syrnet melk, kulturmelk, kefir 
+Cultured milk, kefir milk";"Melk og meieriprodukter
+Milk and dairy products";100e;;11e;5e;;;;;;;
+"Yoghurt 
+Yoghurt";"Melk og meieriprodukter
+Milk and dairy products";100e;;18a;7a;;;;;;;
+"Blåmuggost 
+Blue cheese";"Ost
+Cheese";;;;;30ģ;"porsjon 
+portion";;;;;
+"Brunost 
+Brown cheese";"Ost
+Cheese";;;;;8a;"skive (skåret med ostehøvel) 
+slice (sliced with a cheese slicer)";;;;;
+"Brunost 
+Brown cheese";"Ost
+Cheese";;;;;16ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Brunost 
+Brown cheese";"Ost
+Cheese";;;;;12i;"ferdigskivet 
+pre-sliced cheese";;;;;
+"Cottage cheese 
+Cottage cheese";"Ost
+Cheese";;;;;100a;"desiliter 
+decilitre";;;;;
+"Cottage cheese 
+Cottage cheese";"Ost
+Cheese";;;;;16a;"spiseskje 
+tablespoon";;;;;
+"Fetaost 
+Feta cheese";"Ost
+Cheese";;;;;60a;"desiliter (terninger) 
+decilitre (in cubes)";;;;;
+"Gammelost 
+Traditional Norwegian cheese, matured, Gammelost";"Ost
+Cheese";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Gomme 
+Traditional Norwegian cheese, Gomme";"Ost
+Cheese";;;;;115a;"desiliter 
+decilitre";;;;;
+"Gomme 
+Traditional Norwegian cheese, Gomme";"Ost
+Cheese";;;;;20a;"spiseskje 
+tablespoon";;;;;
+"Hvitmuggost (brie, camembert o.l.) 
+Soft-ripened cheese (brie, camembert etc)";"Ost
+Cheese";;;;;13a;"skive (skåret med kniv) 
+slice (sliced with a knife)";;;;;
+"Hvitost, gulost 
+White or yellow hard to semi-hard cheese";"Ost
+Cheese";;;;;40a;"desiliter 
+decilitre";;;;;
+"Hvitost, gulost 
+White or yellow hard to semi-hard cheese";"Ost
+Cheese";;;;;10a;"skive (skåret med ostehøvel) 
+slice (sliced with a cheese slicer)";;;;;
+"Hvitost, gulost 
+White or yellow hard to semi-hard cheese";"Ost
+Cheese";;;;;20ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Hvitost, gulost 
+White or yellow hard to semi-hard cheese";"Ost
+Cheese";;;;;13i;"ferdigskivet 
+pre-sliced cheese";;;;;
+"Kremost 
+Cream cheese";"Ost
+Cheese";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Mozzarella 
+Mozzarella";"Ost
+Cheese";;;;;40f;"desiliter 
+decilitre";;;;;
+"Mozzarella 
+Mozzarella";"Ost
+Cheese";;;;;125o;"stk 
+one";;;;;
+"Parmesan 
+Parmesan";"Ost
+Cheese";;;;;40a;"desiliter 
+decilitre";;;;;
+"Parmesan 
+Parmesan";"Ost
+Cheese";;;;;6a;"spiseskje 
+tablespoon";;;;;
+"Prim 
+Sweet spread made of whey, Prim";"Ost
+Cheese";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Pultost 
+Traditional Norwegian cheese, Pultost";"Ost
+Cheese";;;;;10ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Smelteost 
+Cheese spread";"Ost
+Cheese";;;;;10ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Egg, kokt 
+Egg, boiled";"Egg 
+Eggs";;;;;;;64d;88f;56b;;
+"Egg, rå 
+Egg, raw";"Egg 
+Eggs";;;;;100ag;"desiliter 
+decilitre";63æ;88ak;55b;;
+"Egg, stekt 
+Egg, pan-fried";"Egg 
+Eggs";;;;;;;;;48d;;
+"Eggehvite 
+Egg white";"Egg 
+Eggs";;;;;100ag;"desiliter 
+decilitre";;;37ag;;
+"Eggeplomme 
+Egg yolk";"Egg 
+Eggs";;;;;100ag;"desiliter 
+decilitre";;;18ag;;
+"Eggerøre 
+Scrambled eggs";"Egg 
+Eggs";;;;;90ag;"desiliter 
+decilitre";;;;;
+"Eggerøre 
+Scrambled eggs";"Egg 
+Eggs";;;;;50ģ;"porsjon 
+portion";;;;;
+"Omelett 
+Omelette";"Egg 
+Eggs";;;;;125ģ;"porsjon 
+portion";;;;;
+"ekstra store egg 
+extra large eggs";"Egg 
+Eggs";;;;;;;78;;;;
+"store egg 
+large eggs";"Egg 
+Eggs";;;;;;;68;;;;
+"mellomstore egg 
+medium eggs";"Egg 
+Eggs";;;;;;;58;;;;
+"små egg 
+small eggs";"Egg 
+Eggs";;;;;;;48;;;;
+"Andekjøtt, med skinn 
+Duck meat, with skin";"Fugl rå
+Poultry raw";;;;;;;;100j;;375d;
+"Andekjøtt, uten skinn 
+Duck meat, without skin";"Fugl rå
+Poultry raw";;;;;;;;100j;;395d;
+"Gåsekjøtt, med skinn 
+Goose meat, with skin";"Fugl rå
+Poultry raw";;;;;;;;100j;;365d;
+"Gåsekjøtt, uten skinn 
+Goose meat, without skin";"Fugl rå
+Poultry raw";;;;;;;;100j;;485d;
+"Hønsekjøtt 
+Chicken, hen meat";"Fugl rå
+Poultry raw";;;;;;;;100j;;215d;
+"Kalkunkjøtt 
+Turkey meat";"Fugl rå
+Poultry raw";;;;;;;;100j;;195f;
+"Kylling, hel, kjøtt med skinn 
+Chicken, with skin";"Fugl rå
+Poultry raw";;;;;;;1400y;71y;990b;195f;
+"Kylling, hel, kjøtt uten skinn 
+Chicken, without skin";"Fugl rå
+Poultry raw";;;;;;;1200y;66y;785b;195f;
+"Kylling, lår, med skinn 
+Chicken, thigh and drumstick, with skin";"Fugl rå
+Poultry raw";;;;;;;215y;78y;170b;195f;
+"Kylling, lår, uten skinn 
+Chicken, thigh and drumstick, without skin";"Fugl rå
+Poultry raw";;;;;;;185y;74y;140b;195f;
+"Kylling, lårklubbe, med skinn 
+Chicken, drumstick, with skin";"Fugl rå
+Poultry raw";;;;;;;100y;69y;70b;195f;
+"Kylling, lårklubbe, uten skinn 
+Chicken, drumstick, without skin";"Fugl rå
+Poultry raw";;;;;;;90y;66y;60b;195f;
+"Kylling, vinge, med skinn 
+Chicken, wing, with skin";"Fugl rå
+Poultry raw";;;;;;;30y;66y;20b;195f;
+"Kylling, vinge, uten skinn 
+Chicken, wing, without skin";"Fugl rå
+Poultry raw";;;;;;;22y;56y;12b;195f;
+"Kyllingfilet 
+Chicken breast fillet";"Fugl rå
+Poultry raw";;;;;;;175x;100h;175b;195d;
+"Andekjøtt, ovnsstekt 
+Duck meat, roasted";"Fugl tilberedt 
+Poultry prepared";;;;;;;;100j;;150ģ;
+"Gåsekjøtt, ovnsstekt 
+Goose meat, roasted";"Fugl tilberedt 
+Poultry prepared";;;;;;;;100j;;150ģ;
+"Hønsekjøtt, kokt 
+Hen meat, boiled";"Fugl tilberedt 
+Poultry prepared";;;;;;;;100j;;150ģ;
+"Kyllingfilet, kokt 
+Chicken breast fillet, boiled";"Fugl tilberedt 
+Poultry prepared";;;;;;;120d;100h;120b;150ģ;
+"Kyllingfilet, ovnsstekt 
+Chicken breast fillet, roasted";"Fugl tilberedt 
+Poultry prepared";;;;;;;140d;100h;140b;150ģ;
+"Kyllingfilet, stekt i panne 
+Chicken breast fillet, pan-fried";"Fugl tilberedt 
+Poultry prepared";;;;;;;140d;100h;140b;150ģ;
+"Kotelett, kjøtt med fettrand 
+Chops, with fat";"Kjøtt lam rå 
+Meat lamb raw";;;;;;;145o;73ø;105b;270d;
+"Kotelett, kjøtt uten fettrand 
+Chops, fat trimmed";"Kjøtt lam rå 
+Meat lamb raw";;;;;;;;58ø;;270d;
+"Lår, med mørbrad 
+Leg, with shank and sirloin";"Kjøtt lam rå 
+Meat lamb raw";;;;;;;;79ab;;265d;
+"Kotelett, stekt 
+Chops, cutlet, pan-fried";"Kjøtt lam stekt 
+Meat lamb prepared";;;;;;;80d;72o;60b;150ģ;
+"Lårstek med mørbrad, ovnsstekt 
+Leg, with shank and sirloin, roasted";"Kjøtt lam stekt 
+Meat lamb prepared";;;;;;;;100j;;150ģ;
+"Entrecôtekam 
+Rib-eye steak, fillet steak";"Kjøtt storfe rå 
+Meat beef raw";;;;;;;;78ab;;195d;
+"Kalvekjøtt 
+Veal";"Kjøtt storfe rå 
+Meat beef raw";;;;;;;;;;200f;
+"Storfekjøtt 
+Beef";"Kjøtt storfe rå 
+Meat beef raw";;;;;;;;;;200f;
+"Ytrefilet 
+Striploin";"Kjøtt storfe rå 
+Meat beef raw";;;;;;;;100j;;200d;
+"Entrecôtekam, stekt 
+Rib-eye steak, fillet steak, roasted";"Kjøtt storfe tilberedt
+Meat beef prepared";;;;;;;;71j;;150ģ;
+"Kalvekjøtt, tilberedt 
+Veal, prepared";"Kjøtt storfe tilberedt
+Meat beef prepared";;;;;;;;;;150ģ;
+"Storfekjøtt, tilberedt 
+Beef, prepared";"Kjøtt storfe tilberedt
+Meat beef prepared";;;;;;;;;;150ģ;
+"Ytrefilet, stekt 
+Striploin, roasted";"Kjøtt storfe tilberedt
+Meat beef prepared";;;;;;;;100j;;150ģ;
+"Bacon 
+Bacon";"Kjøtt svin rå 
+Meat pork raw";;;;;20a;"skive
+rasher";;;;;
+"Familieribbe 
+Rib with loin";"Kjøtt svin rå 
+Meat pork raw";;;;;;;;86j;;230d;
+"Flatbiff 
+Inside round";"Kjøtt svin rå 
+Meat pork raw";;;;;;;;100å;;200d;
+"Kotelett, kam, med fettrand 
+Pork Chops, loin with bones";"Kjøtt svin rå 
+Meat pork raw";;;;;;;170o;77å;130b;200d;
+"Nakkekotelett 
+Pork neck chops";"Kjøtt svin rå 
+Meat pork raw";;;;;;;220o;83å;180b;230d;
+"Sideflesk 
+Side bacon";"Kjøtt svin rå 
+Meat pork raw";;;;;;;;93ae;;150w;
+"Svinekjøtt 
+Pork ";"Kjøtt svin rå 
+Meat pork raw";;;;;;;;;;200f;
+"Bacon, stekt 
+Bacon, pan-fried";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;6d;"skive
+rasher";;100j;;;
+"Familieribbe, stekt 
+Rib with loin, roasted";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;;80j;;150ģ;
+"Flatbiff, stekt 
+Inside round, roasted";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;;100j;;150ģ;
+"Kotelett, kam med fettrand, stekt 
+Loin chops with bones, roasted";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;130d;79j;100b;150ģ;
+"Nakkekotelett, stekt 
+Pork neck chops, roasted";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;145d;77j;110b;150ģ;
+"Sideflesk, stekt 
+Side bacon, pan-fried";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;;100j;;55d;
+"Svinekjøtt, tilberedt 
+Pork meat, prepared";"Kjøtt svin tilberedt
+ Meat pork prepared";;;;;;;;;;150ģ;
+"Viltkjøtt, rå 
+Venison, raw";"Vilt 
+Venison";;;;;;;;;;200d;
+"Viltkjøtt, tilberedt 
+Venison, prepared";"Vilt tilberedt
+Venison";;;;;;;;;;150ģ;
+"Falukorv 
+Swedish sausage";"Kjøtt pølser
+ Meat sausages";;;;;400/800o;"stk 
+per item";;;;;
+"Grillpølse 
+Grill sausage, hot dogs";"Kjøtt pølser
+ Meat sausages";;;;;60o;"stk 
+per item";;;;;
+"Grillpølse, kylling og kalkun 
+Grill sausage, chicken and turkey";"Kjøtt pølser
+ Meat sausages";;;;;60o;"stk 
+per item";;;;;
+"Grillpølse, med mindre fett 
+Grill sausage, lean";"Kjøtt pølser
+ Meat sausages";;;;;60o;"stk 
+per item";;;;;
+"Kjøttpølse 
+Meat sausage";"Kjøtt pølser
+ Meat sausages";;;;;90/150o;"stk 
+per item";;;;;
+"Kjøttpølse, med mindre fett 
+Meat sausage, lean";"Kjøtt pølser
+ Meat sausages";;;;;90o;"stk 
+per item";;;;;
+"Knakkpølse 
+Mild dinner sausage, Knakkpølse";"Kjøtt pølser
+ Meat sausages";;;;;65o;"stk 
+per item";;;;;
+"Kylling- og kalkunpølse, med mindre fett 
+Chicken and turkey sausage, lean";"Kjøtt pølser
+ Meat sausages";;;;;60o;"stk 
+per item";;;;;
+"Kylling- og kalkunpølse, med ost 
+Chicken and turkey sausage, with cheese";"Kjøtt pølser
+ Meat sausages";;;;;60o;"stk 
+per item";;;;;
+"Medisterpølse 
+Pork sausage";"Kjøtt pølser
+ Meat sausages";;;;;400o;"stk 
+per item";;;;;
+"Ostegrill 
+Grill sausage, with cheese";"Kjøtt pølser
+ Meat sausages";;;;;80o;"stk 
+per item";;;;;
+"Sosisser 
+Cocktail sausage";"Kjøtt pølser
+ Meat sausages";;;;;30ag;"stk 
+per item";;;;;
+"Wienerpølse 
+Wiener/frankfurter";"Kjøtt pølser
+ Meat sausages";;;;;65o;"stk 
+per item";;;;;
+"Wienerpølse, med mindre fett 
+Wiener/frankfurter, lean";"Kjøtt pølser
+ Meat sausages";;;;;65o;"stk 
+per item";;;;;
+"Bayonneskinke 
+Smoked picnic shoulder";"Kjøtt pålegg
+ Meat cold cuts";;;;;15m;"Pr skive
+ Per slice";;;;;
+"Fenalår 
+Cured leg of mutton";"Kjøtt pålegg
+ Meat cold cuts";;;;;15ag;"Pr skive
+ Per slice";;;;;
+"Fleskepølse 
+Pork sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr skive
+ Per slice";;;;;
+"Fårepølse 
+Mutton sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;5n;"Pr skive
+ Per slice";;;;;
+"Kalkunfilet 
+Turkey ham, for sandwiches";"Kjøtt pålegg
+ Meat cold cuts";;;;;11o;"Pr skive
+ Per slice";;;;;
+"Kalverull 
+Veal roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;12ag;"Pr skive
+ Per slice";;;;;
+"Kokt skinke 
+Boiled ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;12o;"Pr skive
+ Per slice";;;;;
+"Lammerull 
+Lamb roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;12a ;"Pr skive
+ Per slice";;;;;
+"Leverpostei 
+Liver paste";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr skive
+ Per slice";;;;;
+"Morrpølse 
+Sausage, cured, Morr";"Kjøtt pålegg
+ Meat cold cuts";;;;;2a;"Pr skive
+ Per slice";;;;;
+"Okserull 
+Rolled beef";"Kjøtt pålegg
+ Meat cold cuts";;;;;9o;"Pr skive
+ Per slice";;;;;
+"Reinsdyrpølse 
+Reindeer sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;3,5a;"Pr skive
+ Per slice";;;;;
+"Ribberull 
+Pork roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;14a;"Pr skive
+ Per slice";;;;;
+"Roastbiff 
+Roast beef";"Kjøtt pålegg
+ Meat cold cuts";;;;;13a;"Pr skive
+ Per slice";;;;;
+"Salami 
+Salami";"Kjøtt pålegg
+ Meat cold cuts";;;;;7a;"Pr skive
+ Per slice";;;;;
+"Salami, dansk type 
+Salami, Danish";"Kjøtt pålegg
+ Meat cold cuts";;;;;10a;"Pr skive
+ Per slice";;;;;
+"Salami, med mindre fett 
+Salami, lean";"Kjøtt pålegg
+ Meat cold cuts";;;;;7o;"Pr skive
+ Per slice";;;;;
+"Servelat 
+Bologna";"Kjøtt pålegg
+ Meat cold cuts";;;;;9o;"Pr skive
+ Per slice";;;;;
+"Servelat, med mindre fett 
+Bologna, lean";"Kjøtt pålegg
+ Meat cold cuts";;;;;9o;"Pr skive
+ Per slice";;;;;
+"Spekeskinke 
+Smoke-cured ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;8a;"Pr skive
+ Per slice";;;;;
+"Stabburpølse 
+Sausage, Stabburpølse";"Kjøtt pålegg
+ Meat cold cuts";;;;;4,5a;"Pr skive
+ Per slice";;;;;
+"Svinekam, røkt 
+Pork loin, smoked";"Kjøtt pålegg
+ Meat cold cuts";;;;;15f;"Pr skive
+ Per slice";;;;;
+"Sylte 
+Head cheese";"Kjøtt pålegg
+ Meat cold cuts";;;;;11m;"Pr skive
+ Per slice";;;;;
+"Westfalerskinke 
+Cured ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;12ag;"Pr skive
+ Per slice";;;;;
+"Bayonneskinke 
+Smoked picnic shoulder";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Fenalår 
+Cured leg of mutton";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Fleskepølse 
+Pork sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;15f;"Pr brødskive 
+Per slice of bread";;;;;
+"Fårepølse 
+Mutton sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Kalkunfilet 
+Turkey ham, for sandwiches";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Kalverull 
+Veal roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Kokt skinke 
+Boiled ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Lammerull 
+Lamb roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Leverpostei 
+Liver paste";"Kjøtt pålegg
+ Meat cold cuts";;;;;20g;"Pr brødskive 
+Per slice of bread";;;;;
+"Morrpølse 
+Sausage, cured, Morr";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Okserull 
+Rolled beef";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Reinsdyrpølse 
+Reindeer sausage";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Ribberull 
+Pork roll";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Roastbiff 
+Roast beef";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Salami 
+Salami";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Salami, dansk type 
+Salami, Danish";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Salami, med mindre fett 
+Salami, lean";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Servelat 
+Bologna";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Servelat, med mindre fett 
+Bologna, lean";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Spekeskinke 
+Smoke-cured ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Stabburpølse 
+Sausage, Stabburpølse";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Svinekam, røkt 
+Pork loin, smoked";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Sylte 
+Head cheese";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Westfalerskinke 
+Cured ham";"Kjøtt pålegg
+ Meat cold cuts";;;;;;"Pr brødskive 
+Per slice of bread";;;;;
+"Bogskinke, hermetisk 
+Boiled ham, canned";"Kjøttprodukter 
+Meat products";;;;;25a;"skive 
+slice";;;;;
+"Hamburger, rå 
+Ground meat, raw";"Kjøttprodukter 
+Meat products";;;;;100o;"stk 
+one";;;;;
+"Karbonade,stekt 
+Beef patties, fried";"Kjøttprodukter 
+Meat products";;;;;100o;"stk 
+one";;;;150g;
+"Kjøttboller, hermetisk 
+Meat balls, canned";"Kjøttprodukter 
+Meat products";;;;;9a;"stk 
+one";;;;150g;
+"Kjøttboller, kylling og kalkun 
+Chicken and turkey meat balls";"Kjøttprodukter 
+Meat products";;;;;15a;"stk 
+one";;;;150g;
+"Kjøttkaker 
+Meat rissoles";"Kjøttprodukter 
+Meat products";;;;;55o;"stk 
+one";;;;150g;
+"Kjøttpudding 
+Meat loaf";"Kjøttprodukter 
+Meat products";;;;;30a;"skive 
+slice";;;;150g;
+"Kyllingnuggets, dagligvare 
+Chicken nuggets, industrially made";"Kjøttprodukter 
+Meat products";;;;;20o;"stk 
+one";;;;;
+"Kyllingnuggets, fastfood 
+Chicken nuggets, fastfood";"Kjøttprodukter 
+Meat products";;;;;16a;"stk 
+one";;;;;
+"Medisterkaker, stekt 
+Pork patties, fried";"Kjøttprodukter 
+Meat products";;;;;80o;"stk 
+one";;;;150g;
+"Ostepanetter med kylling 
+Chicken schnitzel, with cheese";"Kjøttprodukter 
+Meat products";;;;;75o;"stk 
+one";;;;;
+"Reinsdyrkaker, hermetisk 
+Reindeer meat balls, canned";"Kjøttprodukter 
+Meat products";;;;;15ag;"stk 
+one";;;;150g;
+"Wienersnitzel 
+Wienerschnitzel";"Kjøttprodukter 
+Meat products";;;;;150o;"stk 
+one";;;;;
+"Fet fisk, rå 
+Fatty fish, raw";"Fet fisk 
+Fatty fish";;;;;;"stk 
+one";;;;175d;
+"Fet fisk, tilberedt 
+Fatty fish, prepared";"Fet fisk tilberedt
+Fatty fish prepared";;;;;;"stk 
+one";;;;150ģ;
+"Laksefilet, rå 
+Salmon fillet, raw";"Fet fisk 
+Fatty fish";;;;;125x;"stk 
+one";;;;175d;
+"Laksefilet, tilberedt 
+Salmon fillet, prepared";"Fet fisk tilberedt
+Fatty fish prepared";;;;;110d;"stk 
+one";;;;150ģ;
+"Ørretfilet, rå 
+Trout fillet, raw";"Fet fisk 
+Fatty fish";;;;;160o;"stk 
+one";;;;175f;
+"Ørretfilet, tilberedt 
+Trout fillet, prepared";"Fet fisk tilberedt
+Fatty fish prepared";;;;;140d;"stk 
+one";;;;150ģ;
+"Lutefisk 
+Cod, traditional Norwegian dish, Lutefisk";"Mager fisk 
+Lean fish";;;;;;"stk 
+one";;;;500p;
+"Mager fisk, rå 
+Lean fish, raw";"Mager fisk 
+Lean fish";;;;;;"stk 
+one";;;;270d;
+"Mager fisk, tilberedt 
+Lean fish, prepared";"Mager fisk tilberedt 
+Lean fish prepared";;;;;;"stk 
+one";;;;200ģ;
+"Rødspette, fylt, forfritert, frossen 
+Plaice, filled, pre-fried, frozen";"Mager fisk tilberedt 
+Lean fish prepared";;;;;150o;"stk 
+one";;;;200ģ;
+"Rødspettefilet, kavringpanert, rå 
+Plaice fillet, rolled in breadcrumps, raw";"Mager fisk tilberedt 
+Lean fish prepared";;;;;100o;"stk 
+one";;;;200ģ;
+"Seibiff, panert, frossen 
+Saithe, rolled in flour, frozen";"Mager fisk tilberedt 
+Lean fish prepared";;;;;90o;"stk 
+one";;;;200ģ;
+"Torsk, forfritert, fylt, frossen 
+Cod, filled, pre-fried, frozen";"Mager fisk tilberedt 
+Lean fish prepared";;;;;150o;"stk 
+one";;;;200ģ;
+"Torskefilet, panert, rå 
+Cod fillet, rolled in flour, raw";"Mager fisk tilberedt 
+Lean fish prepared";;;;;100o;"stk 
+one";;;;200ģ;
+"Torskefilet, rå 
+Cod fillet, raw";"Mager fisk 
+Lean fish";;;;;125x;"stk 
+one";;;;270d;
+"Torskefilet, tilberedt 
+Cod fillet, prepared";"Mager fisk tilberedt 
+Lean fish prepared";;;;;90d;"stk 
+one";;;;200ģ;
+"Ansjos, hermetisk 
+Anchovies, canned";"Fiskepålegg
+ Fish spread";;;;;20ag;"stk 
+one";;;;;
+"Brisling, hermetisk 
+Sprat, canned";"Fiskepålegg
+ Fish spread";;;;;25ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Gaffelbiter 
+Anchovy fillets, canned";"Fiskepålegg
+ Fish spread";;;;;5ag;"stk 
+one";;;;;
+"Kabaret 
+Fish in aspic";"Fiskepålegg
+ Fish spread";;;;;40m;"skive 
+slice";;;;;
+"Kaviar 
+Caviar";"Fiskepålegg
+ Fish spread";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Kaviar 
+Caviar";"Fiskepålegg
+ Fish spread";;;;;15a;"spiseskje 
+tablespoon";;;;;
+"Kryddersild, sursild 
+Pickled herring";"Fiskepålegg
+ Fish spread";;;;;25ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Laks, røkt/gravet 
+Salmon, smoked, dry salted";"Fiskepålegg
+ Fish spread";;;;;25a;"skive 
+slice";;;;;
+"Makrell i tomat, hermetisk 
+Mackerel fillet, in tomato sauce, canned";"Fiskepålegg
+ Fish spread";;;;;40ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Makrell, kaldrøkt/varmrøkt 
+Mackerel, cold smoked, warm smoked";"Fiskepålegg
+ Fish spread";;;;;25ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Rognleverpostei 
+Roe paste, canned";"Fiskepålegg
+ Fish spread";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Ørret, røkt/gravet 
+Trout, smoked, dry salted";"Fiskepålegg
+ Fish spread";;;;;20a;"skive 
+slice";;;;;
+"Fiskeboller 
+Fish balls";"Fiskeprodukter 
+Fish products";;;;;25a;"stk 
+one";;;;;
+"Fiskeburger, fastfood 
+Fish burger, fastfood";"Fiskeprodukter 
+Fish products";;;;;130a;"stk 
+one";;;;;
+"Fiskekaker 
+Fish cakes";"Fiskeprodukter 
+Fish products";;;;;55o;"stk 
+one";;;;;
+"Fiskekarbonader 
+Fish patty";"Fiskeprodukter 
+Fish products";;;;;100o;"stk 
+one";;;;;
+"Fiskepaté 
+Fish paté";"Fiskeprodukter 
+Fish products";;;;;50n;"skive 
+slice";;;;;
+"Fiskepinner 
+Fish fingers";"Fiskeprodukter 
+Fish products";;;;;25o;"stk 
+one";;;;;
+"Fiskepinner, stekt 
+Fish fingers, fried";"Fiskeprodukter 
+Fish products";;;;;22d;"stk 
+one";;;;;
+"Fiskepudding 
+Fish pudding";"Fiskeprodukter 
+Fish products";;;;;40a;"skive 
+slice";;;;;
+"Torskerogn 
+Cod roe";"Fiskeprodukter 
+Fish products";;;;;45ag;"skive 
+slice";;;;;
+"Tunfisk, hermetisk 
+Tuna, canned";"Fiskeprodukter 
+Fish products";;;;;14a;"spiseskje 
+tablespoon";;;;;
+"Tunfisk, hermetisk 
+Tuna, canned";"Fiskeprodukter 
+Fish products";;;;;95a;"desiliter 
+decilitre";;;;;
+"Blåskjell, hermetisk 
+Mussel, canned";"Skalldyr 
+Shellfish";;;;;70ag;"desiliter 
+decilitre";;100j;8f;;
+"Blåskjell, rå 
+Mussel, raw";"Skalldyr 
+Shellfish";;;;;115r,v;"porsjon 
+portion";15ag;49an;8b;;
+"Blåskjell, rå 
+Mussel, raw";"Skalldyr 
+Shellfish";;;;;70ag;"desiliter 
+decilitre";;;;;
+"Hummer, kokt 
+Lobster, boiled";"Skalldyr tilberedt
+Shellfish prepared";;;;;150r,v;"porsjon 
+portion";;28an;;;
+"Kamskjell, rå 
+Scallop, raw";"Skalldyr 
+Shellfish";;;;;;;10am;;8am;;
+"Krabbe, kokt 
+Crab, boiled";"Skalldyr tilberedt
+Shellfish prepared";;;;;150r,v;"porsjon 
+portion";;40ai;;;
+"Krabbepinner, crabsticks 
+Crab sticks";"Skalldyr 
+Shellfish";;;;;;;;100j;17m;;
+"Kreps, kokt 
+Crawfish, boiled";"Skalldyr tilberedt
+Shellfish prepared";;;;;150r,v;"porsjon 
+portion";;12an;;;
+"Reker, i lake 
+Shrimps, in brine";"Skalldyr 
+Shellfish";;;;;70a;"desiliter 
+decilitre";;100j;;;
+"Reker, innbakt, forfritert 
+Shrimps, battered, pre-fried";"Skalldyr tilberedt
+Shellfish prepared";;;;;190d;"porsjon 
+portion";;100j;7a;;
+"Reker, innbakt, forfritert, stekt 
+Shrimps, battered, pre-fried, prepared";"Skalldyr tilberedt
+Shellfish prepared";;;;;150g;"porsjon 
+portion";;100j;5,5d;;
+"Reker, kokt 
+Shrimps, boiled";"Skalldyr 
+Shellfish";;;;;150r,v;"porsjon 
+portion";;33ai;;;
+"Snegler, hermetisk 
+Snails, canned";"Skalldyr 
+Shellfish";;;;;70m;"desiliter 
+decilitre";;100an;;;
+"Østers 
+Oyster";"Skalldyr 
+Shellfish";;;;;;;100am;10an;10b;;
+"Bokhvetemel 
+Buckwheat flour";"Korn mel 
+Grain flours";65a;10a;11f;4,5f;;;;;;;
+"Byggmel 
+Barley flour";"Korn mel 
+Grain flours";60a;9a;9a;4a;;;;;;;
+"Finbakstmel 
+Wheat flour, cake flour";"Korn mel 
+Grain flours";65a;10a;11a;4,5a;;;;;;;
+"Glutenfri fin kakemiks 
+Gluten-free cake mix";"Korn mel 
+Grain flours";40f;7f;8f;3,5f;;;;;;;
+"Glutenfritt mel, grovt 
+Gluten-free flour, wholemeal";"Korn mel 
+Grain flours";45a;8a;9a;4a;;;;;;;
+"Glutenfritt mel, lyst 
+Gluten-free flour, white";"Korn mel 
+Grain flours";40a;7a;8a;3,5a;;;;;;;
+"Grovbakstmel 
+Wholemeal flour";"Korn mel 
+Grain flours";65a;10a;11a;4,5a;;;;;;;
+"Havrekli 
+Oatbran";"Korn mel 
+Grain flours";50a;7a;7a;3a;;;;;;;
+"Havremel 
+Oatmeal";"Korn mel 
+Grain flours";55a;7a;7a;3a;;;;;;;
+"Hvetekim 
+Wheatgerm";"Korn mel 
+Grain flours";35a;5a;5a;2a;;;;;;;
+"Hvetekli 
+Wheatbran";"Korn mel 
+Grain flours";25a;4a;3,5a;1,5a;;;;;;;
+"Hvetemel, sammalt 
+Wheat flour, wholemeal";"Korn mel 
+Grain flours";60a;9a;9a;3,5a;;;;;;;
+"Hvetemel, siktet 
+Wheat flour";"Korn mel 
+Grain flours";55a;9a;9a;4a;;;;;;;
+"Maismel, polenta 
+Cornmeal, polenta";"Korn mel 
+Grain flours";65a;12a;12a;4,5a;;;;;;;
+"Maisstivelse 
+Corn starch";"Korn mel 
+Grain flours";60a;9a;9a;3,5a;;;;;;;
+"Potetmel, potetstivelse 
+Potato starch";"Korn mel 
+Grain flours";70a;11a;11a;4,5a;;;;;;;
+"Rismel 
+Rice flour";"Korn mel 
+Grain flours";70a;11f;11f;4,5f;;;;;;;
+"Rugmel, sammalt 
+Rye flour, wholemeal";"Korn mel 
+Grain flours";55a;9a;9a;4a;;;;;;;
+"Rugmel, siktet 
+Rye flour";"Korn mel 
+Grain flours";50a;9a;9a;4a;;;;;;;
+"Soyamel 
+Soy flour";"Korn mel 
+Grain flours";45a;8a;9f;4f;;;;;;;
+"Bokhvete, hele korn 
+Buckwheat, grain";"Gryn 
+Grains";75a;12a;10a;;;;;;;;
+"Bulgurgryn, kokt 
+Bulgur, cooked";"Gryn 
+Grains";;;;;225d;"porsjon 
+portion";;;;;
+"Bulgurgryn, tørr 
+Bulgur, uncooked";"Gryn 
+Grains";80a;13a;13a;;75f;"porsjon 
+portion";;;;;
+"Byggryn 
+Pearl barley";"Gryn 
+Grains";80a;13a;13a;;;;;;;;
+"Couscous, kokt 
+Couscous, cooked";"Gryn 
+Grains";;;;;190d;"porsjon 
+portion";;;;;
+"Couscous, tørr 
+Couscous, uncooked";"Gryn 
+Grains";75a;11a;11a;;75v;"porsjon 
+portion";;;;;
+"Havregryn 
+Rolled oats";"Gryn 
+Grains";40a;5a;6a;;"100ģ 
+";"porsjon 
+portion";;;;;
+"Hirse, hele korn 
+Millet, grain";"Gryn 
+Grains";80am;13f;12am;;;;;;;;
+"Hvete, hele korn 
+Wheat, grain";"Gryn 
+Grains";60a;9a;9a;;;;;;;;
+"Quinoa, kokt 
+Quinoa, cooked";"Gryn 
+Grains";;;;;185d;"porsjon 
+portion";;;;;
+"Quinoa, tørr 
+Quinoa, uncooked";"Gryn 
+Grains";70a;11a;11a;;75v;"porsjon 
+portion";;;;;
+"Semulegryn, hvetegryn 
+Semolina, wheat meal";"Gryn 
+Grains";70a;10a;10a;;;;;;;;
+"Sorghum 
+Sorghum";"Gryn 
+Grains";75f;12f;10f;;;;;;;;
+"Fersk pasta 
+Fresh pasta";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;110d;
+"Fersk pasta, kokt 
+Fresh pasta, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;195ģ;
+"Fersk pasta, Ravioli 
+Fresh pasta, Ravioli";"Pasta ris nuddler 
+Pasta rice noodles";;;;;35a;"desiliter 
+decilitre";;;;;
+"Fersk pasta, Ravioli 
+Fresh pasta, Ravioli";"Pasta ris nuddler 
+Pasta rice noodles";;;;;3,5a;"stk 
+one";;;;;
+"Fersk pasta, Tortellini 
+Fresh pasta, Tortellini";"Pasta ris nuddler 
+Pasta rice noodles";;;;;45a;"desiliter 
+decilitre";;;;;
+"Fersk pasta, Tortellini 
+Fresh pasta, Tortellini";"Pasta ris nuddler 
+Pasta rice noodles";;;;;5a;"stk 
+one";;;;;
+"Fullkornpasta, kokt 
+Whole-grain pasta, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;195ģ;
+"Fullkornpasta, tørr 
+Whole-grain pasta, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;30f;"desiliter 
+decilitre";;;;85d;
+"Grøtris 
+Porridge rice";"Pasta ris nuddler 
+Pasta rice noodles";;;;;90a;"desiliter 
+decilitre";;;;;
+"Hurtigris, kokt 
+Pre-boiled rice, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;160ģ;
+"Hurtigris, tørr 
+Pre-boiled rice, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;50a;"desiliter 
+decilitre";;;;;
+"Lasagneplater, kokt 
+Lasagne sheets, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;45d;"stk 
+one";;;;;
+"Lasagneplater, tørr 
+Lasagne sheets, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;17a;"stk 
+one";;;;;
+"Makaroni, kokt 
+Macaroni, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;195ģ;
+"Makaroni, tørr 
+Macaroni, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;40a;"desiliter 
+decilitre";;;;75d;
+"Nudler, med egg, kokt 
+Egg noodles, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;220d;
+"Nudler, med egg, tørr 
+Egg noodles, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;85ģ;
+"Nudler, uten egg, kokt 
+Noodles, without egg, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;180d;
+"Nudler, uten egg, tørr 
+Noodles, without egg, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;85ģ;
+"Pasta, kokt 
+Pasta, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;195ģ;
+"Pasta, tørr 
+Pasta, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;30a;"desiliter 
+decilitre";;;;75d;
+"Ris, kokt 
+Rice, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;160ģ;
+"Ris, tørr 
+Rice, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;80a;"desiliter 
+decilitre";;;;55d;
+"Spagetti, kokt 
+Spaghetti, cooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;195ģ;
+"Spagetti, tørr 
+Spaghetti, uncooked";"Pasta ris nuddler 
+Pasta rice noodles";;;;;;;;;;65d;
+"Corn flakes 
+Corn flakes";"Korn frokostblanding 
+Grain breakfast cereal";14a;;3a;;;;;;;35ģ;
+"Corn flakes, søtet, type Frosties 
+Corn flakes, sweetened, Frosties";"Korn frokostblanding 
+Grain breakfast cereal";16a;;3a;;;;;;;35ģ;
+"Frokostkorn med sjokoladesmak 
+Breakfast cereal, chocolate flavored";"Korn frokostblanding 
+Grain breakfast cereal";15a;;3a;;;;;;;35ģ;
+"Havreputer 
+Oat pillows";"Korn frokostblanding 
+Grain breakfast cereal";12a;;2,5a;;;;;;;35ģ;
+"Müsli, kornblanding 
+Muesli";"Korn frokostblanding 
+Grain breakfast cereal";50a;;7a;;;;;;;100ģ;
+"Puffet havre, havrenøtter 
+Puffed oats";"Korn frokostblanding 
+Grain breakfast cereal";9a;;2a;;;;;;;35ģ;
+"Puffet hvete, hvetenøtter 
+Puffed wheat";"Korn frokostblanding 
+Grain breakfast cereal";9f;;2f;;;;;;;35ģ;
+"Puffet hvete, med sukker og honning, type Honnikorn 
+Puffed wheat, with sugar and honey, Honnikorn";"Korn frokostblanding 
+Grain breakfast cereal";13a;;2,5f;;;;;;;35ģ;
+"Puffet ris 
+Puffed rice";"Korn frokostblanding 
+Grain breakfast cereal";9a;;2a;;;;;;;35ģ;
+"Ristet havre, med frukt, olje, type Crüsli 
+Breakfast cereal with oats, fruit and oil, Crüsli";"Korn frokostblanding 
+Grain breakfast cereal";40a;;6a;;;;;;;100ģ;
+"Ristet hvete og ris, type Spesial K 
+Breakfast cereal with wheat and rice, Special K";"Korn frokostblanding 
+Grain breakfast cereal";20a;;3,5a;;;;;;;35ģ;
+"Ristet hveteflak, type All-bran regular 
+Breakfast cereal, All-bran regular";"Korn frokostblanding 
+Grain breakfast cereal";18a;;3,5a;;;;;;;35ģ;
+"Ristet hvetekli, type All-bran plus 
+Breakfast cereal, All-bran plus";"Korn frokostblanding 
+Grain breakfast cereal";25a;;4a;;;;;;;35ģ;
+"Brød, ekstra grovt 
+Bread, extra coarse";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;45a;"Middels skive
+ medium slice";;;;;
+"Brød, grovt 
+Bread, coarse";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;45a;"Middels skive
+ medium slice";;;;;
+"Brød, halvgrovt 
+Bread, semi-coarse";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;45a;"Middels skive
+ medium slice";;;;;
+"Glutenfritt brød, fint 
+Gluten-free bread, fine";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;40a;"Middels skive
+ medium slice";;;;;
+"Glutenfritt brød, grovt 
+Gluten-free bread, coarse";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;45a;"Middels skive
+ medium slice";;;;;
+"Loff 
+Bread, white";"Korn brød hjemmelaget
+ Grains bread homemade";;;;;50a;"Middels skive
+ medium slice";;;;;
+"Brød, ekstra grovt 
+Bread, extra coarse";"Korn brød kjøpt
+ Grains bread storebought";;;;;50a;"Middels skive
+ medium slice";;;;;
+"Brød, grovt 
+Bread, coarse";"Korn brød kjøpt
+ Grains bread storebought";;;;;40a;"Middels skive
+ medium slice";;;;;
+"Brød, halvgrovt 
+Bread, semi-coarse";"Korn brød kjøpt
+ Grains bread storebought";;;;;40a;"Middels skive
+ medium slice";;;;;
+"Loff, formstekt 
+Bread, white, square-shaped";"Korn brød kjøpt
+ Grains bread storebought";;;;;40a;"Middels skive
+ medium slice";;;;;
+"Loff, spiral 
+Bread, white, spirally shaped";"Korn brød kjøpt
+ Grains bread storebought";;;;;30a;"Middels skive
+ medium slice";;;;;
+"Pumpernikkel 
+Pumpernickel";"Korn brød kjøpt
+ Grains bread storebought";;;;;40o;"Middels skive
+ medium slice";;;;;
+"Rugbrød, grovt 
+Bread, rye, coarse";"Korn brød kjøpt
+ Grains bread storebought";;;;;60o;"Middels skive
+ medium slice";;;;;
+"Rundstykke, fint 
+Rolls, white";"Korn rundstykke hjemmelaget
+Grains rolls homemade";;;;;45a;"stk 
+one";;;;;
+"Rundstykke, grovt 
+Rolls, coarse";"Korn rundstykke hjemmelaget
+Grains rolls homemade";;;;;70a;"stk 
+one";;;;;
+"Baguette, halvstekt 
+Baguette, half-baked";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;75/150o,u;"stk 
+one";;;;;
+"Hamburgerbrød 
+Hamburger bun";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;80o,u;"stk 
+one";;;;;
+"Lompe 
+Potato soft flatbread";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;25/35o,u;"stk 
+one";;;;;
+"Pitabrød 
+Pita bread";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;75o,u;"stk 
+one";;;;;
+"Pizzabunn 
+Pizza crust";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;550a;"stk 
+one";;;;;
+"Pølsebrød 
+Hot dog bun";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;30/60o,u;"stk 
+one";;;;;
+"Rundstykke, fint 
+Rolls, fine";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;85a,u;"stk 
+one";;;;;
+"Rundstykke, grovt 
+Rolls, coarse";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;70/100/145a,o,u;"stk 
+one";;;;;
+"Tortilla, hvetelefse, fin 
+Tortilla, wheat flour";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;40/60o,u;"stk 
+one";;;;;
+"Tortilla, hvetelefse, fullkorn 
+Tortilla, wheat flour, wholemeal";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;40/60o,u;"stk 
+one";;;;;
+"Tortilla, maislefse 
+Tortilla, corn flour";"Korn rundstykke kjøpt
+Grains rolls storebought";;;;;40u;"stk 
+one";;;;;
+"Flatbrød 
+Flatbread, hard";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;4ag/20a;"stk 
+one";;;;;
+"Flatbrød, med havre 
+Flatbread, hard, with oats";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;5m;"stk 
+one";;;;;
+"Glutenfritt knekkebrød 
+Gluten-free crisp bread";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;13t;"stk 
+one";;;;;
+"Glutenfritt knekkebrød, hjemmelaget 
+Gluten-free crisp bread, home made";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;13u;"stk 
+one";;;;;
+"Knekkebrød, lyst 
+Crisp bread, light";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;14t;"stk 
+one";;;;;
+"Knekkebrød, med ekstra fiber 
+Crisp bread, with extra fiber";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;11t;"stk 
+one";;;;;
+"Knekkebrød, med havre 
+Crisp bread, with oats";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;18t;"stk 
+one";;;;;
+"Knekkebrød, med rug, grovt 
+Crisp bread, with rye, brown";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;12i;"stk 
+one";;;;;
+"Knekkebrød, med rug, type Husman 
+Crisp bread, with rye, Husman";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;14t;"stk 
+one";;;;;
+"Knekkebrød, tynt, type Rugsprø, Finncrisp 
+Crisp bread, thin, Rugsprø, Finncrisp";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;11t;"stk 
+one";;;;;
+"Riskaker, lettsaltet 
+Rice cake, with salt";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;1,5a/7t;"stk 
+one";;;;;
+"Riskaker, usaltet 
+Rice cake, without salt";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;6u;"stk 
+one";;;;;
+"Tacobåter, trays, tubs 
+Taco boats";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;20u;"stk 
+one";;;;;
+"Tacoskjell 
+Taco shell";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;12u;"stk 
+one";;;;;
+"Barnekjeks 
+Biscuit, for childen";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;3s;"stk 
+one";;;;;
+"Barnekjeks med sjokolade 
+Biscuit, with chocolate, for children";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;7/13o;"stk 
+one";;;;;
+"Bixit 
+Biscuit, with oats, Bixit";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;16s;"stk 
+one";;;;;
+"Cookies, små 
+Cookies, small";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;11a,s;"stk 
+one";;;;;
+"Cookies, store 
+Cookies, large";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;55/85a,o;"stk 
+one";;;;;
+"Cream cracker 
+Cream cracker";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;11a;"stk 
+one";;;;;
+"Digestive, havrekjeks 
+Biscuit, with oats, Digestive";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;15s;"stk 
+one";;;;;
+"Frokost cracker 
+Cracker, Frokost";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;9s;"stk 
+one";;;;;
+"Gjende 
+Biscuit, Gjende";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;7s;"stk 
+one";;;;;
+"Kaptein 
+Cracker, Kaptein";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;7s;"stk 
+one";;;;;
+"Kavring 
+Rusk";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;9n;"stk 
+one";;;;;
+"Kjeks fylt med syltetøy eller frukt 
+Biscuit, filled with jam or fruit";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;13a,s;"stk 
+one";;;;;
+"Kjeks med havre og sjokolade 
+Biscuit, with oats and chocolate";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;13s;"stk 
+one";;;;;
+"Kjeks med kremfyll 
+Biscuit, filled";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;13s;"stk 
+one";;;;;
+"Kornmo 
+Cracker, Kornmo";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;9s;"stk 
+one";;;;;
+"Marie 
+Biscuit, Marie";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;4s;"stk 
+one";;;;;
+"Salte kjeks 
+Cracker, fatty and salted";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;5ag;"stk 
+one";;;;;
+"SIBAS, havrekjeks 
+Biscuit, with oats, SIBAS";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;16s;"stk 
+one";;;;;
+"Start 
+Cracker, Start";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;7s;"stk 
+one";;;;;
+"Vaffelkjeks 
+Wafer, filled";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;5s;"stk 
+one";;;;;
+"Kokosmakroner 
+Coconut macaroon";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;20o/60a;"stk 
+one";;;;;
+"Kransekakestang 
+Almond sticks";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;40o ;"stk 
+one";;;;;
+"Marengs 
+Meringue";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;3a;"stk 
+one";;;;;
+"Pepperkaker 
+Gingersnaps";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;7a;"stk 
+one";;;;;
+"Peppernøtter 
+Ginger nuts";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;5m;"stk 
+one";;;;;
+"Serinakaker 
+Cookie, Serinakake";"Korn kjeks flatbrød knekkebrød
+Grains biscuits";;;;;10ag;"stk 
+one";;;;;
+"Berlinerbolle 
+Berliner, filled doughnut";"Korn kaker
+ Grains cakes";;;;;65a,u;"stk 
+one";;;;;
+"Bløtkake 
+Sponge cake, layered, filled with whipped cream and jam";"Korn kaker
+ Grains cakes";;;;;95ģ;"porsjon 
+portion";;;;;
+"Croissant 
+Croissant";"Korn kaker
+ Grains cakes";;;;;45/80a,u;"stk 
+one";;;;;
+"Cupcakes 
+Cupcakes";"Korn kaker
+ Grains cakes";;;;;60a;"stk 
+one";;;;;
+"Delfiakake 
+Confectionery cake";"Korn kaker
+ Grains cakes";;;;;25ag;"skive 
+slice";;;;;
+"Donuts 
+Doughnuts";"Korn kaker
+ Grains cakes";;;;;65a,o,u;"stk 
+one";;;;;
+"Eplepai, eplekake 
+Apple pie, apple cake";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Formkake 
+Pound cake";"Korn kaker
+ Grains cakes";;;;;45a;"skive 
+slice";;;;;
+"Fyrstekake 
+Macaroon cake, Norwegian Prince cake";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Glutenfrie boller, hjemmelaget 
+Gluten-free sweet bun, home-made";"Korn kaker
+ Grains cakes";;;;;60a;"stk 
+one";;;;;
+"Glutenfrie vafler 
+Gluten-free waffles";"Korn kaker
+ Grains cakes";;;;;85a;"plate 
+waffel";;;;;
+"Glutenfrie vafler 
+Gluten-free waffles";"Korn kaker
+ Grains cakes";;;;;17a;"hjerte 
+piece";;;;;
+"Gulrotkake 
+Carrot cake";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Hvetebolle, rosinbolle, hjemmelaget 
+Sweet bun, raisin bun, home-made";"Korn kaker
+ Grains cakes";;;;;60a;"stk 
+one";;;;;
+"Hvetebolle, rosinbolle, kjøpt 
+Sweet bun, raisin bun, industrially made";"Korn kaker
+ Grains cakes";;;;;50/80/115a,u;"stk 
+one";;;;;
+"Kakelefse, tykklefse, kjøpt 
+Soft Norwegian flatbread, lefse, filled, industrially made";"Korn kaker
+ Grains cakes";;;;;55/120u;"stk 
+one";;;;;
+"Kakelefse, type Vestlandslefsa 
+Soft Norwegian flatbread, Vestlandslefsa";"Korn kaker
+ Grains cakes";;;;;35u;"stk 
+one";;;;;
+"Kanelbolle, skillingsbolle, hjemmelaget 
+Cinnamon roll, home-made";"Korn kaker
+ Grains cakes";;;;;65a;"stk 
+one";;;;;
+"Kanelbolle, skillingsbolle, kjøpt 
+Cinnamon roll, industrially made";"Korn kaker
+ Grains cakes";;;;;50/100/140a,u;"stk 
+one";;;;;
+"Marsipankake 
+Sponge cake, layered, filled with whipped cream and jam, covered with marzipan";"Korn kaker
+ Grains cakes";;;;;95ģ;"porsjon 
+portion";;;;;
+"Mazarin 
+Swedish almond cake, macaroon tea cake";"Korn kaker
+ Grains cakes";;;;;55u;"stk 
+one";;;;;
+"Muffins, kjøpt 
+Muffins, industrially made";"Korn kaker
+ Grains cakes";;;;;35/100/150a,u;"stk 
+one";;;;;
+"Muffins, med glasur og pynt, hjemmelaget 
+Muffins, with icing, home-made";"Korn kaker
+ Grains cakes";;;;;35a;"stk 
+one";;;;;
+"Muffins, uten glasur og pynt, hjemmelaget 
+Muffins, home-made";"Korn kaker
+ Grains cakes";;;;;30a;"stk 
+one";;;;;
+"Napoleonskake 
+Napoleon cake";"Korn kaker
+ Grains cakes";;;;;150i;"stk 
+one";;;;;
+"Ostekake 
+Cheese cake";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Rullekake 
+Swiss roll";"Korn kaker
+ Grains cakes";;;;;25ag;"skive 
+slice";;;;;
+"Rømmevafler 
+Waffles, made with sour cream";"Korn kaker
+ Grains cakes";;;;;75a;"plate 
+waffel";;;;;
+"Rømmevafler 
+Waffles, made with sour cream";"Korn kaker
+ Grains cakes";;;;;15a;"hjerte 
+piece";;;;;
+"Sjokoladekake 
+Chocolate cake";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Skolebrød, skolebolle 
+Sweet bun, with custard, icing and desiccated coconut";"Korn kaker
+ Grains cakes";;;;;115/160a,o,u;"stk 
+one";;;;;
+"Smultringer 
+Doughnuts";"Korn kaker
+ Grains cakes";;;;;45a,u;"stk 
+one";;;;;
+"Solskinnsbolle, kjøpt 
+Sweet bun, with vanilla custard, industrially made";"Korn kaker
+ Grains cakes";;;;;100/125/160a,u;"stk 
+one";;;;;
+"Sukkerbrød 
+Sponge cake, plain";"Korn kaker
+ Grains cakes";;;;;80ģ;"porsjon 
+portion";;;;;
+"Terteskjell 
+Tart shell";"Korn kaker
+ Grains cakes";;;;;30o;"stk 
+one";;;;;
+"Vafler 
+Waffles";"Korn kaker
+ Grains cakes";;;;;85a;"plate 
+waffel";;;;;
+"Vafler 
+Waffles";"Korn kaker
+ Grains cakes";;;;;17a;"hjerte 
+piece";;;;;
+"Vannbakkels, med fyll 
+Cream puff, filled";"Korn kaker
+ Grains cakes";;;;;35ag;"stk 
+one";;;;;
+"Vannbakkels, uten fyll 
+Cream puff";"Korn kaker
+ Grains cakes";;;;;20n;"stk 
+one";;;;;
+"Vørterkake, hvetekake 
+Malt loaf, bread cake";"Korn kaker
+ Grains cakes";;;;;45ag;"skive 
+slice";;;;;
+"Wienerbrød, med eggekrem 
+Danish pastry, with custard filling";"Korn kaker
+ Grains cakes";;;;;80a,u;"stk 
+one";;;;;
+"Wienerbrød, med syltetøy 
+Danish pastry, with jam";"Korn kaker
+ Grains cakes";;;;;50/80m;"stk 
+one";;;;;
+"Cashewnøtter 
+Cashew nuts";"Nøtter frø 
+Nuts seeds";60a;;;;20z;"neve 
+handful";;;;;
+"Gresskarkjerner, squashfrø 
+Pumkpin seeds, squash seeds";"Nøtter frø 
+Nuts seeds";60a;;;;9a;"spiseskje 
+tablespoon";;;;;
+"Hasselnøtter 
+Hazel nuts";"Nøtter frø 
+Nuts seeds";60a;;;;20z;"neve 
+handful";;;;;
+"Kastanjer, ristede 
+Chestnuts, roasted";"Nøtter frø 
+Nuts seeds";70ag;;;;8ar;stk one;;;;;
+"Linfrø 
+Linseeds, flax seeds";"Nøtter frø 
+Nuts seeds";60a;;;;8a;"spiseskje 
+tablespoon";;;;;
+"Macadamianøtter 
+Macadamia nuts";"Nøtter frø 
+Nuts seeds";60a;;;;20z;"neve 
+handful";;;;;
+"Mandler 
+Almonds";"Nøtter frø 
+Nuts seeds";60a;;;;20z;"neve 
+handful";;;;;
+"Paranøtter 
+Brazil nuts";"Nøtter frø 
+Nuts seeds";65a;;;;20z;"neve 
+handful";;;;;
+"Peanøtter 
+Peanuts";"Nøtter frø 
+Nuts seeds";60a;;;;20z;"neve 
+handful";;;;;
+"Peanøttsmør 
+Peanut butter";"Nøtter frø 
+Nuts seeds";;;;;17a;"spiseskje 
+tablespoon";;;;;
+"Peanøttsmør 
+Peanut butter";"Nøtter frø 
+Nuts seeds";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Pekannøtter 
+Pecan nuts";"Nøtter frø 
+Nuts seeds";45a;;;;1,5a;"stk 
+one";;;;;
+"Pinjekjerner 
+Pine nuts";"Nøtter frø 
+Nuts seeds";60a;;;;10a;"spiseskje 
+tablespoon";;;;;
+"Pistasjnøtter 
+Pistachio nuts";"Nøtter frø 
+Nuts seeds";50a;;;;0,5a;"stk 
+one";;;;;
+"Sesamfrø 
+Sesame seeds";"Nøtter frø 
+Nuts seeds";60a;;;;9a;"spiseskje 
+tablespoon";;;;;
+"Solsikkefrø 
+Sunflower seeds";"Nøtter frø 
+Nuts seeds";55a;;;;8a;"spiseskje 
+tablespoon";;;;;
+"Valnøtter 
+Walnuts";"Nøtter frø 
+Nuts seeds";45a;;;;20z;"neve 
+handful";;;;;
+"Pommes frites 
+French fries";"Grønnsaker poteter 
+vegetables potatoes";45ag;;;;135ģ;"porsjon 
+portion";;;;;
+"Potet, kokt 
+Potato, boiled";"Grønnsaker poteter 
+vegetables potatoes";;;;;170d;"porsjon 
+portion";35/65/120d;83j;30/55/100d;;
+"Potet, rå 
+Potato, raw";"Grønnsaker poteter 
+vegetables potatoes";60a;;;;170ģ;"porsjon 
+portion";35/65/120a;83af;30/55/100b;;
+"Potetmos 
+Mashed potatoes";"Grønnsaker poteter 
+vegetables potatoes";100ag;;;;200ģ;"porsjon 
+portion";;;;;
+"Potetsalat 
+Potato salad";"Grønnsaker poteter 
+vegetables potatoes";100a;;;;19a;"spiseskje 
+tablespoon";;;;;
+"Agurk 
+Cucumber";"Grønnsaker 
+Vegetables";55a;;;;6a;"skive 
+slice";335a;97ac;325b;;
+"Alfalfaspirer 
+Alfalfa sprouts";"Grønnsaker 
+Vegetables";20ar;;;;;;;100j;;;
+"Artiskokk 
+Artichoke, globe";"Grønnsaker 
+Vegetables";;;;;;;330ag;43au;140b;;
+"Asparges 
+Asparagus";"Grønnsaker 
+Vegetables";;;;;;;30a;53av;16b;;
+"Aubergine 
+Aubergine";"Grønnsaker 
+Vegetables";30aq;;;;25al;"skive 
+slice";350aq;81av;285b;;
+"Babygulrot 
+Baby carrot";"Grønnsaker 
+Vegetables";;;;;;;;100j;4/10a;;
+"Basilikum 
+Basil";"Grønnsaker 
+Vegetables";5a;;;;;;;64av;;;
+"Blomkål 
+Cauliflower";"Grønnsaker 
+Vegetables";;;;;30a;"bukett 
+floret";650a;74ad;480b;;
+"Brennesle 
+Nettle";"Grønnsaker 
+Vegetables";5f;;;;;;;100j;;;
+"Brokkoli 
+Broccoli";"Grønnsaker 
+Vegetables";;;;;25a;"bukett 
+floret";460a;86ac;395b;;
+"Cherrytomat 
+Cherry tomato";"Grønnsaker 
+Vegetables";65a;;;;;;;100j;15a;;
+"Chili, rød 
+Chili pepper, red";"Grønnsaker 
+Vegetables";;;;;;;10aq;73an;7b;;
+"Dill 
+Dill";"Grønnsaker 
+Vegetables";12f;;;;;;;90an;;;
+"Endivesalat 
+Chicory, endive";"Grønnsaker 
+Vegetables";30f;;;;;;;86an;;;
+"Fennikel 
+Fennel";"Grønnsaker 
+Vegetables";45al;;;;;;150aq;93an;140b;;
+"Gresskar 
+Pumpkin";"Grønnsaker 
+Vegetables";55f;;;;;;;70av;;;
+"Gressløk 
+Chives";"Grønnsaker 
+Vegetables";18ag;;;;3ag;"spiseskje 
+tablespoon";;100j;;;
+"Grønnkål 
+Kale";"Grønnsaker 
+Vegetables";55ag;;;;;;;61av;;;
+"Gulrot 
+Carrot";"Grønnsaker 
+Vegetables";"40a (raspet 
+grated)";;;;;;60/90/140a;89av;55/80/125b;;
+"Hodekål 
+Cabbage";"Grønnsaker 
+Vegetables";"35a (snittet 
+shredded)";;;;;;1250a;92k;1150b;;
+"Hvitløk 
+Garlic";"Grønnsaker 
+Vegetables";;;;;2,5a;"fedd (med skall) 
+clove (with skin)";55a;79au;45b;;
+"Hvitløk, kinesisk 
+Garlic, chinese";"Grønnsaker 
+Vegetables";;;;;;;25a;92a;23b;;
+"Ingefærrot 
+Ginger root";"Grønnsaker 
+Vegetables";;;;;3a;"cm rot 
+cm of root";;94au;;;
+"Isbergsalat, issalat 
+Iceberg lettuce";"Grønnsaker 
+Vegetables";25a;;;;40a;"blad 
+leaf";510a;92ac;470b;;
+"Jalapeño 
+Jalapeño";"Grønnsaker 
+Vegetables";;;;;;;15c;92av;14av;;
+"Jordskokk 
+Jerusalem artichoke";"Grønnsaker 
+Vegetables";55a;;;;;;25a;69an;17b;;
+"Kassava 
+Cassava";"Grønnsaker 
+Vegetables";;;;;;;490c;84av;410av;;
+"Kinakål 
+Cabbage, chinese";"Grønnsaker 
+Vegetables";30ag;;;;;;800ag;92ac;735b;;
+"Knaskegulrot, snackgulrot 
+Baby carrots";"Grønnsaker 
+Vegetables";;;;;;;;100j;25a;;
+"Knutekål 
+Kohlrabi";"Grønnsaker 
+Vegetables";55f;;;;;;240c;46av;110as;;
+"Koriander 
+Coriander";"Grønnsaker 
+Vegetables";5f;;;;;;;78au;;;
+"Kålrot 
+Swede";"Grønnsaker 
+Vegetables";55a;;;;;;1000a;83k;830b;;
+"Løk, gul/rød 
+Onion, yellow/red";"Grønnsaker 
+Vegetables";55a;;;;;;170a;93k;160b;;
+"Mais 
+Sweet corn";"Grønnsaker 
+Vegetables";70f;;;;;;250o;56ac;140b;;
+"Mangold, sølvbete 
+Leaf beet, mangold";"Grønnsaker 
+Vegetables";30n;;;;;;;92av;;;
+"Nepe 
+Turnip";"Grønnsaker 
+Vegetables";55f;;;;;;50aq;77ac;40b;;
+"Paprika 
+Sweet pepper";"Grønnsaker 
+Vegetables";55f;;;;10a;"skive 
+slice";170a;85af;145b;;
+"Pastinakk 
+Parsnip";"Grønnsaker 
+Vegetables";55f;;;;;;125am;80an;100b;;
+"Pepperrot 
+Horse-radish";"Grønnsaker 
+Vegetables";;;;;2,5a;"cm rot 
+cm of root";;73an;;;
+"Persille 
+Parsley";"Grønnsaker 
+Vegetables";12ag;;;;;;;80at;;;
+"Persillerot 
+Parsley root";"Grønnsaker 
+Vegetables";55f;;;;;;100am;91ac;90b;;
+"Purreløk 
+Leek";"Grønnsaker 
+Vegetables";45a;;;;2a;"skive 
+slice";250a;83ac;210b;;
+"Rabarbra 
+Rhubarb";"Grønnsaker 
+Vegetables";50aq;;;;;;135c;75av;100am;;
+"Radicchio rosso 
+Raddichio salad";"Grønnsaker 
+Vegetables";30f;;;;;;;91av;;;
+"Rapidsalat 
+Rapid lettuce";"Grønnsaker 
+Vegetables";10a;;;;;;;94j;;;
+"Reddik 
+Radish";"Grønnsaker 
+Vegetables";50ag;;;;;;4,2c;94ac;4ag;;
+"Romanosalat 
+Romaine salad";"Grønnsaker 
+Vegetables";30f;;;;;;;94an;;;
+"Rosenkål 
+Brussel sprouts";"Grønnsaker 
+Vegetables";65ag;;;;;;15ag;80an;12b;;
+"Ruccolasalat 
+Rocket salad";"Grønnsaker 
+Vegetables";11a;;;;;;;100j;;;
+"Rødbete 
+Beetroot";"Grønnsaker 
+Vegetables";55f;;;;;;140ag;86ac;120b;;
+"Rødkål 
+Cabbage, red";"Grønnsaker 
+Vegetables";35f;;;;;;1500aq;80an;1200b;;
+"Sellerirot 
+Celariac root";"Grønnsaker 
+Vegetables";50a;;;;;;780a;70ac;545b;;
+"Sikorisalat 
+Chicory";"Grønnsaker 
+Vegetables";20ag;;;;;;;80au;;;
+"Sjalottløk 
+Shallot";"Grønnsaker 
+Vegetables";55f;;;;;;18/60a;72au;13b/45b ;;
+"Skorsonnerot, svartrot 
+Salsify, black";"Grønnsaker 
+Vegetables";55a;;;;;;50/120a;63an;30/75b;;
+"Sopp, kantarell 
+Mushroom, chantherelle";"Grønnsaker 
+Vegetables";30ar;;;;;;6a;89an;5,5b;;
+"Sopp, shiitake 
+Mushroom, shiitake";"Grønnsaker 
+Vegetables";30a;;;;;;;100j;8a;;
+"Sopp, sjampinjong 
+Mushroom, common";"Grønnsaker 
+Vegetables";35ag;;;;;;20ag;89an;18b;;
+"Sopp, østers 
+Mushroom, oyster";"Grønnsaker 
+Vegetables";30f;;;;;;8a;89av;7b;;
+"Spinat, frossen 
+Spinach, frozen";"Grønnsaker 
+Vegetables";;;;;14a;"terning 
+cube";;100j;;;
+"Spinat, rå 
+Spinach, raw";"Grønnsaker 
+Vegetables";12a;;;;;;;70an;;;
+"Spisskål 
+Cabbage, spring green";"Grønnsaker 
+Vegetables";35f;;;;;;1000aq;80an;800b;;
+"Squash, zucchini 
+Squash, zucchini";"Grønnsaker 
+Vegetables";55a;;;;15a;"skive 
+slice";300aq;95an;285b;;
+"Stilkselleri, stangselleri 
+Celery";"Grønnsaker 
+Vegetables";50ag;;;;33ag;"stilk 
+stalk";500ag;76ac;380b ;;
+"Søtpotet 
+Sweet potato";"Grønnsaker 
+Vegetables";60f;;;;;;180c;72an;130av;;
+"Tomat 
+Tomato";"Grønnsaker 
+Vegetables";65a;;;;13a;"skive 
+slice";;100j;95a;;
+"Vårløk 
+Scallion, spring onion";"Grønnsaker 
+Vegetables";40a;;;;;;20aq;96av;19b;;
+"Blomkål, kokt 
+Cauliflower, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;480d;"stk 
+one";;;;;
+"Blomkål, kokt 
+Cauliflower, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;30d;"bukett 
+floret";;;;;
+"Brokkoli, kokt 
+Broccoli, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;440d;"stk 
+one";;;;;
+"Brokkoli, kokt 
+Broccoli, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;35d;"bukett 
+floret";;;;;
+"Gulrot, kokt 
+Carrot, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;50/75/120d;"stk 
+one";;;;;
+"Hodekål, kokt 
+Cabbage, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;1125d;"stk 
+one";;;;;
+"Kålrot, kokt 
+Swede, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;780d;"stk 
+one";;;;;
+"Løk, gul/rød, kokt 
+Onion, yellow/red, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;157d;"stk 
+one";;;;;
+"Paprika, kokt 
+Sweet pepper, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;125d;"stk 
+one";;;;;
+"Persillerot, kokt 
+Parsley root, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;85d;"stk 
+one";;;;;
+"Rosenkål, kokt 
+Brussel sprouts, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;12,5d;"stk 
+one";;;;;
+"Rødkål, kokt 
+Cabbage, red, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;1175d;"stk 
+one";;;;;
+"Søtpotet, kokt 
+Sweet potato, cooked";"Grønnsaker tilberedt
+ Vegetables prepared";;;;;120d;"stk 
+one";;;;;
+"Agurker, syltede 
+Cucumber, pickled";"Grønnsaksprodukter
+ Vegetable products";55ag;;;;5ag;"skive 
+slice";;;;;
+"Asparges, hermetisk 
+Asparagus, canned";"Grønnsaksprodukter
+ Vegetable products";;;;;10ag;"stk 
+one";;;;;
+"Bambusskudd, hermetisk 
+Bamboo shoots, canned";"Grønnsaksprodukter
+ Vegetable products";60a;;;;3a;"stk 
+one";;;;;
+"Grønnsaksblanding, wokblanding, frossen 
+Wok mix, frozen";"Grønnsaksprodukter
+ Vegetable products";50a;;;;;;;;;;
+"Ingefær, syltet 
+Ginger, pickled";"Grønnsaksprodukter
+ Vegetable products";;;;;5ģ;"porsjon (til sushi) 
+portion (for sushi)";;;;;
+"Kapers, hermetisk 
+Capers, canned";"Grønnsaksprodukter
+ Vegetable products";60a;;;;3a;"stk 
+one";;;;;
+"Nori, tørket tang 
+Nori, seaweed, dried";"Grønnsaksprodukter
+ Vegetable products";;;;;2,5o;"stk 
+one";;;;;
+"Oliven, grønne, pickles 
+Olives, green, pickled";"Grønnsaksprodukter
+ Vegetable products";50a;;;;3/7a;"stk 
+one";;;;;
+"Oliven, svarte, i olje, hermetisk 
+Olives, black, in oil, canned";"Grønnsaksprodukter
+ Vegetable products";50a;;;;3/6a;"stk 
+one";;;;;
+"Rødbeter, syltede 
+Beetroot, pickled, canned";"Grønnsaksprodukter
+ Vegetable products";70ag;;;;12ag;"skive 
+slice";;;;;
+"Sopp, sjampinjong, hermetisk 
+Mushroom, button, canned";"Grønnsaksprodukter
+ Vegetable products";75ag;;;;;;;;;;
+"Surkål 
+Sauerkraut";"Grønnsaksprodukter
+ Vegetable products";100a;;;;;;;;;;
+"Tomat, hermetisk 
+Tomatoes, canned";"Grønnsaksprodukter
+ Vegetable products";100e;;;;;;;;;;
+"Tomat, soltørket 
+Tomatoes, sun-dried";"Grønnsaksprodukter
+ Vegetable products";;;;;3a;"stk 
+one";;;;;
+"Tomat, soltørket, innlagt i olje 
+Tomatoes, sun-dried, in oil";"Grønnsaksprodukter
+ Vegetable products";;;;;7a;"stk 
+one";;;;;
+"Tomatketchup 
+Tomato ketchup";"Grønnsaksprodukter
+ Vegetable products";110ag;;;;20a;"spiseskje 
+tablespoon";;;;;
+"Tomatpuré 
+Tomato purée";"Grønnsaksprodukter
+ Vegetable products";100e;;;;18a;"spiseskje 
+tablespoon";;;;;
+"Vannkastanjer, hermetisk 
+Water chestnuts, canned";"Grønnsaksprodukter
+ Vegetable products";65a;;;;;;;;;;
+"Bønner, brune, kokt 
+Beans, brown, cooked";"Belgfrukter 
+Legumes";;;;;190d;"porsjon 
+portion";;;;;
+"Bønner, brune, tørre 
+Beans, brown, dry";"Belgfrukter 
+Legumes";80ag;;;;80ah;"porsjon 
+portion";;;;;
+"Bønner, grønne, frosne 
+Beans, green, frozen";"Belgfrukter 
+Legumes";;;;;3f;"stk 
+one";;;;;
+"Bønner, grønne, rå 
+Beans, green, raw";"Belgfrukter 
+Legumes";;;;;3a;"stk 
+one";;;;;
+"Bønner, hvite, i tomatsaus, hermetisk 
+Beans, white, in tomato sauce, canned";"Belgfrukter 
+Legumes";110a;;;;19a;"spiseskje 
+tablespoon";;;;;
+"Bønner, hvite, kokt
+Beans, white, cooked";"Belgfrukter 
+Legumes";;;;;;;;;;;
+"Bønner, hvite, store, hermetisk 
+Beans, white, large, canned";"Belgfrukter 
+Legumes";85a;;;;3a;"stk 
+one";;;;;
+"Bønner, hvite, tørre 
+Beans, white, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Bønner, mung, tørre 
+Beans, mung, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Bønner, røde kidney, hermetisk 
+Beans, red kidney, canned";"Belgfrukter 
+Legumes";90a;;;;18a;"spiseskje 
+tablespoon";;;;;
+"Bønner, røde kidney, tørre 
+Beans, red kidney, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Bønner, soya, tørre 
+Beans, soya, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Bønner, svarte, hermetisk 
+Beans, black, canned";"Belgfrukter 
+Legumes";90a;;;;15a;"spiseskje 
+tablespoon";;;;;
+"Erter, frosne 
+Peas, frozen";"Belgfrukter 
+Legumes";60a;;;;;;;;;;
+"Erter, hermetisk 
+Peas, canned";"Belgfrukter 
+Legumes";70ag;;;;19f;"spiseskje 
+tablespoon";;;;;
+"Erter, tørre 
+Peas, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Kikerter, hermetisk 
+Chick peas, canned";"Belgfrukter 
+Legumes";75a;;;;19a;"spiseskje 
+tablespoon";;;;;
+"Kikerter, tørre 
+Chick peas, dry";"Belgfrukter 
+Legumes";80ag;;;;;;;;;;
+"Linser, hermetisk 
+Lentils, canned";"Belgfrukter 
+Legumes";100a;;;;18a;"spiseskje 
+tablespoon";;;;;
+"Linser, kokt 
+Lentils, cooked";"Belgfrukter 
+Legumes";;;;;215d;"porsjon 
+portion";;;;;
+"Linser, tørre 
+Lentils, dry";"Belgfrukter 
+Legumes";85a;;;;85ah;"porsjon 
+portion";;;;;
+"Sukkererter, sugar snaps 
+Sugar snap peas";"Belgfrukter 
+Legumes";;;;;3,5a;"stk 
+one";;;;;
+"Ananas 
+Pineapple";"Frukt 
+fruit";;;;;65ag;"desiliter 
+decilitre";1300am;51s;665b;;
+"Appelsin 
+Orange";"Frukt 
+fruit";;;;;35a;"båt 
+section";150/250/350a;78aa;115/195/275b;;
+"Appelsin 
+Orange";"Frukt 
+fruit";;;;;70a;"desiliter 
+decilitre";150/250/350a;78aa;115/195/275b;;
+"Aprikos 
+Apricots";"Frukt 
+fruit";;;;;;;37c;93av;35av;;
+"Avocado 
+Avocado";"Frukt 
+fruit";;;;;60a;"desiliter biter
+decilitre pieces";175/300a;74av;130/220b;;
+"Avocado 
+Avocado";"Frukt 
+fruit";;;;;90a ;"desiliter mos
+decilitre mashed";175/300a;74av;130/220b;;
+"Banan 
+Banana";"Frukt 
+fruit";;;;;75a;"desiliter 
+decilitre";180a;66aa;120b;;
+"Carambola, stjernefrukt 
+Carambola, starfruit";"Frukt 
+fruit";;;;;;;90av;97au;85b;;
+"Cherimoya 
+Cherimoya";"Frukt 
+fruit";;;;;75f;"desiliter 
+decilitre";305a;69av;210b;;
+"Drue, med stein 
+Grapes, with seeds";"Frukt 
+fruit";;;;;70ag;"desiliter 
+decilitre";6c;96av;6ag;;
+"Drue, uten stein 
+Grapes, without seeds";"Frukt 
+fruit";;;;;70f;"desiliter 
+decilitre";4a;100h;4b;;
+"Eple
+Apple";"Frukt 
+fruit";;;;;50a;"desiliter 
+decilitre";100/140/180a;91l;90/125/165b;;
+"Fersken 
+Peach";"Frukt 
+fruit";;;;;;;170c;87an;150av;;
+"Granateple 
+Pomegranate";"Frukt 
+fruit";;;;;60a;"desiliter 
+decilitre";285a;66av;190b;;
+"Grapefrukt 
+Grapefruit";"Frukt 
+fruit";;;;;;;260c;50av;130av;;
+"Guava 
+Guava";"Frukt 
+fruit";;;;;;;65c;88av;55av;;
+"Kaktusfiken 
+Prickly pear";"Frukt 
+fruit";;;;;;;105a;75av;80b;;
+"Kiwi 
+Kiwi fruit";"Frukt 
+fruit";;;;;15a;"skive 
+slice";100a;74av;75b;;
+"Kiwi 
+Kiwi fruit";"Frukt 
+fruit";;;;;65a;"desiliter 
+decilitre";;;;;
+"Klementin 
+Clementine";"Frukt 
+fruit";;;;;;;80/110a;77av;60/85b;;
+"Kokosnøtt 
+Coconut";"Frukt 
+fruit";;;;;;;520c;52av;270aq;;
+"Kumquat 
+Kumquat";"Frukt 
+fruit";;;;;;;20c;93av;19av;;
+"Lime 
+Lime";"Frukt 
+fruit";;;;;10a;"båt/skive 
+section/slice";80a;84av;65b;;
+"Litchi 
+Lychee";"Frukt 
+fruit";;;;;;;20a;60av;12b;;
+"Mango 
+Mango";"Frukt 
+fruit";;;;;70ag;"desiliter 
+decilitre";470c;71av;335av;;
+"Melon, galia 
+Melon, galia";"Frukt 
+fruit";;;;;55f;"skive 
+slice";550aq;65au;360b;;
+"Melon, galia 
+Melon, galia";"Frukt 
+fruit";;;;;70f;"desiliter 
+decilitre";;;;;
+"Melon, honning 
+Melon, honeydew";"Frukt 
+fruit";;;;;55a;"skive 
+slice";800aq;46av;370b;;
+"Melon, honning 
+Melon, honeydew";"Frukt 
+fruit";;;;;70f;"desiliter 
+decilitre";;;;;
+"Melon, kantaloupe 
+Melon, cantaloupe";"Frukt 
+fruit";;;;;70f;"desiliter 
+decilitre";550aq;51av;280b;;
+"Melon, vann 
+Melon, water";"Frukt 
+fruit";;;;;80a;"skive 
+slice";1500ag;46an;690b;;
+"Melon, vann 
+Melon, water";"Frukt 
+fruit";;;;;70ag;"desiliter 
+decilitre";;;;;
+"Nektarin 
+Nectarine";"Frukt 
+fruit";;;;;75f;"desiliter 
+decilitre";125aq;91av;115b;;
+"Papaya 
+Papaya";"Frukt 
+fruit";;;;;60aq;"desiliter 
+decilitre";400aq;62av;250b;;
+"Pasjonsfrukt 
+Passion fruit";"Frukt 
+fruit";;;;;;;30c;61au;18av;;
+"Plomme 
+Plums";"Frukt 
+fruit";;;;;65a;"desiliter 
+decilitre";35w/55a/110a;94ad;30/50/105b;;
+"Pomelo 
+Pomelo";"Frukt 
+fruit";;;;;20a;"båt 
+section";815a;61au;495b;;
+"Pomelo 
+Pomelo";"Frukt 
+fruit";;;;;60a;"desiliter 
+decilitre";;;;;
+"Pære 
+Pear";"Frukt 
+fruit";;;;;60a;"desiliter 
+decilitre";160/230a;90av;145/205b;;
+"Sharon, kakifrukt 
+Persimmon, kaki fruit";"Frukt 
+fruit";;;;;75a;"desiliter 
+decilitre";155a;82av;125b;;
+"Sitron 
+Lemon";"Frukt 
+fruit";;;;;15a;"skive 
+slice";150a;53av;80b;;
+"Aronia, svartsurbær 
+Black chokeberries";"Bær 
+berries";55f;;;;;;;100j;;;
+"Bjørnebær 
+Blackberries";"Bær 
+berries";55a;;;;;;;100j;6a;;
+"Blokkebær, mikkelsbær 
+Bog blueberries";"Bær 
+berries";55f;;;;;;;100j;;;
+"Blåbær 
+Blueberries";"Bær 
+berries";55a;;;;;;;100j;;;
+"Bringebær 
+Raspberries";"Bær 
+berries";50a;;;;;;;100j;5a;;
+"Hyllebær 
+Elderberries";"Bær 
+berries";55f;;;;;;;94an;;;
+"Jordbær 
+Strawberries";"Bær 
+berries";60a;;;;;;10/20/30c;98ad;10/20/30a;;
+"Kirsebær 
+Cherries";"Bær 
+berries";60ag;;;;;;8am;86ac;7b;;
+"Molter 
+Cloudberries";"Bær 
+berries";50ag;;;;;;;100j;3m;;
+"Moreller 
+Cherries, sweet";"Bær 
+berries";60ag;;;;;;10q;89ac;9b;;
+"Nype 
+Rosehip";"Bær 
+berries";60m;;;;;;;65an;;;
+"Physalis 
+Cape gooseberries";"Bær 
+berries";60a;;;;;;4,8a;94av;4,5b;;
+"Rips 
+Redcurrants";"Bær 
+berries";50ag;;;;;;;100j;0,7am;;
+"Rognebær 
+Rowan-berries";"Bær 
+berries";55f;;;;;;;100j;;;
+"Solbær 
+Blackcurrants";"Bær 
+berries";50ag;;;;;;;100j;;;
+"Stikkelsbær 
+Gooseberries";"Bær 
+berries";60ag;;;;;;3c;98an;3al;;
+"Tranebær 
+Cranberries";"Bær 
+berries";55f;;;;;;;100j;;;
+"Tyttebær 
+Lingonberries, cowberries";"Bær 
+berries";55a;;;;;;;100j;;;
+"Ananas, hermetisk 
+Pineapple, canned";"Produkter av frukt og bær 
+Fruit and berry products";105ag;;;;40ag;"ring 
+ring";;;;;
+"Aprikos, hermetisk 
+Apricots, canned";"Produkter av frukt og bær 
+Fruit and berry products";105ag;;;;40ag;"stk 
+one piece";;;;;
+"Aprikos, tørket 
+Apricots, dried";"Produkter av frukt og bær 
+Fruit and berry products";50al;;;;7al;"stk 
+one";;;;;
+"Daddel, tørket 
+Dates, dried";"Produkter av frukt og bær 
+Fruit and berry products";;;;;8ag/19m;"stk 
+one";;84au;;;
+"Eple, tørket 
+Apple, dried";"Produkter av frukt og bær 
+Fruit and berry products";25ag;;;;5ag;"ring 
+ring";;;;;
+"Fersken, hermetisk 
+Peach, canned";"Produkter av frukt og bær 
+Fruit and berry products";105ag;;;;90ag;"stk 
+a piece";;;;;
+"Fiken, tørket 
+Figs, dried";"Produkter av frukt og bær 
+Fruit and berry products";80ag;;;;20ag;"stk 
+one";;96av;;;
+"Fruktcocktail, hermetisk 
+Fruit coctail, canned";"Produkter av frukt og bær 
+Fruit and berry products";110ag;;;;;;;;;;
+"Plomme, hermetisk 
+Plums, canned";"Produkter av frukt og bær 
+Fruit and berry products";120ag;;;;15ag;"stk 
+one";;;;;
+"Pære, hermetisk 
+Pear, canned";"Produkter av frukt og bær 
+Fruit and berry products";105ag;;;;90ag;"stk
+a piece";;;;;
+"Rosiner 
+Raisins";"Produkter av frukt og bær 
+Fruit and berry products";60a;;;;;;;;;;
+"Svisker 
+Prunes";"Produkter av frukt og bær 
+Fruit and berry products";75ag;;;;8ag ;"stk 
+one";;85an;;;
+"Syltetøy, marmelade 
+Jam, marmalade";"Produkter av frukt og bær 
+Fruit and berry products";115a;;;;20ģ;"porsjon 
+portion";;;;;
+"Syltetøy, marmelade 
+Jam, marmalade";"Produkter av frukt og bær 
+Fruit and berry products";;;;;16a;"spiseskje 
+tablespoon";;;;;
+"Honning 
+Honey";"Sukker søtt pålegg
+ Sugar sweet spreads";140ag;22a;22a;11a;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Melis 
+Icing sugar";"Sukker søtt pålegg
+ Sugar sweet spreads";55a;9a;8a;4a;;;;;;;
+"Sirup 
+Syrup";"Sukker søtt pålegg
+ Sugar sweet spreads";140ag;19a;16a;7,5a;;;;;;;
+"Sjokoladepålegg, nøttepålegg 
+Chocolate spread, nut spread";"Sukker søtt pålegg
+ Sugar sweet spreads";;;;;15ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Sukker, brunt 
+Sugar, brown";"Sukker søtt pålegg
+ Sugar sweet spreads";70a;10a;10a;5,5a;;;;;;;
+"Sukker, hvitt 
+Sugar, white";"Sukker søtt pålegg
+ Sugar sweet spreads";90a;14a;13a;5a;2ag;"sukkerbit 
+sugar cube";;;;;
+"Vaniljesukker 
+Vanilla sugar";"Sukker søtt pålegg
+ Sugar sweet spreads";;9a;9a;4,5a;;;;;;;
+"Drops 
+Drops, sweets";"Sjokolade snacks 
+Chocolate candy";;;;;3ag;"stk 
+one";;;;;
+"Drops, fylt 
+Drops, filled";"Sjokolade snacks 
+Chocolate candy";;;;;5ag;"stk 
+one";;;;;
+"Geléfrukter, type Seigmenn 
+Fruit jellies";"Sjokolade snacks 
+Chocolate candy";;;;;5ag;"stk 
+one";;;;;
+"Hvit sjokolade 
+White chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;4/8f;"rute 
+square";;;;;
+"Karamell 
+Caramels";"Sjokolade snacks 
+Chocolate candy";;;;;5/15a;"stk 
+one";;;;;
+"Karamell, med sjokoladetrekk 
+Caramels, chocolate covered";"Sjokolade snacks 
+Chocolate candy";;;;;6/12a;"stk 
+one";;;;;
+"Kokesjokolade 
+Cooking chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;4o;"rute 
+square";;;;;
+"Kokesjokolade 
+Cooking chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;100u;"plate 
+bar";;;;;
+"Kokosbolle 
+Snowball";"Sjokolade snacks 
+Chocolate candy";;;;;30/75a,u;"stk 
+one";;;;;
+"Konfekt 
+Chocolates, filled";"Sjokolade snacks 
+Chocolate candy";;;;;5/15u,ag;"stk 
+one";;;;;
+"Lakris 
+Liquorice";"Sjokolade snacks 
+Chocolate candy";;;;;5/15/20a,n,o;"stk 
+one";;;;;
+"Lakriskonfekt 
+Liquorice sweets";"Sjokolade snacks 
+Chocolate candy";;;;;3/20m,u;"stk 
+one";;;;;
+"Marsipan 
+Marzipan";"Sjokolade snacks 
+Chocolate candy";;;;;10a;"bit 
+piece";;;;;
+"Marsipan 
+Marzipan";"Sjokolade snacks 
+Chocolate candy";;;;;65/200u;"gris 
+pig";;;;;
+"Marsipan 
+Marzipan";"Sjokolade snacks 
+Chocolate candy";;;;;20a;"skive à 0,5 cm 
+slice of 0.5 cm";;;;;
+"Marsipanbrød 
+Marzipan bar";"Sjokolade snacks 
+Chocolate candy";;;;;25/40/65u;"stk 
+one";;;;;
+"Melkesjokolade 
+Milk chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;4/8m;"rute 
+square";;;;;
+"Melkesjokolade, porøs 
+Milk chocolate, aerated";"Sjokolade snacks 
+Chocolate candy";;;;;3/45u;"bit 
+bar";;;;;
+"Mørk sjokolade 
+Dark chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;4/8m;"rute 
+square";;;;;
+"Pastiller 
+Pastilles";"Sjokolade snacks 
+Chocolate candy";;;;;1m;"stk 
+one";;;;;
+"Sjokolade, fylt 
+Chocolates, filled";"Sjokolade snacks 
+Chocolate candy";;;;;35/85u;"stk 
+one";;;;;
+"Sjokolade med gelé og marsipan, type Troika 
+Chocolate, with jelly and marzipan";"Sjokolade snacks 
+Chocolate candy";;;;;15/65o,u ;"stk 
+one";;;;;
+"Skumgodter, marshmallows 
+Marshmallows";"Sjokolade snacks 
+Chocolate candy";;;;;7a;"stk 
+one";;;;;
+"Smågodt, blandet, uten sjokolade 
+Sweets mix, without chocolate";"Sjokolade snacks 
+Chocolate candy";;;;;3/8/15a;"stk 
+one";;;;;
+"Småsjokolader, løsvekt/pose 
+Sweets mix, chocolate included";"Sjokolade snacks 
+Chocolate candy";;;;;5/10a;"stk 
+one";;;;;
+"Tyggegummi 
+Chewing gum";"Sjokolade snacks 
+Chocolate candy";;;;;1am;"stk 
+one";;;;;
+"Baconcrisp 
+Pork scratchings";"Sjokolade snacks 
+Chocolate candy";;;;;17a;"desiliter 
+decilitre";;;;;
+"Baconcrisp 
+Pork scratchings";"Sjokolade snacks 
+Chocolate candy";;;;;2a;"stk 
+one";;;;;
+"Ostepop 
+Cheese doodles";"Sjokolade snacks 
+Chocolate candy";;;;;10a;"desiliter 
+decilitre";;;;;
+"Popcorn 
+Popcorn";"Sjokolade snacks 
+Chocolate candy";;;;;3a;"desiliter 
+decilitre";;;;;
+"Potetchips 
+Potato crisps";"Sjokolade snacks 
+Chocolate candy";;;;;12a;"desiliter 
+decilitre";;;;;
+"Potetskruer 
+Potato snacks, extruded";"Sjokolade snacks 
+Chocolate candy";;;;;20ag;"desiliter 
+decilitre";;;;;
+"Saltstenger 
+Salted sticks";"Sjokolade snacks 
+Chocolate candy";;;;;2ag;"stk 
+one";;;;;
+"Tortillachips, maischips 
+Tortilla chips";"Sjokolade snacks 
+Chocolate candy";;;;;3a;"stk 
+one";;;;;
+"Sesampasta, tahini 
+Sesame paste, tahini";"Vegetarprodukter
+ Vegetarian products";;;;;16a;"spiseskje 
+tablespoon";;;;;
+"Sesampasta, tahini 
+Sesame paste, tahini";"Vegetarprodukter
+ Vegetarian products";;;;;15f;"til en brødskive 
+for a slice of bread";;;;;
+"Soyabønneost, tofu 
+Soybean curd, tofu";"Vegetarprodukter
+ Vegetarian products";;;;;100a;"desiliter 
+decilitre";;;;;
+"Soyapølse, hermetisk 
+Soy sausage, canned";"Vegetarprodukter
+ Vegetarian products";;;;;40u;"til en brødskive 
+for a slice of bread";;;;;
+"Vegetabilsk postei, Tartex 
+Vegetable spread, Tartex";"Vegetarprodukter
+ Vegetarian products";;;;;15f;"til en brødskive 
+for a slice of bread";;;;;
+"Kokosfett, matfett 
+Coconut fat";"Smør olje 
+Butter oil";;;;;;;;;;;
+"Olje, flytende margarin 
+Oil, liquid margarine";"Smør olje 
+Butter oil";;;10h;4,5ag;;;;;;;
+"Smør, margarin 
+Butter, margarine";"Smør olje 
+Butter oil";;;15a;7a;5ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Dressing av majones 
+Mayonnaise dressing";"Dressing majones
+ Dressing mayonnaise";100f;;18f;7f;25ģ;"porsjon 
+portion";;;;;
+"Dressing av olje og eddik 
+Oil and vinegar dressing";"Dressing majones
+ Dressing mayonnaise";90ag;;10f;4,5ag;25ģ;"porsjon 
+portion";;;;;
+"Majones, remulade 
+Mayonnaise, rémoulade";"Dressing majones
+ Dressing mayonnaise";95ag;;13a;6a;10ģ;"til en brødskive 
+for a slice of bread";;;;;
+"Majonessalat, påleggssalat 
+Mayonnaise salad";"Dressing majones
+ Dressing mayonnaise";95ag;;16a;7a;30ģ;"til en brødskive 
+for a slice of bread";;;;;
+Tran Cod liver oil;"Omega 3
+Omega 3";90ag;;10f;4,5ag;5ģ (ml);"porsjon 
+portion";;;;;
+"Cheeseburger, fastfood 
+Cheeseburger, fastfood";"Retter 
+dishes";;;;;105a;"stk 
+one";;;;;
+"Fiskegrateng 
+Fish gratin";"Retter 
+dishes";;;;;275ģ;"porsjon 
+portion";;;;;
+"Fårikål 
+Lamb and cabbage stew";"Retter 
+dishes";;;;;450ģ;"porsjon 
+portion";;;;;
+"Gryterett 
+One-pot meal, casserole";"Retter 
+dishes";;;;;300ģ;"porsjon 
+portion";;;;;
+"Grøt 
+Porridge";"Retter 
+dishes";;;;;350ģ;"porsjon 
+portion";;;;;
+"Grøt 
+Porridge";"Retter 
+dishes";;;;;100ag;"desiliter 
+decilitre";;;;;
+"Hamburger, dobbel, fastfood 
+Burger, double, fastfood";"Retter 
+dishes";;;;;180a;"stk 
+one";;;;;
+"Hamburger, ekstra kjøtt, fastfood 
+Burger, with extra meat, fastfood";"Retter 
+dishes";;;;;190a;"stk 
+one";;;;;
+"Hamburger, fastfood 
+Burger, fastfood";"Retter 
+dishes";;;;;100a;"stk 
+one";;;;;
+"Kyllingburger, fastfood 
+Chicken burger, fastfood";"Retter 
+dishes";;;;;140a;"stk 
+one";;;;;
+"Lapskaus 
+Stew, with meat, potatoes and vegetables";"Retter 
+dishes";;;;;450ģ;"porsjon 
+portion";;;;;
+"Lasagne 
+Lasagna";"Retter 
+dishes";;;;;300ģ;"porsjon 
+portion";;;;;
+"Moussaka 
+Moussaka";"Retter 
+dishes";;;;;300ģ;"porsjon 
+portion";;;;;
+"Pai 
+Pie";"Retter 
+dishes";;;;;300ģ;"porsjon 
+portion";;;;;
+"Pannekaker 
+Pancakes";"Retter 
+dishes";;;;;65a;"stk 
+one";;;;;
+"Pasta med kjøttsaus 
+Pasta bolognese";"Retter 
+dishes";;;;;300f;"porsjon 
+portion";;;;;
+"Pizza 
+Pizza";"Retter 
+dishes";;;;;300ģ;"porsjon 
+portion";;;;;
+"Ratatouille 
+Ratatouille";"Retter 
+dishes";;;;;130ģ;"porsjon 
+portion";;;;;
+"Salat, med grønnsaker o.l. 
+Salad, with vegetables etc";"Retter 
+dishes";;;;;135ģ;"porsjon 
+portion";;;;;
+"Sashimi 
+Sashimi";"Retter 
+dishes";;;;;20a;"stk 
+one";;;;;
+"Suppe 
+Soup";"Retter 
+dishes";;;;;100e;"desiliter 
+decilitre";;;;;
+"Suppe 
+Soup";"Retter 
+dishes";;;;;350ģ;"porsjon 
+portion";;;;;
+"Sushi, maki 
+Sushi, rolled, maki";"Retter 
+dishes";;;;;25a;"stk 
+one";;;;;
+"Sushi, nigiri 
+Sushi, nigiri";"Retter 
+dishes";;;;;30a;"stk 
+one";;;;;
+"Bearnaisesaus 
+Bearnaise sauce";"Saus dressing
+ sauce dressing";100e;;;;75ģ;"porsjon 
+portion";;;;;
+"Brun saus 
+Brown sauce";"Saus dressing
+ sauce dressing";100e;;;;75ģ;"porsjon 
+portion";;;;;
+"Buljongpulver 
+Bouillon powder";"Saus dressing
+ sauce dressing";70a;;11f;4,5f;;"porsjon 
+portion";;;;;
+"Dipsaus, barbequesaus 
+BBQ sauce";"Saus dressing
+ sauce dressing";;;17a;6a;;"porsjon 
+portion";;;;;
+"Hvit saus 
+Béchamel sauce";"Saus dressing
+ sauce dressing";100e;;;;75g;"porsjon 
+portion";;;;;
+"Pesto 
+Pesto";"Saus dressing
+ sauce dressing";100a;;18a;7a;;"porsjon 
+portion";;;;;
+"Potetmospulver 
+Instant mashed potato";"Saus dressing
+ sauce dressing";35a;;4a;2a;;"porsjon 
+portion";;;;;
+"Sjysaus 
+Gravy sauce";"Saus dressing
+ sauce dressing";100e;;;;75ģ;"porsjon 
+portion";;;;;
+"Soyasaus 
+Soy sauce";"Saus dressing
+ sauce dressing";115a;;13a;6a;;"porsjon 
+portion";;;;;
+"Tacokrydder 
+Taco spice mix";"Saus dressing
+ sauce dressing";;;8a;3,5a;;"porsjon 
+portion";;;;;
+"Tacosaus 
+Taco sauce";"Saus dressing
+ sauce dressing";105a;;17a;7a;;"porsjon 
+portion";;;;;
+"Bærsaus 
+Berry sauce";"Desert iskrem
+Desert icecream";100e;;;;75ģ;"porsjon 
+portion";;;;;
+"Fromasj 
+Mousse";"Desert iskrem
+Desert icecream";;;;;140f;"porsjon 
+portion";;;;;
+"Gelé 
+Jelly";"Desert iskrem
+Desert icecream";;;;;140ģ;"porsjon 
+portion";;;;;
+"Iskrem 
+Ice cream";"Desert iskrem
+Desert icecream";60a;;;;60a;"kule 
+scoop";;;;;
+"Iskrem 
+Ice cream";"Desert iskrem
+Desert icecream";;;;;95ģ;"porsjon 
+portion";;;;;
+"Iskrem, fløteis i kjeks, type Sandwich 
+Ice cream, Sandwich";"Desert iskrem
+Desert icecream";;;;;65u;"stk 
+one";;;;;
+"Iskrem, med kjeks, type Krone-is 
+Ice cream, Krone-is";"Desert iskrem
+Desert icecream";;;;;75/135u;"stk 
+one";;;;;
+"Iskrem, pinneis, fløteis med sjokoladetrekk 
+Ice cream, chocolate ice, coated with chocolate";"Desert iskrem
+Desert icecream";;;;;40u;"stk 
+one";;;;;
+"Iskrem, vaniljeis i kjeks, type Båtis 
+Ice cream, vanilla, in a wafer boat";"Desert iskrem
+Desert icecream";;;;;70u;"stk 
+one";;;;;
+"Karamellsaus 
+Caramel sauce";"Desert iskrem
+Desert icecream";130ag;;;;17f;"spiseskje 
+tablespoon";;;;;
+"Karamellsaus 
+Caramel sauce";"Desert iskrem
+Desert icecream";;;;;25ģ;"porsjon 
+portion";;;;;
+"Melisglasur 
+Frosting";"Desert iskrem
+Desert icecream";135a;;;;17a;"spiseskje 
+tablespoon";;;;;
+"Pudding (sjokolade, karamell o.l.) 
+Pudding (chocolate, caramel etc)";"Desert iskrem
+Desert icecream";;;;;140ģ;"porsjon 
+portion";;;;;
+"Romkrem 
+Rum custard";"Desert iskrem
+Desert icecream";95f;;;;13f;"spiseskje 
+tablespoon";;;;;
+"Saftis 
+Water ice stick";"Desert iskrem
+Desert icecream";;;;;65u;"stk 
+one";;;;;
+"Sjokoladeglasur 
+Chocolate frosting";"Desert iskrem
+Desert icecream";130f;;;;17f;"spiseskje 
+tablespoon";;;;;
+"Sjokoladesaus 
+Chocolate sauce";"Desert iskrem
+Desert icecream";130ag;;;;17f;"spiseskje 
+tablespoon";;;;;
+"Sjokoladesaus 
+Chocolate sauce";"Desert iskrem
+Desert icecream";;;;;25ģ;"porsjon 
+portion";;;;;
+"Smørkrem 
+Chocolate butter cream";"Desert iskrem
+Desert icecream";95n;;;;14n;"spiseskje 
+tablespoon";;;;;
+"Sorbet 
+Sherbet";"Desert iskrem
+Desert icecream";80a;;;;75a;"kule 
+scoop";;;;;
+"Sorbet 
+Sherbet";"Desert iskrem
+Desert icecream";;;;;95ģ;"porsjon 
+portion";;;;;
+"Vaniljekrem, eggekrem 
+Vanilla custard, egg custard";"Desert iskrem
+Desert icecream";95a;;;;13a;"spiseskje 
+tablespoon";;;;;
+"Vaniljesaus 
+Vanilla sauce";"Desert iskrem
+Desert icecream";100e;;;;75ģ;"porsjon 
+portion";;;;;
+"Bakepulver 
+Baking powder";"Bakevarer Diverse ingredienser
+ Ingredients";;;14a;5,5a;;;;;;;
+"Eddik 
+Vinegar";"Bakevarer Diverse ingredienser
+ Ingredients";;;11e;5e;100e;"desiliter 
+decilitre";;;;;
+"Gelatin (pulver/plate) 
+Gelatin";"Bakevarer Diverse ingredienser
+ Ingredients";;;8a;4a;2a;"plate 
+leaf";;;;;
+"Kakaopulver 
+Cocoa powder";"Bakevarer Diverse ingredienser
+ Ingredients";;;7a;4,5a;50a;"desiliter 
+decilitre";;;;;
+"Kokosmasse 
+Desiccated coconut";"Bakevarer Diverse ingredienser
+ Ingredients";;;5a;2,5a;35a;"desiliter 
+decilitre";;;;;
+"Kokosmelk 
+Coconut milk";"Bakevarer Diverse ingredienser
+ Ingredients";;;10a;4a;95a;"desiliter 
+decilitre";;;;;
+"Pepper, hel 
+Black pepper, whole";"Bakevarer Diverse ingredienser
+ Ingredients";;;9a;4a;;;;;;;
+"Pepper, malt 
+Black pepper, grounded";"Bakevarer Diverse ingredienser
+ Ingredients";;;5a;2,5a;;;;;;;
+"Pressgjær, fersk gjær 
+Bakers yeast, compressed";"Bakevarer Diverse ingredienser
+ Ingredients";;;;;50o;"stk 
+one";;;;;
+"Salt, fint 
+Salt, grounded";"Bakevarer Diverse ingredienser
+ Ingredients";;;17a;7a;130a;"desiliter 
+decilitre";;;;;
+"Salt, grovt 
+Salt, coarse";"Bakevarer Diverse ingredienser
+ Ingredients";;;16a;8a;110a;"desiliter 
+decilitre";;;;;
+"Sennep 
+Mustard";"Bakevarer Diverse ingredienser
+ Ingredients";;;16a;7a;100a;"desiliter 
+decilitre";;;;;
+"Sjokoladepulver, rett i koppen 
+Cocoa, instant powder";"Bakevarer Diverse ingredienser
+ Ingredients";;;8a;4a;45a;"desiliter 
+decilitre";;;;;
+"Tørrgjær 
+Bakers yeast, active, dry";"Bakevarer Diverse ingredienser
+ Ingredients";;;6a;3a;12o;"pose 
+packet";;;;;
+"Fruktpuré, fruktsmoothie 
+Fruit purée, fruit smoothie";"Spedbarnsmat
+ Baby food";100e;;10a;5a;;;;;;;
+"Grøt, pulver 
+Porridge, powder";"Spedbarnsmat
+ Baby food";40a;;6a;3a;;;;;;;
+"Grøt, spiseklar 
+Porridge, prepared";"Spedbarnsmat
+ Baby food";100a;;17a;8a;;;;;;;
+"Mat på glass 
+Food in jars";"Spedbarnsmat
+ Baby food";100e;;16a;5a;;;;;;;
+"Morsmelk 
+Breast milk";"Spedbarnsmat
+ Baby food";100e;;11e;5e;;;;;;;
+"Morsmelkerstatning/tilskuddsblanding, drikkeklar 
+Breast milk replacement/toddler formula, prepared";"Spedbarnsmat
+ Baby food";100e;;11e;5e;;;;;;;
+"Morsmelkerstatning/tilskuddsblanding, pulver 
+Breast milk replacement/toddler formula, powder";"Spedbarnsmat
+ Baby food";50a;;7a;2a;;;;;;;

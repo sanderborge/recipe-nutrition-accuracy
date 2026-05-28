@@ -1,0 +1,33 @@
+foodId,canonical_foodId,standard_group,rule
+5.049,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.048,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.051,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.05,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.264,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.262,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.053,5.05,bread,foodGroupId=5.5.2 -> canonical
+5.052,5.05,bread,foodGroupId=5.5.2 -> canonical
+6.262,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.263,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.264,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.265,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.096,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.095,6.263,potato_boiled,foodGroupId=15.1 split=potato_boiled -> canonical
+6.003,6.004,potato_raw,foodGroupId=15.1 split=potato_raw -> canonical
+6.001,6.004,potato_raw,foodGroupId=15.1 split=potato_raw -> canonical
+6.739,6.004,potato_raw,foodGroupId=15.1 split=potato_raw -> canonical
+6.004,6.004,potato_raw,foodGroupId=15.1 split=potato_raw -> canonical
+1.299,1.299,yogurt_0,name~yogurt AND filters -> canonical (yogurt_0)
+1.335,1.299,yogurt_0,name~yogurt AND filters -> canonical (yogurt_0)
+1.298,1.299,yogurt_0,name~yogurt AND filters -> canonical (yogurt_0)
+1.334,1.305,yogurt_low,name~yogurt AND filters -> canonical (yogurt_low)
+1.304,1.305,yogurt_low,name~yogurt AND filters -> canonical (yogurt_low)
+1.305,1.305,yogurt_low,name~yogurt AND filters -> canonical (yogurt_low)
+1.279,1.305,yogurt_low,name~yogurt AND filters -> canonical (yogurt_low)
+1.096,1.305,yogurt_low,name~yogurt AND filters -> canonical (yogurt_low)
+1.011,1.011,yogurt_whole,name~yogurt AND filters -> canonical (yogurt_whole)
+1.275,1.011,yogurt_whole,name~yogurt AND filters -> canonical (yogurt_whole)
+1.29,1.011,yogurt_whole,name~yogurt AND filters -> canonical (yogurt_whole)
+9.179,9.179,syrup,name~syrup AND filters -> canonical
+9.174,9.179,syrup,name~syrup AND filters -> canonical
+9.015,9.179,syrup,name~syrup AND filters -> canonical

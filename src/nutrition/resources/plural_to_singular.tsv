@@ -1,0 +1,37 @@
+# Plural -> singular normalisations. Format: <plural><TAB><singular>.
+
+apples	apple
+beans	bean
+beets	beet
+buns	bun
+carrots	carrot
+cashews	cashew
+clams	clam
+cloves	clove
+crackers	cracker
+eggs	egg
+fillets	fillet
+flaxseeds	flaxseed
+jalapenos	jalapeno
+lemons	lemon
+limes	lime
+linseeds	linseed
+mushrooms	mushroom
+mussels	mussel
+noodles	noodle
+nuts	nut
+oats	oat
+olives	olive
+onions	onion
+peppers	pepper
+pistachios	pistachio
+potatoes	potato
+rolls	roll
+shrimps	shrimp
+sliders	slider
+sprouts	sprout
+tomatoes	tomato
+tortillas	tortilla
+whites	white
+wings	wing
+yolks	yolk

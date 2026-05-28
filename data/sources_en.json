@@ -1,0 +1,2217 @@
+{
+  "sources": [
+    {
+      "sourceId": "0",
+      "description": "Estimated as 100 % edible (net weight)."
+    },
+    {
+      "sourceId": "10",
+      "description": "Missing value, content not known."
+    },
+    {
+      "sourceId": "100",
+      "description": "Data from the industry to the Food Composition Table 1992-2000, unspecified."
+    },
+    {
+      "sourceId": "102",
+      "description": "Data from the industry to the Food Composition Table 2001, unspecified."
+    },
+    {
+      "sourceId": "103a",
+      "description": "Data from the industry to the Food Composition Table 2006, unspecified."
+    },
+    {
+      "sourceId": "103b",
+      "description": "Data from the industry to the Food Composition Table 2006 or earlier, calculated from industrial recipe."
+    },
+    {
+      "sourceId": "104a",
+      "description": "Data from the industry to the Food Composition Table 2011, unspecified."
+    },
+    {
+      "sourceId": "104b",
+      "description": "Data from the industry to the Food Composition Table 2011, analysed value."
+    },
+    {
+      "sourceId": "104c",
+      "description": "Data from the industry to the Food Composition Table 2011, calculated from industrial recipe."
+    },
+    {
+      "sourceId": "104d",
+      "description": "Data from the industry to the Food Composition Table 2011, calculated mean value of several products."
+    },
+    {
+      "sourceId": "104e",
+      "description": "Data from the industry to the Food Composition Table 2011, weighted values from several products."
+    },
+    {
+      "sourceId": "105a",
+      "description": "Data from the industry to the Food Composition Table 2012, unspecified."
+    },
+    {
+      "sourceId": "105b",
+      "description": "Data from the industry to the Food Composition Table 2012, analysed value."
+    },
+    {
+      "sourceId": "105c",
+      "description": "Data from the industry to the Food Composition Table 2012, calculated value from industrial recipe."
+    },
+    {
+      "sourceId": "106a",
+      "description": "Data from the industry to the Food Composition Table 2013, unspecified."
+    },
+    {
+      "sourceId": "106b",
+      "description": "Data from the industry to the Food Composition Table 2013, analysed value."
+    },
+    {
+      "sourceId": "106c",
+      "description": "Data from the industry to the Food Composition Table 2013, calculated value from industrial recipe."
+    },
+    {
+      "sourceId": "107a",
+      "description": "Data from the industry to the Food Composition Table 2014, unspecified."
+    },
+    {
+      "sourceId": "107b",
+      "description": "Data from the industry to the Food Composition Table 2014, analysed value."
+    },
+    {
+      "sourceId": "107c",
+      "description": "Data from the industry to the Food Composition Table 2014, calculated value from industrial recipe."
+    },
+    {
+      "sourceId": "108a",
+      "description": "Data from the industry to the Food Composition Table 2015, unspecified/verified value."
+    },
+    {
+      "sourceId": "108b",
+      "description": "Data from the industry to the Food Composition Table 2015, analysed value."
+    },
+    {
+      "sourceId": "108c",
+      "description": "Data from the industry to the Food Composition Table 2015, calculated value from industrial recipe."
+    },
+    {
+      "sourceId": "109a",
+      "description": "Data from the industry to the Food Composition Table 2016, unspecified/verified value."
+    },
+    {
+      "sourceId": "109b",
+      "description": "Data from the industry to the Food Composition Table 2016, analysed value."
+    },
+    {
+      "sourceId": "109c",
+      "description": "Data from the industry to the Food Composition Table 2016, calculated value."
+    },
+    {
+      "sourceId": "110a",
+      "description": "Data from the industry to the Food Composition Table 2017, unspecified/verified value."
+    },
+    {
+      "sourceId": "110b",
+      "description": "Data from the industry to the Food Composition Table 2017, analysed value."
+    },
+    {
+      "sourceId": "111a",
+      "description": "Data from the industry to the Food Composition Table 2018, unspecified/verified value."
+    },
+    {
+      "sourceId": "111b",
+      "description": "Data from the industry to the Food Composition Table 2018, analysed value."
+    },
+    {
+      "sourceId": "112a",
+      "description": "Data from the industry to the Food Composition Table 2019, unspecified/verified   value. "
+    },
+    {
+      "sourceId": "113a",
+      "description": "Data from the industry to the Food Composition Table 2020, unspecified/verified value."
+    },
+    {
+      "sourceId": "113b",
+      "description": "Data from the industry to the Food Composition Table 2020, analysed value."
+    },
+    {
+      "sourceId": "114a",
+      "description": "Data from the industry to the Food Composition Table 2021, unspecified/verified value."
+    },
+    {
+      "sourceId": "115a",
+      "description": "Data from the industry to the Food Composition Table 2022, unspecified/verified value."
+    },
+    {
+      "sourceId": "115b",
+      "description": "Data from the industry to the Food Composition Table 2022, analysed value."
+    },
+    {
+      "sourceId": "116a",
+      "description": "Data from the industry to the Food Composition Table 2023, unspecified/verified value."
+    },
+    {
+      "sourceId": "116b",
+      "description": "Data from the industry to the Food Composition Table 2023, analysed value."
+    },
+    {
+      "sourceId": "116c",
+      "description": "Data from the industry to the Food Composition Table 2023, calculated value."
+    },
+    {
+      "sourceId": "117a",
+      "description": "Data from the industry to the Food Composition Table 2024, unspecified/verified value."
+    },
+    {
+      "sourceId": "117b",
+      "description": "Data from the industry to the Food Composition Table 2024, analysed value."
+    },
+    {
+      "sourceId": "117c",
+      "description": "Data from the industry to the Food Composition Table 2024, calculated value."
+    },
+    {
+      "sourceId": "120",
+      "description": "Product information, information from nutrition labelling/internet sites, 2009/2010. "
+    },
+    {
+      "sourceId": "121",
+      "description": "Product information, information from nutrition labelling/internet sites, 2011/2012. "
+    },
+    {
+      "sourceId": "122",
+      "description": "Product information, information from nutrition labelling/internet sites, 2015. "
+    },
+    {
+      "sourceId": "123",
+      "description": "Product information, information from nutrition labelling/internet sites, 2017. "
+    },
+    {
+      "sourceId": "124",
+      "description": "Product information, information from nutrition labelling/internet sites, 2018. "
+    },
+    {
+      "sourceId": "125",
+      "description": "Product information, information from nutrition labelling/internet sites, 2019. "
+    },
+    {
+      "sourceId": "126",
+      "description": "Product information, information from nutrition labelling/internet sites, 2020. "
+    },
+    {
+      "sourceId": "127",
+      "description": "Product information, information from nutrition labelling/internet sites, 2021. "
+    },
+    {
+      "sourceId": "128",
+      "description": "Product information, information from nutrition labelling/internet sites, 2022. "
+    },
+    {
+      "sourceId": "129",
+      "description": "Product information, information from nutrition labelling/internet sites, 2023. "
+    },
+    {
+      "sourceId": "130",
+      "description": "Calculated value weighted by sales figures/market data/consumption data, for example for unspecified food items."
+    },
+    {
+      "sourceId": "131",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2006 or earlier versions)."
+    },
+    {
+      "sourceId": "132",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2012)."
+    },
+    {
+      "sourceId": "133",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2013)."
+    },
+    {
+      "sourceId": "134",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2014)."
+    },
+    {
+      "sourceId": "135",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2015)."
+    },
+    {
+      "sourceId": "136",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2016)."
+    },
+    {
+      "sourceId": "137",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2017)."
+    },
+    {
+      "sourceId": "138",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2018)."
+    },
+    {
+      "sourceId": "140",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2020)."
+    },
+    {
+      "sourceId": "141",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2021)."
+    },
+    {
+      "sourceId": "142",
+      "description": "Calculated value from in-house recipe (to the Food Composition Table 2024)."
+    },
+    {
+      "sourceId": "150",
+      "description": "Product information, information from nutrition labelling/internet sites, 2024. "
+    },
+    {
+      "sourceId": "20",
+      "description": "Estimated value."
+    },
+    {
+      "sourceId": "200",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1992-1993. Fruits, vegetables and bakery. Internal notes."
+    },
+    {
+      "sourceId": "201",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1993. Fruits and vegetables. Internal notes."
+    },
+    {
+      "sourceId": "202",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1994. Vegetables and berries. Internal notes."
+    },
+    {
+      "sourceId": "203",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1995. Vegetables and bread. Internal notes."
+    },
+    {
+      "sourceId": "204",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1996. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "205",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1997-1998. Eggs and flour. Internal notes."
+    },
+    {
+      "sourceId": "206",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1999-2000. Potatoes, liver paste, bread and baby food. Internal notes."
+    },
+    {
+      "sourceId": "207",
+      "description": "National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 2000. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "208",
+      "description": "Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2001-2002. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "209",
+      "description": "Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2002-2003. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "210",
+      "description": "Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2004. Bakery, biscuits, breakfast cereals and oils. Internal notes."
+    },
+    {
+      "sourceId": "211",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2005. White wheat flour. Published report (2008); ”The nutritional composition of Norwegian white wheat flour, 78 % extraction”. http://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The+nutritional+composition+of+Norwegian+white+wheat+flour+-+report+%282008%29+%28PDF%29"
+    },
+    {
+      "sourceId": "212",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2004. Vegetables - additional analyses. Internal notes."
+    },
+    {
+      "sourceId": "213",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2004-2005. Meat products. Internal report."
+    },
+    {
+      "sourceId": "214",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2007. Cold cuts of meat. Internal report."
+    },
+    {
+      "sourceId": "215",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2007-2008. Trans fat. Published report (2013); «Transfettsyrer i importerte oljer, vegetabilsk fett, kavring, kjeks og tillagede produkter». https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/transfettsyrer-i-importerte-oljer-vegetabilsk-fett-kavring-kjeks-og-tillagede-produkter-2008"
+    },
+    {
+      "sourceId": "216",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2009. Raw fish. Published report (2012); “Nutritional composition of selected wild and farmed raw fish”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/nutritional-composition-of-selected-wild-and-farmed-raw-fish-2006-2008"
+    },
+    {
+      "sourceId": "217",
+      "description": "Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2009. Vitamin D in meat products. Internal report."
+    },
+    {
+      "sourceId": "218",
+      "description": "Norwegian Food Safety Authority and Directorate of Health. Nutrient analysis 2012-2013. Baby porridges. Published report (2013); “Næringsstoffanalyser av utvalgte barnegrøter 2012”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffanalyser-av-utvalgte-barnegroter-2013"
+    },
+    {
+      "sourceId": "219",
+      "description": "Norwegian Food Safety Authority, Directorate of Health and University of Oslo. Project 2013. Edible part of chicken. Published report (2013); “Spiselig del av kylling”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/spiselig-del-av-kylling-2013"
+    },
+    {
+      "sourceId": "220a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2013-2014. Tex-mex products. Published report (2014); \"Næringsstoff- og tungmetallanalyser av tex-mex-produkter\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-og-tungmetaller-i-tex-mex-mat-2014"
+    },
+    {
+      "sourceId": "220b",
+      "description": "Calculated mean value from reference 220a: Norwegian Food Safety Authority. Nutrient analysis 2013-2014. Tex-mex products. Published report (2014); \"Næringsstoff- og tungmetallanalyser av tex-mex-produkter\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-og-tungmetaller-i-tex-mex-mat-2014"
+    },
+    {
+      "sourceId": "221a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2014-2015. Chips and salted nuts. Published report (2015); \"Næringsstoff- og tungmetallanalyser av chips og salte nøtter\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/analyser-av-naeringsstoffer-og-tungmetaller-i-chips-og-salte-notter-2015"
+    },
+    {
+      "sourceId": "221b",
+      "description": "Calculated mean value from reference 221a: Norwegian Food Safety Authority. Nutrient analysis 2014-2015. Chips and salted nuts. Published report (2015); \"Næringsstoff- og tungmetallanalyser av chips og salte nøtter\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/analyser-av-naeringsstoffer-og-tungmetaller-i-chips-og-salte-notter-2015"
+    },
+    {
+      "sourceId": "222a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2015-2016. Pizza. Published report (2016): \"Næringsstoff- og tungmetallanalyser av pizza\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-og-tungmetaller-i-frossenpizzaer-2015"
+    },
+    {
+      "sourceId": "222b",
+      "description": "Calculated mean value from reference 222a: Norwegian Food Safety Authority. Nutrient analysis 2015-2016. Pizza. Published report (2016): \"Næringsstoff- og tungmetallanalyser av pizza\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-og-tungmetaller-i-frossenpizzaer-2015"
+    },
+    {
+      "sourceId": "223a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2015-2016. Fish products. Published report (2016): \"Næringsstoff- og tungmetallanalyser av fiskeprodukter\". https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/b606594d-425c-4a53-905e-1fe5c692bb55:b1706535859330ba7325546d7812aa59e4dd84b7/Rapport_%20N%C3%A6ringsstoff%20og%20tungmetallanalyser%20av%20fiskeprodukter%202016.pdf"
+    },
+    {
+      "sourceId": "223b",
+      "description": "Calculated mean value from reference 223a: Norwegian Food Safety Authority. Nutrient analysis 2015-2016. Fish products.  Published report (2016): \"Næringsstoff- og tungmetallanalyser av fiskeprodukter\". https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/b606594d-425c-4a53-905e-1fe5c692bb55:b1706535859330ba7325546d7812aa59e4dd84b7/Rapport_%20N%C3%A6ringsstoff%20og%20tungmetallanalyser%20av%20fiskeprodukter%202016.pdf"
+    },
+    {
+      "sourceId": "224a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2016-2017. Egg and chicken. Published report (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffer-og-miljogifter-i-egg-og-kylling"
+    },
+    {
+      "sourceId": "224b",
+      "description": "Calculated mean value from reference 224a: Norwegian Food Safety Authority. Nutrient analysis 2016-2017. Egg and chicken. Published report (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffer-og-miljogifter-i-egg-og-kylling"
+    },
+    {
+      "sourceId": "224c",
+      "description": "Calculated value from reference 224a: Norwegian Food Safety Authority. Nutrient analysis 2016-2017. Egg and chicken. Published report (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffer-og-miljogifter-i-egg-og-kylling"
+    },
+    {
+      "sourceId": "225a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2017-2018. Cereals. Published report (2017): «Næringstoff og tungmetaller, akrylamid og mykotoksin i brød, knekkebrød og frokostblandinger». https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/3f648304-e827-48a3-a93b-32610c93b8fd:b6579baf8215bea336408727f15326a5f58a78ea/Rapport%202017_%20N%C3%A6ringstoffer,%20tungmetaller,%20akrylamid%20og%20mykotoksin%20i%20br%C3%B8d,%20knekkebr%C3%B8d%20og%20frokostblandinger.pdf"
+    },
+    {
+      "sourceId": "225b",
+      "description": "Calculated mean value from reference 225a: Norwegian Food Safety Authority. Nutrient analysis 2017-2018. Cereals. Published report (2017): «Næringstoff og tungmetaller, akrylamid og mykotoksin i brød, knekkebrød og frokostblandinger». https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/3f648304-e827-48a3-a93b-32610c93b8fd:b6579baf8215bea336408727f15326a5f58a78ea/Rapport%202017_%20N%C3%A6ringstoffer,%20tungmetaller,%20akrylamid%20og%20mykotoksin%20i%20br%C3%B8d,%20knekkebr%C3%B8d%20og%20frokostblandinger.pdf"
+    },
+    {
+      "sourceId": "226",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2017-2018. Rice products. Published report (2018): \"Analyser av arsen, tungmetaller og næringsstoffer i risprodukter 2018\". https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/0949e533-59d2-42fa-82da-0faf23ee5075:e9b510ab7e509ec60cb2bb63d2e5dcbaf49b0310/Rapport%202018_%20Analyser%20av%20arsen,%20tungmetaller%20og%20n%C3%A6ringsstoffer%20i%20risprodukter.pdf"
+    },
+    {
+      "sourceId": "227a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2017-2018. Meat products. Published report (2018): \"Næringsstoffer og tungmetaller i kjøttpålegg\", https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/f70832a8-6be6-40e0-b051-216f70df0e2d:8da3513d64dd56c8bc20094282d4604abd26418a/Rapport_%20Analyser%20av%20n%C3%A6ringsstoffer%20og%20tungmetaller%20i%20kj%C3%B8ttp%C3%A5legg%202018.pdf"
+    },
+    {
+      "sourceId": "227b",
+      "description": "Calculated mean value from reference 227a: Norwegian Food Safety Authority. Nutrient analysis 2017-2018. Meat products. Published report (2018): \"Næringsstoffer og tungmetaller i kjøttpålegg\", https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/f70832a8-6be6-40e0-b051-216f70df0e2d:8da3513d64dd56c8bc20094282d4604abd26418a/Rapport_%20Analyser%20av%20n%C3%A6ringsstoffer%20og%20tungmetaller%20i%20kj%C3%B8ttp%C3%A5legg%202018.pdf"
+    },
+    {
+      "sourceId": "228a",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2018-2019. Meat products. Published report (2019): «Næringsstoff- og tungmetallanalyser i kjøttprodukter». https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/05decabb-c0a4-47bd-a7b5-afaf8336025b:04c2aab4770287e883daf363e4d74a7f6508b0a0/Rapport%202019_%20N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20i%20kj%C3%B8ttprodukter.pdf"
+    },
+    {
+      "sourceId": "228b",
+      "description": "Calculated mean value from reference 228a: Norwegian Food Safety Authority. Nutrient analysis 2018-2019. Meat products. Published report (2019): «Næringsstoff- og tungmetallanalyser i kjøttprodukter». https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/05decabb-c0a4-47bd-a7b5-afaf8336025b:04c2aab4770287e883daf363e4d74a7f6508b0a0/Rapport%202019_%20N%C3%A6ringsstoff-%20og%20tungmetallanalyser%20i%20kj%C3%B8ttprodukter.pdf"
+    },
+    {
+      "sourceId": "229",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2018-2019. Cheese, processed cheese and margarine. Internal notes"
+    },
+    {
+      "sourceId": "230",
+      "description": "Norwegian Food Safety Authority. Analyses of vitamin A in liver paste, 2019-2020. \r\nInternal notes."
+    },
+    {
+      "sourceId": "231",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2019-2021. Cereal products. Published report (2021): \"Analyse av næringsstoffer, tungmetaller og mykotoksiner i korn\". https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/ab1e2905-1762-4e8d-9440-6d0565b5ce65:5df4fd2205ee60cfd5c0f5817a9c46dc94733bfc/Rapport_%20Analyser%20av%20n%C3%A6ringsstoffer,%20tungmetaller%20og%20mykotoksiner%20i%20kornprodukter%202021.pdf"
+    },
+    {
+      "sourceId": "232",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2020-2021. Plant based products. Published report (2022): Analyse av næringsstoffer og uønskede stoffer i plantebaserte middagsprodukter og drikker. https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/7d9fc8db-bd4f-4bf9-93ea-35e07ea4c1c3:f66e97a97355f3c0ae9f3a3ca5a5e7163d9c4fab/Rapport_%20Analyser%20av%20n%C3%A6ringsstoffer%20og%20u%C3%B8nskede%20stoffer%20i%20plantebaserte%20middagsprodukter%20og%20drikker%202021.pdf"
+    },
+    {
+      "sourceId": "233",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2022. Plant-based products used as cheese and ham, mackerel in tomato sauce, cod liver oil, pepperoni and dried fruit. Published report (2022): \"Analyse av næringsstoffer og uønskede stoffer i vegan- og fiskepålegg, tran, pepperoni og tørket frukt\". https://mattilsynet-xp7prod.enonic.cloud/_/attachment/inline/1304195b-d0e2-451b-a22b-b8ba92efc1e7:b9fe162c5716d1ce5adbd3cae7c977406d65377e/Rapport_%20Analyser%20av%20n%C3%A6ringsstoffer%20og%20u%C3%B8nskede%20stoffer%20i%20vegan-og%20fiskep%C3%A5legg,%20tran,%20pepperoni%20og%20t%C3%B8rket%20frukt%202022.pdf"
+    },
+    {
+      "sourceId": "234",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2023. Ice cream. Published report (2023): \"Analyser av næringsstoffer og tungmetaller i boksis og plantebasert pålegg\",  https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-og-tungmetaller-i-matvarer/analyser-av-naeringsstoffer-og-tungmetaller-i-boksis-og-plantebasert-palegg-2023"
+    },
+    {
+      "sourceId": "235",
+      "description": "Norwegian Food Safety Authority. Nutrient analysis 2024. Vegetables. Internal notes. "
+    },
+    {
+      "sourceId": "280",
+      "description": "Value calculated from reference 200 (1992-1993) and 201 (1993)."
+    },
+    {
+      "sourceId": "281",
+      "description": "Value calculated from reference 200 (1992-1993), 201 (1993) and 203 (1995)."
+    },
+    {
+      "sourceId": "282",
+      "description": "Value calculated from reference 200 (1992-1993) and 206 (1999-2000)."
+    },
+    {
+      "sourceId": "283",
+      "description": "Value calculated from reference 201 (1993) and 203 (1995)."
+    },
+    {
+      "sourceId": "284",
+      "description": "Value calculated from reference 202 (1994) and 208 (2001-2002)."
+    },
+    {
+      "sourceId": "285",
+      "description": "Value calculated from reference 205 (1997-1998) and 207 (2000)."
+    },
+    {
+      "sourceId": "286",
+      "description": "Value calculated from reference 216 (2006-2009) and 321b (2010)."
+    },
+    {
+      "sourceId": "30",
+      "description": "Calculated value from a similar food item."
+    },
+    {
+      "sourceId": "300",
+      "description": "Nordnes T and Offergaard E. Næringsinnholdet i frukt, bær og grønnsaker [Nutrient content of fruits, berries and vegetables]. Forskning og forsøk i landbruket [Research and experiments in agriculture], 1958."
+    },
+    {
+      "sourceId": "301",
+      "description": "Taarland T, Mathiesen E, Øvsthus Ø and Brækkan OR. Næringsverdi og vitaminer i norsk fisk og fiskevarer [Content of nutrients and vitamins in Norwegian fish and fish products].  Vitamin laboratory, Directorate of Fisheries' Chemical Technical Research Institute. Reprint of the Journal for the Canning Industry. No. 11:405-412, 1958."
+    },
+    {
+      "sourceId": "302",
+      "description": "National Institute for Consumer Research. Analysis Data of vegetables. Internal notes, 1973."
+    },
+    {
+      "sourceId": "303",
+      "description": "Rimestad AH and Pharo AK. Spiselig del av fisk [Edible portion of fish], Matvett No. 4, 1981."
+    },
+    {
+      "sourceId": "304",
+      "description": "National Association of Diet and Health and Norway's Harvesting Laboratory. Analyses of nutrient content in pork, beef and lamb. Internal note, Oslo, 1983."
+    },
+    {
+      "sourceId": "305",
+      "description": "Øybø AM and Rognerud G. Innhold av en del næringsstoffer i produkter av bygg, havre og ris. [Content of some nutrients in products of barley, oats and rice]. National Institute for Consumer research, 1983."
+    },
+    {
+      "sourceId": "306",
+      "description": "Blaker B, Jørgensen K, Rimestad AH and Solvang A. Poteter, grønnsaker, frukt og bær - stykkvekt og spiselig del [Potatoes, vegetables, fruit and berries - pack weight, volume weight and edible portion], Matvett No. 3, 1989."
+    },
+    {
+      "sourceId": "307",
+      "description": "Blaker B, Rimestad AH and Lambertsen G. Vitamin E i mel og brød [Vitamin E in flour and bread], Matvett No. 3, 1990."
+    },
+    {
+      "sourceId": "308",
+      "description": "Blaker B. Nutrient content of meat products, blood and liver. Internal report. National Association of Diet and Health. Oslo, 1991."
+    },
+    {
+      "sourceId": "309",
+      "description": "Norwegian Meat. Nutrient content of pork, 1991."
+    },
+    {
+      "sourceId": "310",
+      "description": "The Norwegian Grain Business [Statens kornforretning]. Control analyses, 1991."
+    },
+    {
+      "sourceId": "311",
+      "description": "Statkorn. Quality index for grain and flour, 1991-1994."
+    },
+    {
+      "sourceId": "312",
+      "description": "Norwegian Seafood Export Council, Directorate for Fisheries, Fresh Fish Sales Association, Information Council for Fish and Norwegian National Council for Nutrition. Facts about fish. Tromsø, 1993."
+    },
+    {
+      "sourceId": "313",
+      "description": "Bryggeriindustriens forskningslaboratorium. Nutrient analysis. Internal notes, 1994."
+    },
+    {
+      "sourceId": "314",
+      "description": "Lie Ø, Lied E, Maage A, Njaa L and Sandnes K. Nutrient content in fish and shellfish. Fiskeridirektoratets Skrifter Serie Ernæring 6(2):83-105, 1994."
+    },
+    {
+      "sourceId": "315",
+      "description": "Norwegian Meat. Nutritional content of lamb, beef and pork, 1995."
+    },
+    {
+      "sourceId": "316",
+      "description": "Directorate of Fisheries, Institute of Nutrition. Analytical data for Norwegian salmon 1997-99 and shellfish 1991. Internal notes."
+    },
+    {
+      "sourceId": "317",
+      "description": "Fjordland. Nutrient analysis conducted in 2007-2008. Analyses of dinner dishes. Internal notes."
+    },
+    {
+      "sourceId": "318",
+      "description": "The Norwegian Meat Council. Nutrient analysis conducted in 2008-2009. Analyses of pork. Published report; “Analyser av svinekjøtt 2009”."
+    },
+    {
+      "sourceId": "319",
+      "description": "The Norwegian Meat Council. Nutrient analysis conducted in 2009-2010. Analyses of lamb and beef. Internal report. "
+    },
+    {
+      "sourceId": "320",
+      "description": "Personal communication. Ammar Ali Hassan, Centre for Sami Health Research, Department of Community Medicine, University of Tromsø, 2011."
+    },
+    {
+      "sourceId": "321a",
+      "description": "NIFES, National Institute of Nutrition and Seafood Research, weighted value/estimated.  "
+    },
+    {
+      "sourceId": "321b",
+      "description": "NIFES, National Institute of Nutrition and Seafood Research. Seafood Database, July 12th 2010"
+    },
+    {
+      "sourceId": "321c",
+      "description": "NIFES, National Institute of Nutrition and Seafood Research. Seafood Database, October 25th 2012"
+    },
+    {
+      "sourceId": "321d",
+      "description": "NIFES, National Institute of Nutrition and Seafood Research. Seafood Database, November 5th 2013"
+    },
+    {
+      "sourceId": "321e",
+      "description": "Institute of Marine Research, Seefood data, 2020"
+    },
+    {
+      "sourceId": "321f",
+      "description": "Institute of Marine Research, Seefood data, 2022, https://sjomatdata.hi.no"
+    },
+    {
+      "sourceId": "321g",
+      "description": "Institute of Marine Research, Seefood data, 2023, https://sjomatdata.hi.no"
+    },
+    {
+      "sourceId": "321h",
+      "description": "Institute of Marine Research, Seefood data, 2024, https://sjomatdata.hi.no"
+    },
+    {
+      "sourceId": "322",
+      "description": "Triumf, EC., Purchas, RW., Mielnik, M., Maehre, HK., Elvevoll, E., Slinde, E., Egelandsdal, B. Composition and some quality characteristics of the longissimus muscle of reindeer in Norway compared to farmed New Zealand red deer. Meat Science 90(2012), 122-129."
+    },
+    {
+      "sourceId": "323",
+      "description": "Egelandsdal, B. et.al (2017). Identification of the healthiest beef meat (2013-2017)."
+    },
+    {
+      "sourceId": "324",
+      "description": "Animalia. Utredningsprosjekt 2017. Analyses of 72 pork livers (composite samples of 308 pork livers) and 22 liver paste. "
+    },
+    {
+      "sourceId": "325",
+      "description": "University of Oslo (2018). Iodine project 2017-2018."
+    },
+    {
+      "sourceId": "326",
+      "description": "Orkla, Nortura, Animalia. Utredningsprosjekt 2019. Analyses of vitamin A in 18 liver pastes, and calculation of vitamin A in pork liver."
+    },
+    {
+      "sourceId": "327",
+      "description": "Calculated mean value from reference 230 (Norwegian Food Safety Authority. \r\nAnalyses of vitamin A in liver paste, 2019-2020. Internal notes) and reference \r\n326 (Orkla, Nortura, Animalia. Utredningsprosjekt 2019. Analyses of vitamin A in 18 liver pastes, and calculation of vitamin A in pork liver)."
+    },
+    {
+      "sourceId": "328",
+      "description": "Yilmaz, HO., Arslan, M. Teff: Nutritional Compounds and Effects on Human Health. Acta Scientific Medical Sciences 2.9(2018), 15-18."
+    },
+    {
+      "sourceId": "329",
+      "description": "Svarc, PL, Jensen, MB, Langwagen, M., Poulsen, A., Trolle, E, Jacobsen, J. Nutrient content in plant-based protein products intended for food composition databases. Journal of Food Composition and Analysis, 106(2022). Online version, https://www.sciencedirect.com/science/article/pii/S0889157521005329?via%3Dihub"
+    },
+    {
+      "sourceId": "330",
+      "description": "Norwegian meat and poultry research centre, Norwegian meat and poultry association, Matprat, University of Oslo and Norwegian food safety authority (2024). Updating nutritional value of Norwegian bovine meat 2020-2022. Published report, https://animalia.no/globalassets/kosthold-og-ernaring---bilder-og-dokumenter/naringsstoffanalyser-av-storfe-2020-2022.pdf"
+    },
+    {
+      "sourceId": "331",
+      "description": "Frydenberg, H, Urke EB & Carlsen MH. Sugar project 2021-2024. University of Oslo, department of nutrition."
+    },
+    {
+      "sourceId": "332",
+      "description": "Norwegian meat and poultry research centre, Norwegian meat and poultry association, Matprat, University of Oslo and Norwegian food safety authority (2024). Updating nutritional value of Norwegian pork meat. Published report, https://animalia.no/contentassets/dc7d25d948134f1d9f25fd6a657f96ad/251444-animalia-naringsstoffanalyser-svin-02.pdf"
+    },
+    {
+      "sourceId": "333",
+      "description": "Aakre, I., Tveit, IB., Myrmel, LS., Fjære, E., Ballance, S., Rosendal-Riise, H.:  Bioavailability of iodine from a meal consisting of sushi and a wakame seaweed salad—A randomized crossover trial. Food Science & Nutrition. 2023;00:1–11. Online version, https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.3689 "
+    },
+    {
+      "sourceId": "334",
+      "description": "Norwegian meat and poultry research centre, Norwegian meat and poultry association, Matprat, University of Oslo and Norwegian food safety authority (2023). Updating nutritional value of Norwegian lamb meat 2022-2023. Published report, https://animalia.no/contentassets/dc7d25d948134f1d9f25fd6a657f96ad/251443-animalia-naringsstoffanalyser-lam-nettversjon.pdf"
+    },
+    {
+      "sourceId": "335",
+      "description": "Carlsen, MH., Kielland, E., Markhus, MW., Dahl, L. Iodine concentration in tap water; mineral water, and coffee. Food & Nutrition Research 2023, 67:9517. http://dx.doi.org/10.29219/fnr.v67.9517"
+    },
+    {
+      "sourceId": "336",
+      "description": "Reksten, AM, Wiech, M, Aakre, I, Markhus, MW, Nøstbakken, OJ, Hannisdal, R, Madsen, L, Dahl, L. Exploring the nutrient composition of various shellfish available in Norway and their role in providing key nutrients. Journal of Food Composition and Analysis, 128 (2024). https://doi.org/10.1016/j.jfca.2024.106003"
+    },
+    {
+      "sourceId": "40",
+      "description": "Old data, unknown origin. "
+    },
+    {
+      "sourceId": "400a",
+      "description": "Swedish National Food Agency. The food database, version 2008.05.05."
+    },
+    {
+      "sourceId": "400b",
+      "description": "Converted value from reference 400a: Swedish National Food Agency. The food database, version 2008.05.05. "
+    },
+    {
+      "sourceId": "400c",
+      "description": "Swedish National Food Agency. The food database, version 2013.01.10."
+    },
+    {
+      "sourceId": "400d",
+      "description": "Swedish National Food Agency. The food database, version 2014.01.03. "
+    },
+    {
+      "sourceId": "400e",
+      "description": "Swedish National Food Agency. The food database, version 2015.03.09. "
+    },
+    {
+      "sourceId": "400f",
+      "description": "Swedish National Food Agency. The food database, version 2016.02.17. "
+    },
+    {
+      "sourceId": "400g",
+      "description": "Swedish National Food Agency. The food database, version 2017.12.15. "
+    },
+    {
+      "sourceId": "400h",
+      "description": "Swedish National Food Agency. The food database, version 2020.01.16. "
+    },
+    {
+      "sourceId": "400i",
+      "description": "Swedish National Food Agency. The food database, version 2021.05.03. Online version, https://soknaringsinnehall.livsmedelsverket.se/"
+    },
+    {
+      "sourceId": "400j",
+      "description": "Swedish National Food Agency. The food database, version 2022.05.24. Online version, https://soknaringsinnehall.livsmedelsverket.se/"
+    },
+    {
+      "sourceId": "400k",
+      "description": "Swedish National Food Agency. The food database, version 2023.06.13. Online version, https://soknaringsinnehall.livsmedelsverket.se/"
+    },
+    {
+      "sourceId": "400l",
+      "description": "Swedish National Food Agency. The food database, version 2024.05-29. Online version, https://soknaringsinnehall.livsmedelsverket.se/"
+    },
+    {
+      "sourceId": "410a",
+      "description": "Finnish National Institute for Health and Welfare. Fineli food database, version 9 (2008). "
+    },
+    {
+      "sourceId": "410b",
+      "description": "Converted value from reference 410a: Finnish National Institute for Health and Welfare. Fineli food database, version 9 (2008). "
+    },
+    {
+      "sourceId": "410c",
+      "description": "Finnish National Institute for Health and Welfare. Fineli food database, version 14 (2011). "
+    },
+    {
+      "sourceId": "410d",
+      "description": "Finnish National Institute for Health and Welfare. Fineli food database, version 16 (2013). "
+    },
+    {
+      "sourceId": "410e",
+      "description": "Finnish National Institute for Health and Welfare. Fineli food database, version 18 (2017). "
+    },
+    {
+      "sourceId": "410f",
+      "description": "Finnish National Institute for Health and Welfare. Fineli food database, version 20 (2019). Online version, http://www.fineli.fi/index.php?lang=sv"
+    },
+    {
+      "sourceId": "420a",
+      "description": "National Food Institute – Technical University of Denmark (DTU). Food database, version 7.01 (2009). "
+    },
+    {
+      "sourceId": "420b",
+      "description": "Converted value from reference 420a: National Food Institute – Technical University of Denmark (DTU). Food database, version 7.01 (2009). "
+    },
+    {
+      "sourceId": "420c",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database, Frida version 1. (2015). "
+    },
+    {
+      "sourceId": "420d",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database, Frida version 2. (2016). "
+    },
+    {
+      "sourceId": "420e",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database, Frida version 3. (2017). "
+    },
+    {
+      "sourceId": "420f",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database,   Frida version 3.7. (2019). Online version, http://frida.fooddata.dk "
+    },
+    {
+      "sourceId": "420g",
+      "description": "Calculated mean from reference 420f: National Food Institute - Technical  University of Denmark (DTU). Food database, Frida version 7. (2019). Online version,  http://frida.fooddata.dk  "
+    },
+    {
+      "sourceId": "420h",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database,   Frida version 4.1. (2022). Online version, http://frida.fooddata.dk "
+    },
+    {
+      "sourceId": "420i",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database,   Frida version 5.1. (2023). Online version, http://frida.fooddata.dk "
+    },
+    {
+      "sourceId": "420j",
+      "description": "National Food Institute - Technical University of Denmark (DTU). Food database,   Frida version 5.2. (2024). Online version, http://frida.fooddata.dk "
+    },
+    {
+      "sourceId": "430a",
+      "description": "French Agency for Food, Environmental and Occupational Health Safety. French food composition table - Ciqual 2012. "
+    },
+    {
+      "sourceId": "430b",
+      "description": "French Agency for Food, Environmental and Occupational Health safety. French food composition table - Ciqual 2017. "
+    },
+    {
+      "sourceId": "430c",
+      "description": "French Agency for Food, Environmental and Occupational Health safety. French food composition table - Ciqual 2020. Nettversjon, https://ciqual.anses.fr/"
+    },
+    {
+      "sourceId": "440a",
+      "description": "The Icelandic Food Composition Database, ISGEM (2009). Online version, http://www.matis.is/ISGEM/en/search/"
+    },
+    {
+      "sourceId": "450a",
+      "description": "Food Standards Agency (2002). McCance and Widdowson’s The Composition of Foods, Sixth summary edition. Cambridge: The Royal Society of Chemistry."
+    },
+    {
+      "sourceId": "450b",
+      "description": "Converted value from reference 450a: Food Standards Agency (2002). McCance and Widdowson’s The Composition of Foods, Sixth summary edition. Cambridge: The Royal Society of Chemistry. "
+    },
+    {
+      "sourceId": "450c",
+      "description": "Public Health England og Institute of food research (2015). McCance and Widdowson`s The Composition of Foods, Seventh summary edition. Cambridge: The Royal Society of Chemistry."
+    },
+    {
+      "sourceId": "450d",
+      "description": "Food Databanks National Capability (2021). Food Databanks National Capability (FDNC) extended dataset based on PHE’s McCance and Widdowson’s Composition of Foods Integrated Dataset. Online version, https://quadram.ac.uk/UKfoodcomposition/  "
+    },
+    {
+      "sourceId": "460a",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, Release 18 (2005)."
+    },
+    {
+      "sourceId": "460b",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, Release 23 (2010). "
+    },
+    {
+      "sourceId": "460c",
+      "description": "Converted value from reference 460b: US Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, Release 23 (2010). "
+    },
+    {
+      "sourceId": "460d",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 24 (2011). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "460e",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 25 (2012). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "460f",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 27 (2014). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "460g",
+      "description": "US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 28 (2015). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "460h",
+      "description": "U.S. Department of Agriculture, Agricultural Research Service. FoodData Central, 2019. https://fdc.nal.usda.gov/"
+    },
+    {
+      "sourceId": "470a",
+      "description": "National Institute for Public Health and the Environment. NEVO online, version 2010/2.0. "
+    },
+    {
+      "sourceId": "470b",
+      "description": "National Institute for Public Health and the Environment. NEVO online, version 2013/4.0."
+    },
+    {
+      "sourceId": "470c",
+      "description": "National Institute for Public Health and the Environment. NEVO online, version 2016/5.0."
+    },
+    {
+      "sourceId": "470d",
+      "description": "National Institute for Public Health and the Environment. NEVO online, versjon 2023/580. http://nevo-online.rivm.nl/"
+    },
+    {
+      "sourceId": "480a",
+      "description": "Swiss Federal Office of Public Health. Swiss Food Composition Database. Version 5.0. (2013). Online version, http://www.naehrwertdaten.ch"
+    },
+    {
+      "sourceId": "490a",
+      "description": "Instituto Nazionale di Recerca per gli Alimenti e la Nutrizione. Tabelle dicomposizione degli alimenti. Online version, http://nut.entecra.it/646/tabelle_di_composizione_degli_alimenti.html"
+    },
+    {
+      "sourceId": "50",
+      "description": "Estimated as a naturally occurring zero value, not analysed."
+    },
+    {
+      "sourceId": "500a",
+      "description": "Standard Tables of Food Composition in Japan. Version 7 (2015). Online version, www.mext.go.jp/en/policy/science_technology/policy/title01/detail01/1374030.htm"
+    },
+    {
+      "sourceId": "510a",
+      "description": "Spanish Food Composition Database. BEDCA v.2.1. Nettversjon, https://www.bedca.net/bdpub/index_en.php"
+    },
+    {
+      "sourceId": "600",
+      "description": "Hansen K, Knuthsen P, Saxholt, E. Næringsstofindhold i chips [Nutrient content of chips]. Fødevaredirektoratet, Søborg, 2001."
+    },
+    {
+      "sourceId": "601",
+      "description": "Gard, C., Mattisson, I., Staffas, A., Åstrand, C. Fullkorn, bönor och ägg – analys av näringsämnen [Rapport 2-2010]. [Whole grain, beans and eggs, analyses of nutrients]. Livsmedelsverket, Uppsala, 2010. Online version, http://www.slv.se/upload/dokument/rapporter/mat_naring/2010_livsmedelsverket_2_agg_bonor_fullkorn.pdf"
+    },
+    {
+      "sourceId": "602",
+      "description": "Pearson, M., Engman, J., Rundberg, B., von Malmborg, A., Wretling, S., Öhrvik V. Grönsaker och rotfrukter – analys av näringsämnen [Rapport 10-2013]. [Vegetables and roots - analyses of nutrients]. Livsmedelsverket, Uppsala, 2013. Online version, http://www.slv.se/upload/dokument/rapporter/mat_naring/2013/2013_livsmedelsverket_10_gronsaker_och_rotfrukter_analys_av_naringsamnen.pdf?epslanguage=sv"
+    },
+    {
+      "sourceId": "603",
+      "description": "Öhrvik, V., Engman, J., von Malmborg, A., Wretling, S. Kött - analys av näringsämnen - hjort, lamm, nötdjur, ren, rådjur, vildsvin och kalkon [Rapport 24-2013]. [Meat - nutrient analysis - deer, lamb, beef, reindeer, roe deer, wildboar and turkey]. Livsmedelsverket, Uppsala, 2013. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2013/2013_livsmedelsverket_24_kott_analys_av_naringsamnen.pdf"
+    },
+    {
+      "sourceId": "604",
+      "description": "Department of Health. Nutrient analysis of fish and fish products. Summary report. Department of Health, London, 2013. Online version, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/167921/Nutrient_analysis_of_fish_and_fish_products_-_Summary_Report.pdf"
+    },
+    {
+      "sourceId": "605",
+      "description": "Finnish Food Safety Authority (Evira) (2015). Analysis of dietary fibre,  unpublished results. "
+    },
+    {
+      "sourceId": "606",
+      "description": "Öhrvik, V., Engman, J., Grönholm, R., Staffas, A., Strandler, HS,. von Malmborg, A. Grönsaker, svamp och frukt - analys av näringsämnen. [Rapport 3-2016]. [Vegetables, mushrooms and fruits - analyses of nutrients]. Livsmedelsverket, Uppsala, 2016. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2016/gronsaker-svamp-och-frukt---analys-av-naringsamnen---rapport-3_2016.pdf"
+    },
+    {
+      "sourceId": "607",
+      "description": "Öhrvik, V., Engman, J., Grönholm, R., Staffas, A., Strandler, HS,. von Malmborg, A. Drycker - analys av näringsämnen. [Rapport 20-2015]. [Drinks - analyses of nutrients]. Livsmedelsverket, Uppsala, 2015. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2015/drycker---analys-av-naringsamnen---rapport-20_2015.pdf"
+    },
+    {
+      "sourceId": "608",
+      "description": "Department of Health. Nutrient analysis of a range of processed foods with particular reference to trans fatty acids. Summary report. Department of Health, London, 2013. Online version, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/167938/Summary_Report.pdf"
+    },
+    {
+      "sourceId": "609",
+      "description": "Öhrvik, V., von Malmborg, A., Mattisson, I., Wretling, S., Åstrand, C. Fish, shellfish and fish products - analysis of nutrients. [Rapport 1-2012]. Livsmedelsverket, Uppsala, 2016. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2012/fish-shellfish-and-fish-products---analysis-of-nutrients-rapport-1-2012.pdf"
+    },
+    {
+      "sourceId": "60a",
+      "description": "Estimated as zero value when the analysed value is below the limit of quantification."
+    },
+    {
+      "sourceId": "60b",
+      "description": "Analysed value is below the limit of quantification of the method. The result is outside the measurement range of the accreditation of the method."
+    },
+    {
+      "sourceId": "60c",
+      "description": "Estimated value. Due to value falling in between the limit of detection and the limit of quantification, the value is estimated to be half of the limit of quantification. "
+    },
+    {
+      "sourceId": "610",
+      "description": "Public Health England. Nutrient analysis of fresh and processed fruit and vegetables with respect to fibre. Analytical report. Public Health England, London, 2017. Online version, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/603483/fruit_and_vegetable_survey_2015_analytical_report.pdf"
+    },
+    {
+      "sourceId": "611a",
+      "description": "Jacobsen, J., Bysted, A., Nielsen, C.W., Saxholt, E., Ygil, K.H., Trolle, E.  Næringsstofindhold i mel, gryn, kerner og frø. DTU Fødevareinstituttet, 2019.  Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2019/rapport-naeringsstofindhold-i-mel-gryn-kerner-og-froe.pdf"
+    },
+    {
+      "sourceId": "611b",
+      "description": "Calculated mean from reference 611a: Jacobsen, J., Bysted, A., Nielsen, C.W.,  Saxholt, E., Ygil, K.H., Trolle, E. Næringsstofindhold i mel, gryn, kerner og frø. DTU  Fødevareinstituttet, 2019. Online version, https://www.food.dtu.dk/ /media/Institutter/Foedevareinstituttet/Publikationer/Pub-2019/Rapport Naeringsstofindhold-i-mel-gryn-kerner-og froe.ashx?la=da&hash=37D0F8E4B1911C126767A3D5BE82797050DCC815 "
+    },
+    {
+      "sourceId": "612",
+      "description": "Pastell, H., Kollander, B., Valsta, L., Järvinen, J. Are gluten-free products a healthier alternative? A pilot study on nutrients and heavy metals. Nordic Council of Ministers, 2021. Nettversjon, https://pub.norden.org/temanord2021-516/temanord2021-516.pdf"
+    },
+    {
+      "sourceId": "613",
+      "description": "Department of Health. Nutrient analysis of fruit and vegetables. Summary report. Department of Health, London, 2013. Online version, https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/167942/Nutrient_analysis_of_fruit_and_vegetables_-_Summary_Report.pdf"
+    },
+    {
+      "sourceId": "614",
+      "description": "Axelsson, C., Sipinen, JP. Nötter, frön och gryn 2018 - analys av näringsämnen. [Nuts, seeds and grain - analyses of nutrients] Livsmedelsverket, Uppsala, 2018. Online version, https://www.livsmedelsverket.se/globalassets/publikationsdatabas/pm/2020/pm-2020-notter-fron-och-gryn-2018.pdf\r\nLivsmedelsverkets PM. Uppsala"
+    },
+    {
+      "sourceId": "615",
+      "description": "Axelsson, C., Sipinen, JP. Barnmat 2019. Analys av näringsämnen. Livsmedelsverket, Uppsala, 2021. Online version,https://www.livsmedelsverket.se/globalassets/publikationsdatabas/pm/2021/pm-2021-barnmat-2019-analys-av-naringsamnen.pdf"
+    },
+    {
+      "sourceId": "616",
+      "description": "Jacobsen, J., Danielsen, M., Langwagen, M., Poulsen, A., Trolle, E. Næringsstofindhold i bælgfrukter. DTU Fødevareinstitutet, 2023. Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2023/naeringsstofindhold-i-baelgfrugter_070823.pdf"
+    },
+    {
+      "sourceId": "617",
+      "description": "Jacobsen, J., Danielsen, M., Poulsen, A., Trolle, E. Næringsstofindhold i frosne frugter og grøntsager. DTU Fødevareinstitutet, 2023. Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2023/rapport-naeringsstofindhold-i-frosne-frugter-og-groentsager.pdf"
+    },
+    {
+      "sourceId": "618",
+      "description": "Jacobsen, J., Danielsen, M., Langwagen, M., Poulsen, A., Trolle, E. Næringsstofindhold i frugter. DTU Fødevareinstitutet, 2023. Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2023/rapport-naeringsstofindhold-i-frugter.pdf"
+    },
+    {
+      "sourceId": "619",
+      "description": "Jacobsen, J., Danielsen, M., Langwagen, M., Svarc, P.L., Poulsen, A., Trolle, E. Nutrient content in plant-based beverages. DTU Fødevareinstitutet, 2022. Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2023/rapport-om-plantedrikke-final_221205.pdf"
+    },
+    {
+      "sourceId": "61a",
+      "description": "Calculated value from the following factors for protein 17, fat 37, carbohydrate 17, dietary fibre 8 and alcohol 29 kJ/g, respectively."
+    },
+    {
+      "sourceId": "61b",
+      "description": "Calculated value from the following factors for protein 4, fat 9, carbohydrate 4, dietary fibre 2 and alcohol 7 kcal/g, respectively."
+    },
+    {
+      "sourceId": "620",
+      "description": "Bysted, A., Trolle, E., Jacobsen, J. Nutrient content in dairy products 2010-2012. DTU Fødevareinstituttet, 2021. Online version, https://www.food.dtu.dk/-/media/institutter/foedevareinstituttet/publikationer/pub-2021/rapport-naeringsstofindhold-i-mejeriprodukter-2010-2012.pdf?la=da&hash=769B68D07107760199D0BDB4A074288B46CF6534"
+    },
+    {
+      "sourceId": "621",
+      "description": "Livsmedelsverket. Snacks, sweets and beverages 2022 Analysis of nutrients. Livsmedelsverket, Uppsala, 2023. Online version, https://www.livsmedelsverket.se/globalassets/publikationsdatabas/pm/2023/pm-2023-pm-snacks-sweets-and-beverages-2022-analysis-of-nutrients.pdf\r\n"
+    },
+    {
+      "sourceId": "622",
+      "description": "Livsmedelsverket. Cereal and potato products 2022. Analysis of nutrients. Livsmedelsverket, Uppsala, 2023. Online version, https://www.livsmedelsverket.se/globalassets/publikationsdatabas/pm/2023/pm-2023-cereal-and-potato-products-2022.pdf"
+    },
+    {
+      "sourceId": "623",
+      "description": "Arnemo, M., Mattisson, I., Staffas, A., Strandler, HS. Älgkött - analys av näringsämnen [Rapport 18-2008]. Livsmedelsverket, Uppsala 2008. Online version, https://www.livsmedelsverket.se/globalassets/publikationsdatabas/rapporter/2008/2008_livsmedelsverket_-naringsamnen_i_algkott_.pdf"
+    },
+    {
+      "sourceId": "65",
+      "description": "Calculated from the sum of preformed niacin (depends on food group) and niacin activity from tryptophan. "
+    },
+    {
+      "sourceId": "70",
+      "description": "Calculated from a specific factor for fatty acids in total fat."
+    },
+    {
+      "sourceId": "701G",
+      "description": "Aggregated value from several food items"
+    },
+    {
+      "sourceId": "71",
+      "description": "Calculated from the percentual content of fat in a similar food item."
+    },
+    {
+      "sourceId": "72",
+      "description": "Fatty acids from dairy products calculated from specific factors (the internal standard fatty acids distribution) multiplied by the total amount of fatty acids (fat content X fatty acid factor 0.945)."
+    },
+    {
+      "sourceId": "73a",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 108b: Data from the industry to the Food Composition Table 2015, analysed value."
+    },
+    {
+      "sourceId": "73b",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 216: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2009. Raw fish. Published report (2012); “Nutritional composition of selected wild and farmed raw fish”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/nutritional-composition-of-selected-wild-and-farmed-raw-fish-2006-2008"
+    },
+    {
+      "sourceId": "73c",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 207: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 2000. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "73d",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 208: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2001-2002. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "73e",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 321d: NIFES, National Institute of Nutrition and Seafood Research. Seafood Database, November 5th 2013"
+    },
+    {
+      "sourceId": "73f",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 460g: US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 28 (2015). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "73g",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 400e: Swedish National Food Agency. The food database, version 2015.03.09. "
+    },
+    {
+      "sourceId": "73h",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 604: Department of Health. Nutrient analysis of fish and fish products. Summary report. Department of Health, London, 2013. Online version, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/167921/Nutrient_analysis_of_fish_and_fish_products_-_Summary_Report.pdf"
+    },
+    {
+      "sourceId": "73i",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 218: Norwegian Food Safety Authority and Directorate of Health. Nutrient analysis 2012-2013. Baby porridges. Published report (2013); “Næringsstoffanalyser av utvalgte barnegrøter 2012”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffanalyser-av-utvalgte-barnegroter-2013"
+    },
+    {
+      "sourceId": "73j",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 204: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1996. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "73k",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 609: Öhrvik, V., von Malmborg, A., Mattisson, I., Wretling, S., Åstrand, C. Fish, shellfish and fish products - analysis of nutrients. [Rapport 1-2012]. Livsmedelsverket, Uppsala, 2016. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2012/fish-shellfish-and-fish-products---analysis-of-nutrients-rapport-1-2012.pdf"
+    },
+    {
+      "sourceId": "73l",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 215: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2007-2008. Trans fat. Published report (2013); «Transfettsyrer i importerte oljer, vegetabilsk fett, kavring, kjeks og tillagede produkter». https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/transfettsyrer-i-importerte-oljer-vegetabilsk-fett-kavring-kjeks-og-tillagede-produkter-2008"
+    },
+    {
+      "sourceId": "73m",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 210: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2004. Bakery, biscuits, breakfast cereals and oils. Internal notes."
+    },
+    {
+      "sourceId": "73n",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 318: The Norwegian Meat Council. Nutrient analysis conducted in 2008-2009. Analyses of pork. Published report; “Analyser av svinekjøtt 2009”. "
+    },
+    {
+      "sourceId": "73o",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 206: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1999-2000. Potatoes, liver paste, bread and baby food. Internal notes."
+    },
+    {
+      "sourceId": "73p",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 209: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2002-2003. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "73q",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 319: The Norwegian Meat Council. Nutrient analysis conducted in 2009-2010. Analyses of lamb and beef. Internal report. "
+    },
+    {
+      "sourceId": "73r",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 214: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2007. Cold cuts of meat. Internal report."
+    },
+    {
+      "sourceId": "73s",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 213: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2004-2005. Meat products. Internal report."
+    },
+    {
+      "sourceId": "73t",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 308: Blaker B. Nutrient content of meat products, blood and liver. Internal report. National Association of Diet and Health. Oslo, 1991."
+    },
+    {
+      "sourceId": "73u",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 211: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2005. White wheat flour. Published report (2008); ”The nutritional composition of Norwegian white wheat flour, 78 % extraction”. http://www.matportalen.no/verktoy/matvaretabellen/article9184.ece/BINARY/The+nutritional+composition+of+Norwegian+white+wheat+flour+-+report+%282008%29+%28PDF%29"
+    },
+    {
+      "sourceId": "73v",
+      "description": "Calculated as the sum of omega-3 fatty acids from reference 420c: National Food Institute - Technical University of Denmark (DTU). Food database, Frida version 1. (2015). "
+    },
+    {
+      "sourceId": "74a",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 108b: Data from the industry to the Food Composition Table 2015, analysed value."
+    },
+    {
+      "sourceId": "74b",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 216: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2009. Raw fish. Published report (2012); “Nutritional composition of selected wild and farmed raw fish”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/nutritional-composition-of-selected-wild-and-farmed-raw-fish-2006-2008"
+    },
+    {
+      "sourceId": "74c",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 207: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority.Nutrient analysis 2000. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "74d",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 208: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2001-2002. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "74e",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 321d: NIFES, National Institute of Nutrition and Seafood Research. Seafood Database, November 5th 2013"
+    },
+    {
+      "sourceId": "74f",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 460g: US Department of Agriculture, Agricultural Research Service. USDA National Nutrient Database for Standard Reference, Release 28 (2015). Nutrient Data Laboratory Home Page"
+    },
+    {
+      "sourceId": "74g",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 400e: Swedish National Food Agency. The food database, version 2015.03.09. Online version, http://www7.slv.se/SokNaringsinnehall"
+    },
+    {
+      "sourceId": "74h",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 604: Department of Health. Nutrient analysis of fish and fish products. Summary report. Department of Health, London, 2013. Online version, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/167921/Nutrient_analysis_of_fish_and_fish_products_-_Summary_Report.pdf"
+    },
+    {
+      "sourceId": "74i",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 218: Norwegian Food Safety Authority and Directorate of Health. Nutrient analysis 2012-2013. Baby porridges. Published report (2013); “Næringsstoffanalyser av utvalgte barnegrøter 2012”. https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/naeringsstoffanalyser-av-utvalgte-barnegroter-2013"
+    },
+    {
+      "sourceId": "74j",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 204: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1996. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "74k",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 609: Öhrvik, V., von Malmborg, A., Mattisson, I., Wretling, S., Åstrand, C. Fish, shellfish and fish products - analysis of nutrients. [Rapport 1-2012]. Livsmedelsverket, Uppsala, 2016. Online version, http://www.livsmedelsverket.se/globalassets/rapporter/2012/fish-shellfish-and-fish-products---analysis-of-nutrients-rapport-1-2012.pdf"
+    },
+    {
+      "sourceId": "74l",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 215: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2007-2008. Trans fat. Published report (2013); «Transfettsyrer i importerte oljer, vegetabilsk fett, kavring, kjeks og tillagede produkter». https://www.mattilsynet.no/mat-og-drikke/uonskede-stoffer-i-mat/miljogifter/analyser-av-naeringsstoffer-i-matvarer/transfettsyrer-i-importerte-oljer-vegetabilsk-fett-kavring-kjeks-og-tillagede-produkter-2008"
+    },
+    {
+      "sourceId": "74m",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 210: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2004. Bakery, biscuits, breakfast cereals and oils. Internal notes."
+    },
+    {
+      "sourceId": "74n",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 318: The Norwegian Meat Council. Nutrient analysis conducted in 2008-2009. Analyses of pork. Published report; “Analyser av svinekjøtt 2009”. "
+    },
+    {
+      "sourceId": "74o",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 206: National Council for Nutrition and Physical Activity and Norwegian Food Control Authority. Nutrient analysis 1999-2000. Potatoes, liver paste, bread and baby food. Internal notes."
+    },
+    {
+      "sourceId": "74p",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 209: Norwegian Food Control Authority and Directorate of Health and Social Affairs. Nutrient analysis 2002-2003. Dif. food items. Internal notes."
+    },
+    {
+      "sourceId": "74q",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 319: The Norwegian Meat Council. Nutrient analysis conducted in 2009-2010. Analyses of lamb and beef. Internal report. "
+    },
+    {
+      "sourceId": "74r",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 214: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2006-2007. Cold cuts of meat. Internal report."
+    },
+    {
+      "sourceId": "74s",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 213: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2004-2005. Meat products. Internal report."
+    },
+    {
+      "sourceId": "74t",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 308: Blaker B. Nutrient content of meat products, blood and liver. Internal report. National Association of Diet and Health. Oslo, 1991."
+    },
+    {
+      "sourceId": "74u",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 211: Norwegian Food Safety Authority and Directorate of Health and Social Affairs. Nutrient analysis 2003-2005. White wheat flour. Published report (2008); ”The nutritional composition of Norwegian white wheat flour, 78 % extraction”. "
+    },
+    {
+      "sourceId": "74v",
+      "description": "Calculated as the sum of omega-6 fatty acids from reference 420c: National Food Institute - Technical University of Denmark (DTU). Food database, Frida version 1. (2015)."
+    },
+    {
+      "sourceId": "80",
+      "description": "Calculated from the sum of mono-/disaccharides and starch. "
+    },
+    {
+      "sourceId": "81",
+      "description": "Calculated from the sum of glucose, fructose, lactose, maltose and sucrose."
+    },
+    {
+      "sourceId": "82",
+      "description": "Calculated from a specific protein factor "
+    },
+    {
+      "sourceId": "83",
+      "description": "Calculated as the content of sodium x 2,5 /1000."
+    },
+    {
+      "sourceId": "84",
+      "description": "Calculated from a specific conversion factor for alcohol "
+    },
+    {
+      "sourceId": "85",
+      "description": "Calculated as the sum of retinol + 1/12 beta-carotene."
+    },
+    {
+      "sourceId": "86",
+      "description": "Calculated from the factor 0.005 µg vitamin D/g fat in cream."
+    },
+    {
+      "sourceId": "87a",
+      "description": "Calculated from estimated loss of vitamins (beta-carotene, retinol, vitamin D, tocopherol, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, vitamin C) during heat treatment "
+    },
+    {
+      "sourceId": "87b",
+      "description": "Calculated from estimated loss of vitamins (thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12) during heat treatment "
+    },
+    {
+      "sourceId": "88",
+      "description": "Calculated as a standard value of sodium in prepared dishes. "
+    },
+    {
+      "sourceId": "89",
+      "description": "Calculated from the percentual content of dry matter in a similar food item."
+    },
+    {
+      "sourceId": "90",
+      "description": "Ash calculated by difference"
+    },
+    {
+      "sourceId": "91",
+      "description": "Water calculated by difference"
+    },
+    {
+      "sourceId": "92",
+      "description": "KBS (2019), University of Oslo"
+    },
+    {
+      "sourceId": "93",
+      "description": "KBS (2019), University of Oslo"
+    },
+    {
+      "sourceId": "94",
+      "description": "KBS (2023). University of Oslo"
+    },
+    {
+      "sourceId": "95",
+      "description": "Calculated tryptophan content from protein based on factors. "
+    },
+    {
+      "sourceId": "96",
+      "description": "Calculated value from other components in the same food item"
+    },
+    {
+      "sourceId": "97",
+      "description": "KBS (2024). University of Oslo"
+    },
+    {
+      "sourceId": "988",
+      "description": ""
+    },
+    {
+      "sourceId": "989",
+      "description": ""
+    },
+    {
+      "sourceId": "990",
+      "description": ""
+    },
+    {
+      "sourceId": "991",
+      "description": ""
+    },
+    {
+      "sourceId": "992",
+      "description": ""
+    },
+    {
+      "sourceId": "993",
+      "description": ""
+    },
+    {
+      "sourceId": "994",
+      "description": ""
+    },
+    {
+      "sourceId": "995",
+      "description": ""
+    },
+    {
+      "sourceId": "996",
+      "description": ""
+    },
+    {
+      "sourceId": "997",
+      "description": ""
+    },
+    {
+      "sourceId": "998",
+      "description": ""
+    },
+    {
+      "sourceId": "999",
+      "description": ""
+    },
+    {
+      "sourceId": "MI0001",
+      "description": "Carbohydrate, Regulation (EU) 1169/2011, calculated from available carbohydrate and polyols   (CHO[g] = SUGAR[g] + STARCH[g] + POLYL[g])"
+    },
+    {
+      "sourceId": "MI0001b",
+      "description": "Carbohydrate, EC Nutrition Labelling Directive, calculated from available carbohydrate and polyols   (CHO[g] = SUGAR[g] + STARCH[g] + OLSAC[g] + DEXTN[g]+ POLYL[g])"
+    },
+    {
+      "sourceId": "MI0002",
+      "description": "EuroFIR recipe calculation procedure"
+    },
+    {
+      "sourceId": "MI0003",
+      "description": "Recipe level calculation procedure"
+    },
+    {
+      "sourceId": "MI0004",
+      "description": "Ingredient level calculation procedure"
+    },
+    {
+      "sourceId": "MI0005",
+      "description": "Other recipe calculation procedure"
+    },
+    {
+      "sourceId": "MI0006",
+      "description": "Mixed level calculation procedure"
+    },
+    {
+      "sourceId": "MI0101",
+      "description": "Energy calculated according to Southgate (kcal)   (ENERCC[kcal] = 4*PROT[g] + 3.75*CHO[MSE] + 9*FAT[g] + 7*ALC[g])"
+    },
+    {
+      "sourceId": "MI0102",
+      "description": "Energy calculated according to Atwater (kcal, general factors)   (ENERCC[kcal] = 4*PROT[g] + 4*CHOT[g] + 9*FAT[g] + 7*ALC[g])"
+    },
+    {
+      "sourceId": "MI0103",
+      "description": "Energy calculated according to Codex Alimentarius (kcal)   (ENERCC[kcal] = 4*PROT[g] + 4*CHO[g] + 9*FAT[g] + 7*ALC[g] + 3*OA[g])"
+    },
+    {
+      "sourceId": "MI0104",
+      "description": "Energy calculated according to Codex Alimentarius (kJ)   (ENERCJ[kJ] = 17*PROT[g] + 17*CHO[g] + 37*FAT[g] + 29*ALC[g] + 13*OA[g])"
+    },
+    {
+      "sourceId": "MI0105",
+      "description": "Energy calculated according to Southgate (kJ)   (ENERCJ[kJ] = 17*PROT[g] + 16*CHO[MSE] + 37*FAT[g] + 29*ALC[g])"
+    },
+    {
+      "sourceId": "MI0106",
+      "description": "Energy calculated according to Atwater (specific factors)   (ENERCC[kcal] = <MI0106_P1>*PROT[g] + <MI0106_P2>*CHOT[g] + <MI0106_P3>*FAT[g] + <MI0106_P4>*ALC[g])"
+    },
+    {
+      "sourceId": "MI0107",
+      "description": "Energy calculated according to Nutrition Labelling Directive 90/496/EEC (kJ)   (ENERCJ[kJ] = 17*PROT[g] + 17*CHO[g] + 37*FAT[g] + 29*ALC[g] + 13*OA[g] + 10*POLYL[g] + 8*FIBT[g])"
+    },
+    {
+      "sourceId": "MI0108",
+      "description": "Energy calculated according to Nutrition Labelling Directive 90/496/EEC (kcal)   (ENERCC[kcal] = 4*PROT[g] + 4*CHO[g] + 9*FAT[g] + 7*ALC[g] + 3*OA[g] + 2.4*POLYL[g] + 2*FIBT[g])"
+    },
+    {
+      "sourceId": "MI0109",
+      "description": "Energy calculated according to Nutrition Labelling Directive 90/496/EEC (kJ, polydextrose exception)   (ENERCJ[kJ] = 17*PROT[g] + 17*CHO[g] + 37*FAT[g] + 29*ALC[g] + 13*OA[g] + 10*POLYL[g] + 5*POLYDEXS[g])"
+    },
+    {
+      "sourceId": "MI0110",
+      "description": "Energy calculated according to Nordic Nutrition Recommendations (kJ)   (ENERCJ[kJ] = 17*PROT[g] + 17*CHO[g] + 37*FAT[g] + 8*FIBT[g] + 29*ALC[g])"
+    },
+    {
+      "sourceId": "MI0111",
+      "description": "Energy calculated according to Atwater (kJ, general factors)   (ENERCJ[kJ] = (17 * PROT[g]) + (17 * CHOT[g]) + (38 * FAT[g]) + (30 * ALC[g]))"
+    },
+    {
+      "sourceId": "MI0112",
+      "description": "Energy calculated according to Nutrition Labelling Directive 90/496/EEC (kcal, NCF protein exception)   (ENERCC[kcal] = 4*PROT[g] + 4*(CHO[g] - POLYL[g]) + 9*FAT[g] + 7*ALC[g] + 3*OA[g] + 2.4*POLYL[g])"
+    },
+    {
+      "sourceId": "MI0113",
+      "description": "Energy calculated according to Nutrition Labelling Directive 90/496/EEC (kJ, NCF protein exception)   (ENERCJ[kJ] = 17*PROT[g] + 17*(CHO[g] - POLYL[g]) + 37*FAT[g] + 29*ALC[g] + 13*OA[g] + 10*POLYL[g])"
+    },
+    {
+      "sourceId": "MI0114",
+      "description": "Energy calculated according to Regulation (EU) 1169/2011 (kJ)   (ENERCJ[kJ] = 17*PROT[g] + 17*(CHO[g] - POLYL[g]) + 37*FAT[g] + 29*ALC[g] + 8*FIBT[g] + 13*OA[g] + 10*POLYL[g])"
+    },
+    {
+      "sourceId": "MI0115",
+      "description": "Energy calculated according to Regulation (EU) 1169/2011 (kcal)   (ENERCC[kcal] = 4*PROT[g] + 4*(CHO[g] - POLYL[g]) + 9*FAT[g] + 7*ALC[g] + 2*FIBT[g] + 3*OA[g] + 2.4*POLYL[g])"
+    },
+    {
+      "sourceId": "MI0116",
+      "description": "Energy calculated according to adapted factors (kJ)   (ENERCJ[kJ] = (16.7 * PROT[g]) + (37.4 * FAT[g]) + (16.7 * CHO[g]) + (28.9 * ALC[g]))"
+    },
+    {
+      "sourceId": "MI0117",
+      "description": "Energy (kcal) calculated from energy (kJ) as kJ/4.18   (ENERCC[kcal] = ENERCJ[kJ]/4.18)"
+    },
+    {
+      "sourceId": "MI0118",
+      "description": "Energy calculated according to Regulation (EU) 1169/2011 (kJ, NCF protein exception)"
+    },
+    {
+      "sourceId": "MI0119",
+      "description": "Energy calculated according to Regulation (EU) 1169/2011 (kcal, NCF protein exception)"
+    },
+    {
+      "sourceId": "MI0120",
+      "description": "Salt equivalent calculated from sodium   (NACL[g]=2.5*NA[mg]/1000.0)"
+    },
+    {
+      "sourceId": "MI0121",
+      "description": "Protein calculated from amino acid nitrogen"
+    },
+    {
+      "sourceId": "MI0122",
+      "description": "Protein calculated from protein nitrogen   (PROT[g] = <NCF> * (NT[g] - NNP[g]))"
+    },
+    {
+      "sourceId": "MI0123",
+      "description": "Protein calculated from total nitrogen   (PROT[g] = NT[g] * <NCF>)"
+    },
+    {
+      "sourceId": "MI0124",
+      "description": "Protein calculated as the sum of individual amino acids   (PROT[g] = AAE8[mg] + ALA[mg] + ARG[mg] + ASN[mg] + ASP[mg] + CYS[mg] + GLU[mg] + GLN[mg] + GLY[mg] + HIS[mg] + HYP[mg] + PRO[mg] + SER[mg] + TYR[mg] + VAL[mg])"
+    },
+    {
+      "sourceId": "MI0125",
+      "description": "Protein, animal, calculated from total protein using a conversion factor for each individual food"
+    },
+    {
+      "sourceId": "MI0126",
+      "description": "Protein, plant, calculated by difference from total protein"
+    },
+    {
+      "sourceId": "MI0127",
+      "description": "Nitrogen, total, calculated from protein using specific NCF   (NT[g] = PROT[g] / <NCF>)"
+    },
+    {
+      "sourceId": "MI0128",
+      "description": "Protein, animal, calculated by difference from total protein"
+    },
+    {
+      "sourceId": "MI0131",
+      "description": "Carbohydrate, total, calculated by difference, generic, organic acids not considered   (CHOT[g] = 100 - ( PROT[g] + FAT[g] + WATER[g] + ALC[g] + ASH[g] ))"
+    },
+    {
+      "sourceId": "MI0141",
+      "description": "Water by difference, generic   (WATER[g] = 100 - DRYMAT[g])"
+    },
+    {
+      "sourceId": "MI0142",
+      "description": "Water by difference   (WATER[g] = 100 - PROT[g] - FAT[g] - CHO[g] - FIBT[g] - ALC[g])"
+    },
+    {
+      "sourceId": "MI0143",
+      "description": "Dry matter calculated from water content   (DRYMAT[g] = 100 - WATER[g])"
+    },
+    {
+      "sourceId": "MI0144",
+      "description": "Water by difference, organic acids considered   (WATER[g] = 100 - PROT[g] - FAT[g] - CHO[g] - OA[g] - ALC[g] - FIBT[g] - ASH[g])"
+    },
+    {
+      "sourceId": "MI0151",
+      "description": "Sugar calculated as the sum of  individual mono-, di-, and tri-saccharides   (SUGAR[g] = ARAS[g] + FRUS[g] + GALS[g] + GLUS[g] + MANS[g] + RIBS[g] + XYLS[g] + LACS[g] + MALS[g] + SUCS[g] + TRES[g] + MALTRS[g] + RAFS[g])"
+    },
+    {
+      "sourceId": "MI0153",
+      "description": "Sugar calculated as the sum of total mono- and di-saccharides   (SUGAR[g] = MNSAC[g] + DISAC[g])"
+    },
+    {
+      "sourceId": "MI0154",
+      "description": "Sugar calculated by difference"
+    },
+    {
+      "sourceId": "MI0155",
+      "description": "Disaccharides calculated as sum of individual disaccharides"
+    },
+    {
+      "sourceId": "MI0156",
+      "description": "Monosaccharides calculated as sum of individual monosaccharides"
+    },
+    {
+      "sourceId": "MI0161",
+      "description": "Starch by difference   (STARCH[g] = CHO[g] - SUGAR[g])"
+    },
+    {
+      "sourceId": "MI0164",
+      "description": "Glucose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0165",
+      "description": "Galactose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0166",
+      "description": "Fructose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0167",
+      "description": "Lactose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0168",
+      "description": "Maltose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0169",
+      "description": "Saccharose calculated by difference from total sugars minus individual mono and disaccharides"
+    },
+    {
+      "sourceId": "MI0171",
+      "description": "Dietary fibre calculated from total carbohydrates and available carbohydrate   (FIBT[g] = CHOT[g] - CHO[g])"
+    },
+    {
+      "sourceId": "MI0172",
+      "description": "Dietary fibre calculated from individual fibre fractions   (FIBT[g] = FIBINS[g] + FIBSOL[g])"
+    },
+    {
+      "sourceId": "MI0181",
+      "description": "Carbohydrate, available calculated from sugar and starch   (CHO[g] = SUGAR[g] + STARCH[g])"
+    },
+    {
+      "sourceId": "MI0182",
+      "description": "Carbohydrate, available calculated from sugar, starch, oligosaccharides and matodextrins   (CHO[g] = SUGAR[g] + STARCH[g] + OLSAC[g] + DEXTN[g])"
+    },
+    {
+      "sourceId": "MI0183",
+      "description": "Carbohydrate, available, calculated by difference, organic acids not considered, (nitrogen*6.25, AOAC fibre, ash as sum of minerals)   (CHO[g] = 100 - 6.25*NT[g] - ( FAT[g] + WATER[g] + FIBT[g] + ALC[g] + NA[mg] + K[mg] + CA[mg] + MG[mg] + FE[mg] + P[mg] + CLD[mg]))"
+    },
+    {
+      "sourceId": "MI0184",
+      "description": "Carbohydrate, available, calculated by difference, generic, organic acids not considered   (CHO[g] = CHOT[g] - FIBT[g])"
+    },
+    {
+      "sourceId": "MI0185",
+      "description": "Carbohydrate, total, calculated by difference, organic acids not considered (ash as sum of minerals)"
+    },
+    {
+      "sourceId": "MI0186",
+      "description": "Carbohydrate, available, calculated by difference, organic acids not considered (ash as sum of minerals)"
+    },
+    {
+      "sourceId": "MI0187",
+      "description": "Carbohydrate, total, calculated by difference, generic, organic acids considered"
+    },
+    {
+      "sourceId": "MI0188",
+      "description": "Carbohydrate, available, calculated from sugar, starch, oligosaccharides, maltodextrins and polyols"
+    },
+    {
+      "sourceId": "MI0189",
+      "description": "Carbohydrate, available, calculated by difference, generic, organic acids considered"
+    },
+    {
+      "sourceId": "MI0201",
+      "description": "Fatty acid content calculated on fatty acid profile"
+    },
+    {
+      "sourceId": "MI0202",
+      "description": "Fatty acids, total fatty acids calculated as sum of individual fatty acids"
+    },
+    {
+      "sourceId": "MI0203",
+      "description": "Fatty acids, monounsaturated fatty acids calculated by difference   (FAMSCIS[g] = FACID[g] - (FASAT[g] + FAPUCIS[g] + FATRS[g]))"
+    },
+    {
+      "sourceId": "MI0205",
+      "description": "Fatty acids, saturated fatty acids by difference   (FASAT[g] = FACID[g] - (FAMSCIS[g] + FAPUCIS[g] + FATRS[g]))"
+    },
+    {
+      "sourceId": "MI0206",
+      "description": "Fatty acids, trans fatty acids by difference   (FATRS[g] = FACID[g] - FASAT[g] - FAMSCIS[g] - FAPUCIS[g])"
+    },
+    {
+      "sourceId": "MI0207",
+      "description": "Fatty acids, total fatty acids calculated from total fat   (FACID[g] = <FACF> * FAT[g] )"
+    },
+    {
+      "sourceId": "MI0208",
+      "description": "Fatty acids, saturated, calculated as the sum of individual fatty acids, excluding branched chain isomers   (FASAT[g] = F4:0[g] + F5:0[g] + F6:0[g] + F7:0[g] + F8:0[g] + F9:0[g] + F10:0[g] + F11:0[g] + F12:0[g] + F13:0[g] + F14:0[g] + F15:0[g] + F16:0[g] + F17:0[g] + F18:0[g] + F18:0DO[g] + F19:0[g] + F20:0[g] + F21:0[g] + F22:0[g] + F23:0[g] + F24:0[g] + F25:0[g] + F26:0[g])"
+    },
+    {
+      "sourceId": "MI0209",
+      "description": "Fatty acids, saturated, calculated as the sum of individual fatty acids, including branched chain isomers   (FASAT[g] = {MI0208} + F13:0I[g] + F14:0AI[g] + F14:0I[g] + F15:0AI[g] + F15:0I[g] + F16:0AI[g] + F16:0I[g] + F17:0AI[g] + F17:0I[g] + F18:0AI[g] + F18:0I[g] + F20:0I[g])"
+    },
+    {
+      "sourceId": "MI0210",
+      "description": "Fatty acids, monounsaturated, calculated as sum of individual fatty acids, cis isomers only   (FAMSCIS[g] =F10:1CIS[g] +F12:1CIS[g] +F14:1CIS[g] + F15:1CN8[g] + F16:1CIS[g] + F17:1CIS[g] + F18:1CIS[g] + F20:1CIS[g] + F22:1CIS[g] + F24:1CIS[g])"
+    },
+    {
+      "sourceId": "MI0211",
+      "description": "Fatty acids, monounsaturated, calculated as sum of individual fatty acids, including trans isomers   (FAMS[g] = {MI0210} + F10:1TRS[g] + F12:1TRS[g] + F14:1TRS[g] + F16:1TRS[g] + F18:1TRS[g] + F20:1TRS[g] + F22:1TRS[g] + F24:1TRS[g])"
+    },
+    {
+      "sourceId": "MI0212",
+      "description": "Fatty acids, polyunsaturated, calculated as sum of individual fatty acids, all-cis isomers only   (FAPUCIS[g] = F16:2CN4[g] + F16:3CN3[g] + F18:2CN6[g] + F18:2CN9[g] + F18:3CN3[g] + F18:3CN6[g] + F18:4CN3[g] + F20:2CN6[g] + F20:3CN3[g] + F20:3CN6[g] + F20:3CN9[g] + F20:4CN3[g] + F20:4CN6[g] + F20:5CN3[g] + F22:2CN3[g] + F22:2CN6[g] + F22:4CN6[g] + F22:5CN3[g] + F22:5CN6[g] + F22:6CN3[g] + F24:2CN6[g])"
+    },
+    {
+      "sourceId": "MI0213",
+      "description": "Fatty acids, polyunsaturated, calculated as sum of individual fatty acids, excluding all-trans isomers"
+    },
+    {
+      "sourceId": "MI0214",
+      "description": "Fatty acids, polyunsaturated, calculated as sum of individual fatty acids,  including all isomers"
+    },
+    {
+      "sourceId": "MI0215",
+      "description": "Fatty acids, other polyunsaturated fatty acids calculated by difference   (FAPUOT[g] = FAPU[g] - F18:2[g] - F18:3[g])"
+    },
+    {
+      "sourceId": "MI0216",
+      "description": "Fatty acids, total polyunsaturated n-3 fatty acids"
+    },
+    {
+      "sourceId": "MI0217",
+      "description": "Fatty acids, total trans, calculated as sum of mono and polyunsaturated all trans isomers"
+    },
+    {
+      "sourceId": "MI0218",
+      "description": "Fatty acids, total cis n-6 polyunsaturated, calculated as the sum cis n-6 polyunsaturated fatty acids"
+    },
+    {
+      "sourceId": "MI0219",
+      "description": "Fatty acids, total cis n-3 polyunsaturated, calculated as sum of cis n-3 polyunsaturated fatty acids"
+    },
+    {
+      "sourceId": "MI0220",
+      "description": "Fatty acids, total saturated, calculated from total saturated fat"
+    },
+    {
+      "sourceId": "MI0221",
+      "description": "Fatty acids, total monounsaturated, calculated from total monounsaturated fat"
+    },
+    {
+      "sourceId": "MI0222",
+      "description": "Fatty acids, total polyunsaturated, calculated from total polyunsaturated fat"
+    },
+    {
+      "sourceId": "MI0223",
+      "description": "Fatty acids, total trans, calculated from total trans fat"
+    },
+    {
+      "sourceId": "MI0224",
+      "description": "Fatty acids, total unsaturated, calculated by difference from total fatty acids and total saturated fatty acids"
+    },
+    {
+      "sourceId": "MI0225",
+      "description": "Fatty acids, unsaturated total, calculated as the sum of total monounsaturated, polyunsaturated and trans fatty acids"
+    },
+    {
+      "sourceId": "MI0231",
+      "description": "Imputation of a component from one or more components in the same food"
+    },
+    {
+      "sourceId": "MI0232",
+      "description": "Imputation of a component from one or more components from related food"
+    },
+    {
+      "sourceId": "MI0251",
+      "description": "Fat, unsaturated, total, calculated by difference from total fat minus total saturated fat"
+    },
+    {
+      "sourceId": "MI0252",
+      "description": "Fat, unsaturated, total, calculated as the sum of total monounsaturated, polyunsaturated and trans fat"
+    },
+    {
+      "sourceId": "MI0253",
+      "description": "Fat, saturated, total, calculated by difference"
+    },
+    {
+      "sourceId": "MI0254",
+      "description": "Fat, monounsaturated cis, total, calculated by difference"
+    },
+    {
+      "sourceId": "MI0255",
+      "description": "Fat, polyunsaturated, total, calculated by difference"
+    },
+    {
+      "sourceId": "MI0256",
+      "description": "Fat, trans, total, calculated by difference"
+    },
+    {
+      "sourceId": "MI0257",
+      "description": "Fat, saturated, total, calculated from total saturated fatty acids"
+    },
+    {
+      "sourceId": "MI0258",
+      "description": "Fat, monounsaturated cis, total, calculated from total monounsaturated cis fatty acids"
+    },
+    {
+      "sourceId": "MI0259",
+      "description": "Fat, polyunsaturated, total, calculated from total polyunsaturated fatty acids"
+    },
+    {
+      "sourceId": "MI0260",
+      "description": "Fat, trans, total, calculated from total trans fatty acids"
+    },
+    {
+      "sourceId": "MI0301",
+      "description": "Beta-carotene equivalent calculation including alpha-carotene and cryptoxanthins   (CARTBEQ[µg-BCE] = CARTB[mg] + 0.5*CARTA[mg] + 0.5* CRYPXA[mg] + 9.5*CRYPXB[mg])"
+    },
+    {
+      "sourceId": "MI0302",
+      "description": "Carotenes, total, calculated as sum of carotenoids (no activity adjustment)"
+    },
+    {
+      "sourceId": "MI0303",
+      "description": "Beta-carotene calculated from total vitamin A   (CARTBEQ[µg-BCE] = 6*(VITA[µg-RE] - RETOLTEQ[µg-RE]))"
+    },
+    {
+      "sourceId": "MI0304",
+      "description": "Beta-carotene equivalent calculation including alpha-carotene   (CARTBEQ[µg] = CARTB[µg] + ( CARTA[µg] / 2))"
+    },
+    {
+      "sourceId": "MI0314",
+      "description": "Retinol calculated from individual retinoids   (RETOL[µg-RE] = RETOLAT[µg] + 0.9*RETALD[µg] + 0.75*RETOL13[µg] + 0.4*RETOLDH[µg])"
+    },
+    {
+      "sourceId": "MI0315",
+      "description": "Retinol calculated from trans- and cis-retinol   (RETOL[µg-RE] = RETOLAT[µg] + RETOL13[µg])"
+    },
+    {
+      "sourceId": "MI0316",
+      "description": "Retinol by difference"
+    },
+    {
+      "sourceId": "MI0321",
+      "description": "Vitamin A activity calculated from retinol and beta-carotene (factor 1/2)   (VITA[µg-RE] = RETOLAT[µg] + 0.5*CARTB[µg])"
+    },
+    {
+      "sourceId": "MI0322",
+      "description": "Vitamin A activity calculated from retinol and beta-carotene (factor 1/6) (VITA[µg] = RETOL[µg] + (CARTB[µg] / 6))"
+    },
+    {
+      "sourceId": "MI0323",
+      "description": "Vitamin A activity calculated from retinol, beta-carotene and other pro-vitamin A carotenoids (factors 1/6 and 1/12)"
+    },
+    {
+      "sourceId": "MI0324",
+      "description": "Vitamin A activity calculated from retinol and carotenoids"
+    },
+    {
+      "sourceId": "MI0325",
+      "description": "Vitamin A activity calculated from retinol and beta-carotene (factor 1/12)   (VITA[µg] = RETOL[µg] + (CARTB[µg] / 12))"
+    },
+    {
+      "sourceId": "MI0351",
+      "description": "Vitamin D activity calculated as the sum of ergocalciferol and cholecalciferol   (VITD[µg] = ERGCAL[µg] + CHOCAL[µg])"
+    },
+    {
+      "sourceId": "MI0352",
+      "description": "Vitamin D activity calculated as ergocalciferol   (VITD[µg] = ERGCAL[µg])"
+    },
+    {
+      "sourceId": "MI0353",
+      "description": "Vitamin D activity calculated from cholecalciferol and 25-hydroxy cholecalciferol (factor 5)   (VITD[µg] = CHOCAL[µg] + 5*CHOCALOH[µg])"
+    },
+    {
+      "sourceId": "MI0354",
+      "description": "Vitamin D activity calculated from cholecalciferol, ergocalciferol and 25-hydroxy cholecalciferol   (VITD[µg] = CHOCAL[µg] + ERGCAL[µg] + <MI0354_P1> *CHOCALOH[µg])"
+    },
+    {
+      "sourceId": "MI0355",
+      "description": "Vitamin D activity calculated from cholecalciferol and 25-hydroxy cholecalciferol (factors not applied)"
+    },
+    {
+      "sourceId": "MI0365",
+      "description": "Vitamin E activity calculated from tocopherols and tocotrienols   (VITE[mg-ATE] = TOCPHA[mg] + 0.5*TOCPHB[mg] + 0.1*TOCPHG[mg] + (1/3)*TOCTRA[mg])"
+    },
+    {
+      "sourceId": "MI0368",
+      "description": "Vitamin E activity calculated as d-alpha-tocopherol   (VITE[mg-ATE] = TOCPHA[mg])"
+    },
+    {
+      "sourceId": "MI0369",
+      "description": "Vitamin E activity calculated from intrinsic d-alpha-tocopherol and added alpha-tocopherol"
+    },
+    {
+      "sourceId": "MI0370",
+      "description": "Vitamin E activity calculated from individual tocopherols"
+    },
+    {
+      "sourceId": "MI0371",
+      "description": "Vitamin E activity calculated from tocopherols and tocotrienols (DACH factors)"
+    },
+    {
+      "sourceId": "MI0381",
+      "description": "Vitamin K2 calculated as the sum of individual vitamin K2 isomers"
+    },
+    {
+      "sourceId": "MI0382",
+      "description": "Vitamin K total calculated as the sum of vitamin K1 and vitamin K2"
+    },
+    {
+      "sourceId": "MI0421",
+      "description": "Niacin equivalents calculated from niacin and tryptophan   (NIAEQ[mg] = NIA[mg] + TRP[mg] / 60)"
+    },
+    {
+      "sourceId": "MI0422",
+      "description": "Niacin equivalents calculated from niacin and tryptophan (reduced niacin availability)   (NIAEQ[mg] = 30/100*NIA[mg] + (1/60)*TRP[mg])"
+    },
+    {
+      "sourceId": "MI0423",
+      "description": "Niacin equivalents calculated from tryptophan only   (NIATRP[mg] = (1/60)*TRP[mg] )"
+    },
+    {
+      "sourceId": "MI0451",
+      "description": "Folate calculated by summation of free folic acid and bound folic acid"
+    },
+    {
+      "sourceId": "MI0452",
+      "description": "Folate calculated from free folic acid and bound folic acid"
+    },
+    {
+      "sourceId": "MI0453",
+      "description": "Folate calculated from intrinsic folic acid and added folic acid   (FOL[µg] = FOLFD[µg] + 1.7*FOLAC[µg])"
+    },
+    {
+      "sourceId": "MI0512",
+      "description": "Sugar calculated as the sum of individual mono- and disaccharides   (SUGAR[g] = ARAS[g] + FRUS[g] + GALS[g] + GLUS[g] + MANS[g] + RIBS[g] + XYLS[g] + LACS[g] + MALS[g] + SUCS[g] + TRES[g])"
+    },
+    {
+      "sourceId": "MI0611",
+      "description": "Iron, haem, calculated from total iron using a conversion factor"
+    },
+    {
+      "sourceId": "MI0612",
+      "description": "Iron, non-haem, calculated by difference from total iron and haem iron"
+    },
+    {
+      "sourceId": "MI0613",
+      "description": "Iron, haem, calculated by difference from total iron and non-haem iron"
+    },
+    {
+      "sourceId": "MI0614",
+      "description": "Ash calculated as sum of minerals"
+    },
+    {
+      "sourceId": "MI0641",
+      "description": "Organic acids, total, calculated as the sum of individual organic acids"
+    },
+    {
+      "sourceId": "MI0671",
+      "description": "Amino acids, total eight essential, calculated as sum of individual amino acids"
+    },
+    {
+      "sourceId": "MI0672",
+      "description": "Amino acids, total eight essential + HIS, calculated as sum of individual amino acids"
+    },
+    {
+      "sourceId": "MI0673",
+      "description": "Amino acids, total eight essential + HIS and ARG, calculated as sum of individual amino acids"
+    },
+    {
+      "sourceId": "MI0674",
+      "description": "Amino acids, total eight essential + CYS + TYR, calculated as sum of individual amino acids"
+    },
+    {
+      "sourceId": "MI0711",
+      "description": "Energy calculated according to Swiss Standard (kJ)"
+    },
+    {
+      "sourceId": "MI0712",
+      "description": "Energy calculated according to Swiss Standard (kcal)"
+    },
+    {
+      "sourceId": "MI0Ex51",
+      "description": "Convert FA from per 100g FAME to per 100g FAT"
+    },
+    {
+      "sourceId": "MI0Ex52",
+      "description": "Convert FA from per 100g FAT to per 100g total food"
+    },
+    {
+      "sourceId": "MI1001",
+      "description": "Ashing"
+    },
+    {
+      "sourceId": "MI1002",
+      "description": "Spectroscopy"
+    },
+    {
+      "sourceId": "MI1006",
+      "description": "Atomic absorption spectroscopy"
+    },
+    {
+      "sourceId": "MI1010",
+      "description": "Bioassay"
+    },
+    {
+      "sourceId": "MI1013",
+      "description": "Colorimetry"
+    },
+    {
+      "sourceId": "MI1015",
+      "description": "Column chromatography"
+    },
+    {
+      "sourceId": "MI1017",
+      "description": "Drying"
+    },
+    {
+      "sourceId": "MI1018",
+      "description": "Dry ashing"
+    },
+    {
+      "sourceId": "MI1019",
+      "description": "Dye binding"
+    },
+    {
+      "sourceId": "MI1021",
+      "description": "Enzyme hydrolysis"
+    },
+    {
+      "sourceId": "MI1023",
+      "description": "Chemical assay"
+    },
+    {
+      "sourceId": "MI1025",
+      "description": "Freeze drying"
+    },
+    {
+      "sourceId": "MI1026",
+      "description": "Gas-liquid chromatography"
+    },
+    {
+      "sourceId": "MI1037",
+      "description": "Ion-se­lective electrode"
+    },
+    {
+      "sourceId": "MI1038",
+      "description": "Karl Fisher titration"
+    },
+    {
+      "sourceId": "MI1039",
+      "description": "Distillation titrimetry"
+    },
+    {
+      "sourceId": "MI1044",
+      "description": "Polarimetry"
+    },
+    {
+      "sourceId": "MI1045",
+      "description": "Radio-protein binding assay"
+    },
+    {
+      "sourceId": "MI1046",
+      "description": "Reductiometry"
+    },
+    {
+      "sourceId": "MI1049",
+      "description": "Schoorl method"
+    },
+    {
+      "sourceId": "MI1053",
+      "description": "Titrimetry"
+    },
+    {
+      "sourceId": "MI1054",
+      "description": "Total sugars method"
+    },
+    {
+      "sourceId": "MI1060",
+      "description": "Enzymatic-colorimetric method"
+    },
+    {
+      "sourceId": "MI1061",
+      "description": "Enzymatic, other method"
+    },
+    {
+      "sourceId": "MI1063",
+      "description": "Englyst method"
+    },
+    {
+      "sourceId": "MI1064",
+      "description": "Southgate method"
+    },
+    {
+      "sourceId": "MI1081",
+      "description": "Distillation"
+    },
+    {
+      "sourceId": "MI1103",
+      "description": "Air drying"
+    },
+    {
+      "sourceId": "MI1121",
+      "description": "Hydrolysis"
+    },
+    {
+      "sourceId": "MI1137",
+      "description": "High-performance liquid chromatography"
+    },
+    {
+      "sourceId": "MI1138",
+      "description": "Ultra-performance liquid chromatography"
+    },
+    {
+      "sourceId": "MI1139",
+      "description": "High performance anion exchange chromatography with pulsed amperometric detection"
+    },
+    {
+      "sourceId": "MI1142",
+      "description": "Atomic emission spectroscopy"
+    },
+    {
+      "sourceId": "MI1144",
+      "description": "Chromatography"
+    },
+    {
+      "sourceId": "MI1152",
+      "description": "Fluorimetric method"
+    },
+    {
+      "sourceId": "MI1154",
+      "description": "Colorimetric method"
+    },
+    {
+      "sourceId": "MI1160",
+      "description": "Bomb calorimetry"
+    },
+    {
+      "sourceId": "MI1165",
+      "description": "Nuclear magnetic resonance spectroscopy"
+    },
+    {
+      "sourceId": "MI1173",
+      "description": "Microbiological assay"
+    },
+    {
+      "sourceId": "MI1174",
+      "description": "Animal bioassay"
+    },
+    {
+      "sourceId": "MI1182",
+      "description": "Gas chromatography mass spectroscopy"
+    },
+    {
+      "sourceId": "MI1183",
+      "description": "Liquid chromatography - mass spectrometry"
+    },
+    {
+      "sourceId": "MI1196",
+      "description": "Microwave ashing"
+    },
+    {
+      "sourceId": "MI1197",
+      "description": "Wet ashing"
+    },
+    {
+      "sourceId": "MI1202",
+      "description": "Acid hydrolysis with gravimetric quantification"
+    },
+    {
+      "sourceId": "MI1203",
+      "description": "Radioimmunoassay"
+    },
+    {
+      "sourceId": "MI1205",
+      "description": "Gas chromatography"
+    },
+    {
+      "sourceId": "MI1207",
+      "description": "Refractometry"
+    },
+    {
+      "sourceId": "MI1208",
+      "description": "Specific gravity measurement"
+    },
+    {
+      "sourceId": "MI1209",
+      "description": "Inductively Coupled Plasma Mass Spectrometry"
+    },
+    {
+      "sourceId": "MI1212",
+      "description": "Vacuum drying"
+    },
+    {
+      "sourceId": "MI1213",
+      "description": "Enzymatic colorimetry"
+    },
+    {
+      "sourceId": "MI1214",
+      "description": "Binding assay"
+    },
+    {
+      "sourceId": "MI1215",
+      "description": "Potentiometry"
+    },
+    {
+      "sourceId": "MI1216",
+      "description": "Thermal combustion"
+    },
+    {
+      "sourceId": "MI1218",
+      "description": "Enzymatic"
+    },
+    {
+      "sourceId": "MI1301",
+      "description": "Dumas method"
+    },
+    {
+      "sourceId": "MI1302",
+      "description": "Solvent extraction"
+    },
+    {
+      "sourceId": "MI1303",
+      "description": "X-ray fluorescence spectroscopy"
+    },
+    {
+      "sourceId": "MI1304",
+      "description": "Near infrared spectroscopy"
+    },
+    {
+      "sourceId": "MI1305",
+      "description": "Inductively Coupled Plasma Atomic Emission Spectrometry"
+    },
+    {
+      "sourceId": "MI1307",
+      "description": "Enzymatic-gravimetric method"
+    },
+    {
+      "sourceId": "MI1401",
+      "description": "Analytical method not known"
+    },
+    {
+      "sourceId": "MICH1",
+      "description": "Energy calculated according to Swiss Standard   (ENERCJ[kJ] = 17*PROT[g] + 17*(CHO[g] - POLYL[g]) + 37*FAT[g] + 29*ALC[g] + 13*OA[g] + 10*POLYL[g] + 8*OLSAC[g] + 4*INULN[g] + 8*FIBT[g])"
+    },
+    {
+      "sourceId": "MICH2",
+      "description": "Energy calculated according to Swiss Standard   (ENERCC[kcal] = 4*PROT[g] + 4*(CHO[g] - POLYL[g]) + 9*FAT[g] + 7*ALC[g] + 3*OA[g] + 2.4*POLYL[g] + 2*OLSAC[g] + 1*INULN[g] + 2*FIBT[g])"
+    },
+    {
+      "sourceId": "MICH3",
+      "description": "Carbohydrate, available, calculated by difference(using PROT instead of 6.25*NT)   (CHO[g] = 100 - (PROT[g] + FAT[g] + WATER[g] + FIBT[g] + ALC[g] + NA[mg] + K[mg] + CA[mg] + MG[mg] + FE[mg] + P[mg] + CLD[mg]))"
+    },
+    {
+      "sourceId": "MICH4",
+      "description": "Carbohydrate, total, calculated by difference(using individual minerals instead of ash)   (CHOT[g] = 100 - ( PROT[g] + FAT[g] + WATER[g] + ALC[g] + NA[mg] + K[mg] + CA[mg] + MG[mg] + FE[mg] + P[mg] + CLD[mg] ))"
+    },
+    {
+      "sourceId": "MICH5",
+      "description": "Vitamin E activity calculated from tocopherols and tocotrienols(using DACH Factors)   (VITE[mg-ATE] = TOCPHA[mg] + 0.5*TOCPHB[mg] + (2/5)*TOCPHG[mg] + (1/3.3)*TOCTRA[mg])"
+    },
+    {
+      "sourceId": "MIF900",
+      "description": "Amino acids, total essential, calculated as sum of individual amino acids   (AAE8[mg] = ILE[mg] + LEU[mg] + LYS[mg] + MET[mg] + PHE[mg] + THR[mg] + TRP[mg] + VAL[mg])"
+    },
+    {
+      "sourceId": "MIF902",
+      "description": "Monosaccharides, calculated as sum of individual saccharides   (MNSAC[g] = ARAS[g] + FRUS[g] + GALS[g] + GLUS[g] + MANS[g] + RIBS[g] + XYLS[g])"
+    },
+    {
+      "sourceId": "MIF903",
+      "description": "Disaccharides, calculated as sum of individual saccharides   (DISAC[g] = LACS[g] + MALS[g] + SUCS[g] + TRES[g])"
+    },
+    {
+      "sourceId": "MIR001",
+      "description": "Analytical method"
+    },
+    {
+      "sourceId": "MIR002",
+      "description": "Calculation method"
+    },
+    {
+      "sourceId": "MIR003",
+      "description": "Method not known"
+    },
+    {
+      "sourceId": "MIR004",
+      "description": "Difference"
+    },
+    {
+      "sourceId": "MIR005",
+      "description": "Factored summation"
+    },
+    {
+      "sourceId": "MIR006",
+      "description": "Simple summation"
+    },
+    {
+      "sourceId": "MIR007",
+      "description": "Imputation"
+    },
+    {
+      "sourceId": "MIR008",
+      "description": "Recipe calculation method"
+    },
+    {
+      "sourceId": "MIR009",
+      "description": "Other method"
+    },
+    {
+      "sourceId": "MIR010",
+      "description": "Simple recipe calculation"
+    },
+    {
+      "sourceId": "MIR011",
+      "description": "Recipe calculation with factors"
+    },
+    {
+      "sourceId": "MI_SUGAR_NO",
+      "description": "Sugar calculated as the sum of fructose, glucose, lactose, maltose and sucrose   (SUGAR[g] = FRUS[g] + GLUS[g] + LACS[g] + MALS[g] + SUCS[g])"
+    }
+  ],
+  "locale": "en"
+}

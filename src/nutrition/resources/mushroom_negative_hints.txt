@@ -1,0 +1,9 @@
+# Specialty mushrooms avoided when the ingredient is generic 'mushroom'.
+
+chantherelle
+chanterelle
+shiitake
+portabello
+oyster
+trumpet
+boletus

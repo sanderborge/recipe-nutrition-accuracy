@@ -1,0 +1,48 @@
+# Words that penalise a candidate food name (+2 to its score each).
+# Provenance: MATCHER_CHANGES.txt.
+
+fried
+battered
+breaded
+sauce
+syrup
+spread
+dressing
+paté
+pate
+baby food
+flour
+waffles
+cereal
+bun
+scones
+fortified
+cookie
+biscuit
+filling
+balsamic
+gluten
+whitener
+dressing
+swiss roll
+added
+margarine
+condensed
+cultured
+for coffee
+ghee
+pasteurized process
+lemon sole
+filled
+bolognese
+stroganoff
+flavour
+flavor
+peel
+canned
+substitute
+marmalade
+liver
+roe
+without egg
+doodle

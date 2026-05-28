@@ -1,0 +1,115 @@
+# Nutritionally negligible items skipped when matching fails
+# (spices, herbs, water, stocks, condiments...). Provenance: MATCHER_CHANGES.txt.
+
+adobo sauce
+almond extract
+amaretto
+baking powder
+baking soda
+basil
+bay seasoning
+beef broth
+beef stock
+beef stock cube
+bicarbonate
+black pepper
+black pepper ground
+bourbon
+breadcrumbs
+cajun seasoning
+chicken broth
+chicken stock
+chicken stock cube
+chili flakes
+chili powder
+chilli powder
+chipotle
+chipotle powder
+cinnamon
+clam juice
+cooking oil
+cooking spray
+cooking spray, olive oil
+cream of tartar
+dark rum
+dried basil
+dried herbs
+dried italian herbs
+dried oregano
+dried thyme
+dukkah
+enchilada sauce
+erythritol
+fajita seasoning
+fish sauce
+fish stock
+garam masala
+garlic powder
+gochujang
+green enchilada sauce
+ground cinnamon
+harissa
+herbs
+hoisin sauce
+hot sauce
+ice water
+italian herbs
+italian seasoning
+leaf
+leaves
+marsala wine
+mirin
+miso
+miso paste
+mixed herbs
+nutmeg
+nutritional yeast
+nutritional yeast flakes
+old bay
+old bay seasoning
+onion powder
+oregano
+oyster sauce
+paprika
+parsley
+pepper
+ras el hanout
+red wine
+rosemary
+rum
+salt
+seafood stock
+seasoning
+sherry
+spices
+sriracha
+stock cube
+stock cube beef
+stock cube chicken
+stock cube vegetable
+sumac
+tabasco
+thyme
+vanilla
+vanilla bean
+vanilla bean paste
+vanilla bean seed
+vanilla bean seeds
+vanilla extract
+vanilla pod
+vegetable broth
+vegetable oil
+vegetable stock
+vegetable stock cube
+wasabi
+water
+whiskey
+whisky
+white miso
+white miso paste
+white wine
+worcestershire
+worcestershire sauce
+xylitol
+za atar
+za'atar

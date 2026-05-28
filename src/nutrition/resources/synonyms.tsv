@@ -1,0 +1,1003 @@
+# Synonym replacements applied IN ORDER before matching.
+# Format: <source><TAB><target>.  Empty target = delete the source phrase.
+# ORDER MATTERS (sequential replace). Provenance: MATCHER_CHANGES.txt.
+
+red bell peppers	sweet pepper, red
+green bell peppers	sweet pepper, green
+yellow bell peppers	sweet pepper, yellow
+orange bell peppers	sweet pepper, yellow
+red bell pepper	sweet pepper, red
+green bell pepper	sweet pepper, green
+yellow bell pepper	sweet pepper, yellow
+orange bell pepper	sweet pepper, yellow
+bell pepper	sweet pepper
+all-purpose flour	wheat flour
+all purpose flour	wheat flour
+plain flour	wheat flour
+cacao	cocoa
+feta cheese	cheese, feta
+feta	feta
+buttermilk	buttermilk, fluid
+plain greek yogurt	yoghurt greek
+plain greek yoghurt	yoghurt greek
+yogurt, greek style	yoghurt greek
+yoghurt, greek style	yoghurt greek
+greek yogurt	yoghurt greek
+greek yoghurt	yoghurt greek
+yogurt	yoghurt
+heavy whipping cream	cream, whipping
+heavy cream	cream, whipping
+cream, heavy	cream, whipping
+half and half	cream, fluid
+rolled oats, whole grain	oatmeal
+whole grain rolled oats	oatmeal
+rolled oats	oatmeal
+oats, rolled	oatmeal
+powdered sugar	sugar, white
+icing sugar	sugar, white
+dark brown sugar	sugar, brown
+brown sugar, dark	sugar, brown
+brown sugar	sugar, brown
+lemon zest	lemon peel
+vegetable broth	vegetable stock
+chicken broth	chicken stock
+zucchini	squash, zucchini
+eggplant	aubergine
+cilantro	coriander
+scallion	spring onion
+green onion	spring onion
+arugula	rocket
+sour cream	sour cream
+ground beef	minced meat, beef
+minced beef	minced meat, beef
+ground pork	minced meat, pork
+chickpeas	chick peas
+garbanzo beans	chick peas
+white chocolate chips	chocolate, white
+white chocolate chip	chocolate, white
+white chocolate	chocolate, white
+dark chocolate chips	chocolate, dark
+dark chocolate chip	chocolate, dark
+chocolate chips	chocolate, dark
+chocolate chip	chocolate, dark
+dark chocolate	chocolate, dark
+smooth peanut butter	peanut butter
+medjool dates	dates
+digestive biscuits	biscuit digestive
+digestive biscuit	biscuit digestive
+chicken breast	chicken fillet
+asparagus, green	asparagus
+ricotta cheese	cheese ricotta
+oats-based	
+oat-based	
+wholegrain	wholemeal
+granny smith	
+hass	
+cremini	
+whole-milk	
+whole milk	milk
+potato, red	potato
+potatoes, red	potatoes
+red potato	potato
+potato, white	potato
+potatoes, white	potatoes
+white potato	potato
+tomato, red	tomato
+low sodium	
+low-sodium	
+gelatine	gelatin
+bread, brioche	brioche
+brioche bread	brioche
+cornstarch	corn starch
+cornflour	corn starch
+corn flour	corn starch
+dijon mustard	mustard
+whole grain mustard	mustard
+whole-grain mustard	mustard
+stone ground mustard	mustard
+yellow onion	onion
+red onion	onion
+white onion	onion
+brown onion	onion
+broccoli, green	broccoli
+broccoli green	broccoli
+key lime juice	lemon juice
+key lime	lemon
+lime zest	lemon peel
+rice vinegar, for dipping sauce	vinegar
+rice vinegar (for dipping sauce)	vinegar
+rice vinegar (for dipping)	vinegar
+rice vinegar, unseasoned	vinegar
+rice vinegar	vinegar
+white wine vinegar	vinegar
+red wine vinegar	vinegar
+white vinegar	vinegar
+sherry vinegar	vinegar
+apple cider vinegar	vinegar, apple cider
+unsalted butter	butter, unsalted
+salted butter	butter
+courgette	squash, zucchini
+skim milk	milk, skimmed
+skimmed milk	milk, skimmed
+nonfat milk	milk, skimmed
+non-fat milk	milk, skimmed
+fat-free milk	milk, skimmed
+golden caster sugar	sugar, white
+caster sugar	sugar, white
+cane sugar	sugar, white
+whole-grain macaroni, dry	pasta, plain
+whole grain macaroni, dry	pasta, plain
+whole-grain macaroni	pasta, plain
+whole grain macaroni	pasta, plain
+spaghetti, whole grain, dry	pasta, plain
+spaghetti, whole grain	pasta, plain
+whole grain spaghetti, dry	pasta, plain
+whole grain spaghetti	pasta, plain
+whole-grain spaghetti	pasta, plain
+wholewheat pasta, dry	pasta, plain
+wholewheat pasta	pasta, plain
+wholewheat linguine, dry	pasta, plain
+wholewheat linguine	pasta, plain
+wholewheat fettuccini, dry	pasta, plain
+wholewheat fettuccini	pasta, plain
+wholewheat fettuccine, dry	pasta, plain
+wholewheat fettuccine	pasta, plain
+wholewheat penne pasta, dry	pasta, plain
+wholewheat penne pasta	pasta, plain
+wholewheat penne, dry	pasta, plain
+wholewheat penne	pasta, plain
+wholewheat ziti pasta	pasta, plain
+wholewheat ziti	pasta, plain
+wholewheat lasagna sheets	pasta, plain
+wholewheat macaroni	pasta, plain
+wholewheat spaghetti	pasta, plain
+wholewheat rigatoni	pasta, plain
+whole wheat pasta, dry	pasta, plain
+whole wheat pasta	pasta, plain
+whole-wheat pasta, dry	pasta, plain
+whole-wheat pasta	pasta, plain
+whole wheat linguine, dry	pasta, plain
+whole wheat linguine	pasta, plain
+whole wheat spaghetti, dry	pasta, plain
+whole wheat fettuccine, dry	pasta, plain
+whole wheat fettuccine	pasta, plain
+whole wheat penne pasta, dry	pasta, plain
+whole wheat penne pasta	pasta, plain
+whole wheat penne	pasta, plain
+whole wheat ziti pasta	pasta, plain
+whole wheat ziti	pasta, plain
+whole wheat macaroni, dry	pasta, plain
+whole wheat macaroni	pasta, plain
+whole wheat small pasta	pasta, plain
+wholemeal pasta, dry	pasta, plain
+wholemeal pasta	pasta, plain
+whole grain pasta, dry	pasta, plain
+whole grain pasta	pasta, plain
+whole wheat breadcrumbs	breadcrumbs
+whole-wheat breadcrumbs	breadcrumbs
+wholemeal breadcrumbs	breadcrumbs
+whole grain breadcrumbs	breadcrumbs
+breadcrumbs, whole wheat	breadcrumbs
+breadcrumbs, wholemeal	breadcrumbs
+breadcrumbs, whole grain	breadcrumbs
+flour, whole wheat	wheat flour, wholemeal
+whole wheat flour, fine ground	wheat flour, wholemeal
+whole wheat flour, unspecified	wheat flour, wholemeal
+whole wheat flour, wholegrain	wheat flour, wholemeal
+whole wheat flour, wholemeal	wheat flour, wholemeal
+whole wheat flour, whole-grain	wheat flour, wholemeal
+whole wheat flour, for crust	wheat flour, wholemeal
+whole wheat flour, for roux	wheat flour, wholemeal
+whole wheat flour, fine	wheat flour, wholemeal
+whole wheat flour, plain	wheat flour, wholemeal
+whole wheat flour	wheat flour, wholemeal
+whole-wheat flour, wholemeal	wheat flour, wholemeal
+whole-wheat flour, whole-grain	wheat flour, wholemeal
+whole-wheat flour	wheat flour, wholemeal
+wholewheat flour	wheat flour, wholemeal
+plain wholemeal flour	wheat flour, wholemeal
+plain whole-wheat flour	wheat flour, wholemeal
+wholemeal flour, unspecified	wheat flour, wholemeal
+wholemeal flour	wheat flour, wholemeal
+wholewheat	wholemeal
+whole-wheat	wholemeal
+whole wheat	wholemeal
+linguine	pasta, plain
+fettuccine	pasta, plain
+penne	pasta, plain
+tagliatelle	pasta, plain
+kalamata olives	olives, black
+kalamata olive	olives, black
+olives, kalamata	olives, black
+black olives	olives, black
+gruyère	gruyere
+bicarbonate of soda	baking soda
+baking powder, double acting	baking powder
+double acting baking powder	baking powder
+baking powder, aluminum free	baking powder
+onions, raw	onion
+onions, yellow	onion
+onion, yellow	onion
+onion, white	onion
+onion, red	onion
+marinara sauce, prepared	tomato puree
+marinara sauce	tomato puree
+passata di pomodoro	tomato
+passata	tomato
+tomato passata	tomato
+parsnips	parsnip
+tomato purée	tomato puree
+cocoa solids	
+white button mushroom	mushroom common
+white mushroom	mushroom
+button mushroom	mushroom
+red pepper flakes	pepper chili red
+crushed red pepper	pepper chili red
+chili flakes	pepper chili red
+red chili flakes	pepper chili red
+sesame oil, toasted (for dipping sauce)	oil, sesame
+sesame oil, toasted	oil, sesame
+sesame oil, dark	oil, sesame
+sesame oil, refined	oil, sesame
+sesame oil	oil, sesame
+fresh or frozen	
+sesame seeds, white	sesame seeds
+sesame seeds, black	sesame seeds
+sesame seeds, hulled	sesame seeds
+canola oil	oil, rapeseed
+coconut oil	oil, coconut
+sweetcorn	sweet corn
+corn kernels	sweet corn
+corn kernel	sweet corn
+bread crumbs	breadcrumbs
+lamb mince, lean	minced meat, lamb
+lamb mince	minced meat, lamb
+vital wheat gluten flour	wheat flour
+vital wheat gluten	wheat flour
+brown rice noodles, dry	noodles, rice
+brown rice noodles	noodles, rice
+coconut flakes, toasted	coconut, desiccated
+coconut flakes	coconut, desiccated
+worcestershire sauce, reduced sugar	worcestershire sauce
+worcestershire sauce, reduced-sugar	worcestershire sauce
+pumpkin purée	pumpkin
+ground flaxseeds	linseeds
+flaxseeds, ground	linseeds
+flaxseeds	linseeds
+ground flaxseed	linseeds
+flaxseed	linseeds
+flax seed	linseeds
+ground flax seed	linseeds
+pecans	pecan nuts
+pecan	pecan nuts
+flank steak	beef, striploin
+flat iron steak	beef, striploin
+skirt steak	beef, striploin
+sirloin steak	beef, striploin
+fettuccini	pasta, plain
+wholemeal manicotti pasta tubes	pasta, plain
+wholemeal manicotti shells	pasta, plain
+manicotti pasta tubes	pasta, plain
+manicotti shells	pasta, plain
+manicotti	pasta, plain
+ziti	pasta, plain
+rigatoni	pasta, plain
+orzo	pasta, plain
+jalapeño pepper	jalapeno
+jalapeños	jalapeno
+jalapeño	jalapeno
+polenta	cornmeal
+stone-ground corn grits	cornmeal
+stone ground corn grits	cornmeal
+corn grits, stone-ground	cornmeal
+corn grits, coarse	cornmeal
+corn grits, whole grain	cornmeal
+corn grits, fine, whole grain	cornmeal
+corn grits	cornmeal
+quick-cooking corn grits	cornmeal
+quick cooking grits	cornmeal
+quick-cooking grits	cornmeal
+grits, dry, stone-ground	cornmeal
+grits, dry, white corn	cornmeal
+grits, white corn, dry	cornmeal
+grits, white corn	cornmeal
+grits, corn, white, quick-cooking	cornmeal
+grits, corn, white	cornmeal
+grits, unenriched, regular or quick, dry	cornmeal
+grits, dry	cornmeal
+stone-ground grits	cornmeal
+stone ground grits	cornmeal
+grits	cornmeal
+stone-ground cornmeal	cornmeal
+stone ground cornmeal	cornmeal
+buffalo hot sauce	sriracha
+buffalo sauce	sriracha
+hot pepper sauce, buffalo style	sriracha
+hot pepper sauce	sriracha
+chili sauce, sriracha	sriracha
+chili sauce sriracha	sriracha
+demerara sugar	sugar, brown
+cannellini	beans, white, large
+pecorino romano	cheese, parmesan
+pecorino	cheese, parmesan
+vinegar, white wine	vinegar
+vinegar, red wine	vinegar
+vinegar, cane	vinegar
+jasmine rice	rice, white, long-grain
+panko breadcrumbs	breadcrumbs
+panko bread crumbs	breadcrumbs
+panko	breadcrumbs
+baguette	bread, white
+no added sugar	
+no-added-sugar	
+roasted red peppers	sweet pepper, red
+roasted red pepper	sweet pepper, red
+haricot beans	beans, white, large
+haricot bean	beans, white, large
+paella rice, short-grain	rice, white, long-grain
+bomba rice	rice, white, long-grain
+paella rice	rice, white, long-grain
+korean pear	pear
+asian pear	pear
+rocket salad	lettuce
+rocket	lettuce
+coconut vinegar	vinegar
+cane vinegar, white	vinegar
+cane vinegar	vinegar
+vinegar, white	vinegar
+vinegar, rice	vinegar
+vinegar, balsamic	vinegar
+corn husks	
+husks	
+mirin (japanese sweet rice wine)	mirin
+mirin, sweet cooking rice wine	mirin
+mirin (japanese rice wine)	mirin
+mirin, japanese rice wine	mirin
+mirin (rice wine)	mirin
+korean gochujang	gochujang
+gochujang paste	gochujang
+chipotle peppers in adobo sauce	chipotle
+chipotle pepper in adobo sauce	chipotle
+chipotle peppers in adobo	chipotle
+chipotle in adobo sauce	chipotle
+chipotle in adobo	chipotle
+chipotle paste	chipotle
+gnocchi	potato
+oat flakes, whole grain	oatmeal
+oat flakes, wholemeal	oatmeal
+oat flakes	oatmeal
+oats, rolled, blended to flour	oatmeal
+steel-cut oats	oatmeal
+steel cut oats	oatmeal
+soured cream	sour cream
+crème fraîche	creme fraiche
+cream cheese	cheese, cream
+wheat slider buns	bread roll
+wheat slider bun	bread roll
+slider buns	bread roll
+slider bun	bread roll
+ditalini	pasta, plain
+calamansi	lemon juice
+pancetta	bacon
+swiss cheese	cheese, swiss
+goat milk	milk, goat
+goat's milk	milk, goat
+capsicum	sweet pepper
+mange tout	peas, sugar snap
+mangetout	peas, sugar snap
+beetroots	beetroot
+neutral cooking oil	oil, rapeseed
+neutral vegetable oil	oil, rapeseed
+wholemeal flatbreads	flatbread
+wholemeal flatbread	flatbread
+whole wheat flatbreads	flatbread
+whole wheat flatbread	flatbread
+flatbreads	flatbread
+savoiardi biscuits	biscuit
+savoiardi biscuit	biscuit
+savoiardi	biscuit
+pitta	bread, pita
+double cream	cream, whipping
+light cream	cream, household
+cream, single	cream, household
+single cream	cream, household
+low fat cooking cream	cream, household
+low-fat cooking cream	cream, household
+cooking cream, light	cream, household
+cooking cream, low fat	cream, household
+cooking cream, 15	cream, household
+cooking cream	cream, household
+cream, cooking, light	cream, household
+cream, cooking, low fat	cream, household
+cream, cooking	cream, household
+sour cream	cream, sour
+marsala wine, sweet	marsala wine
+soy sauce, reduced salt	soy sauce
+soy sauce, low sodium	soy sauce
+white wholemeal flour	wheat flour
+wholemeal flour, for crust	wheat flour
+white whole wheat flour	wheat flour
+flour, whole wheat pastry	wholemeal flour
+whole grain flour, spelt	wholemeal flour
+strong white bread flour	wheat flour
+white bread flour	wheat flour
+white flour	wheat flour
+flour, wheat, white, type 450	wheat flour
+flour, wheat, white, type 405	wheat flour
+flour, wheat, refined, all-purpose	wheat flour
+flour, wheat, generic	wheat flour
+flour, wheat, refined	wheat flour
+black peppercorns	black pepper
+peppercorns	black pepper
+whole peppercorns	black pepper
+pearl barley	barley
+pearl onions	onion
+pearl onion	onion
+split peas	peas, split
+split pea	peas, split
+sushi rice	rice
+brown sushi rice	rice, brown
+brown rice	rice, brown
+chestnut mushrooms	mushroom
+chestnut mushroom	mushroom
+mushrooms, chestnut	mushroom
+mixed mushrooms	mushroom
+mixed mushroom	mushroom
+gram flour	chickpea flour
+besan	chickpea flour
+almond flakes	almonds
+almond kernels	almonds
+slivered almonds	almonds
+almond slivers	almonds
+flaked almonds	almonds
+toasted almonds	almonds
+vegetable oil, canola	oil, rapeseed
+vegetable oil, for frying	oil, rapeseed
+vegetable oil, for stir-frying	oil, rapeseed
+vegetable oil, for cooking	oil, rapeseed
+vegetable oil	oil, rapeseed
+green chili, fresh	sweet pepper, green
+green chili, fresh, seeds removed	sweet pepper, green
+green chili, fresh, seeds removed, minced	sweet pepper, green
+green chili	sweet pepper, green
+green chiles	sweet pepper, green
+green chile	sweet pepper, green
+green chilies	sweet pepper, green
+roasted green chiles	sweet pepper, green
+roasted green chile	sweet pepper, green
+maize starch	corn starch
+unrefined cane sugar	sugar, brown
+raw cane sugar	sugar, brown
+white sugar	sugar, white
+pierogies	pasta, plain
+pierogi	pasta, plain
+bihon noodles	noodles, rice
+bihon noodle	noodles, rice
+pancit canton	noodles, wheat
+canton noodles	noodles, wheat
+andouille sausage	sausage, pork, smoked
+andouille	sausage, pork, smoked
+hake fillet	cod, fillet
+hake	cod
+canned crab meat	king crab
+crab meat, cooked, drained	king crab
+crab meat, cooked, white, drained	king crab
+crab meat, cooked, white	king crab
+crab meat, cooked, lump	king crab
+crab meat, cooked, fresh	king crab
+crab meat, cooked and flaked	king crab
+crab meat, lump, cooked	king crab
+crab meat, canned, drained	king crab
+crab meat	king crab
+raw tiger prawns	king prawns
+tiger prawns	king prawns
+clams	mussels
+adobo sauce from can	adobo sauce
+ice water (approx.)	ice water
+ice water (for crust)	ice water
+ice water, approx	ice water
+masa harina, corn flour	cornmeal
+corn masa harina	cornmeal
+masa harina	cornmeal
+reserved pasta water	water
+pasta water	water
+sugar, cane	sugar, white
+sugar, granulated	sugar, white
+sugar, regular	sugar, white
+chicken mince	chicken fillet
+turkey mince	turkey breast
+pork loin chops	pork, striploin
+pork loin chop	pork, striploin
+lasagna sheets, whole wheat	pasta, plain
+lasagna sheets, wholemeal	pasta, plain
+lasagna sheets, dry	pasta, plain
+lasagna noodles, whole wheat, dry	pasta, plain
+lasagna noodles, whole wheat, uncooked	pasta, plain
+lasagna noodles, whole wheat	pasta, plain
+lasagna noodles, wholemeal	pasta, plain
+lasagne sheets, whole wheat	pasta, plain
+lasagne sheets, wholemeal	pasta, plain
+lasagne sheets, dry	pasta, plain
+lasagne noodles, whole wheat	pasta, plain
+lasagne noodles, wholemeal	pasta, plain
+lasagne sheets	pasta, plain
+lasagne sheet	pasta, plain
+lasagne noodles	pasta, plain
+wholemeal lasagna noodles	pasta, plain
+wholegrain lasagna noodles	pasta, plain
+lasagna sheets	pasta, plain
+lasagna sheet	pasta, plain
+lasagna noodles	pasta, plain
+macaroni, whole wheat, dry	pasta, plain
+macaroni, whole wheat	pasta, plain
+macaroni, wholemeal, dry	pasta, plain
+macaroni, wholemeal	pasta, plain
+whole wheat macaroni	pasta, plain
+pasta, macaroni, whole wheat, dry	pasta, plain
+pasta, macaroni, whole wheat	pasta, plain
+whole grain egg noodles, dry	noodles with egg
+whole grain egg noodles	noodles with egg
+wholemeal egg noodles	noodles with egg
+whole wheat egg noodles	noodles with egg
+egg noodles, wholemeal, dry	noodles with egg
+egg noodles, wholemeal	noodles with egg
+egg noodles, whole wheat, dry	noodles with egg
+egg noodles, whole wheat	noodles with egg
+egg noodles, dry	noodles with egg
+egg noodles	noodles with egg
+egg noodle	noodles with egg
+tortillas, wholemeal	tortilla wheat flour
+tortillas, whole wheat	tortilla wheat flour
+whole wheat tortillas	tortilla wheat flour
+wholemeal tortillas	tortilla wheat flour
+tortilla, wheat, wholemeal	tortilla wheat flour
+tortilla, wheat, whole grain	tortilla wheat flour
+tortilla, wheat	tortilla wheat flour
+tortilla, wholemeal	tortilla wheat flour
+tortilla, whole wheat	tortilla wheat flour
+whole wheat tortilla wraps	tortilla wheat flour
+wholemeal tortilla wraps	tortilla wheat flour
+whole wheat tortilla wrap	tortilla wheat flour
+wholemeal tortilla wrap	tortilla wheat flour
+whole wheat tortilla	tortilla wheat flour
+wholemeal tortilla	tortilla wheat flour
+wholemeal pita bread	pita bread
+whole wheat pita bread	pita bread
+pita bread, wholemeal	pita bread
+wholemeal burger buns	bread roll
+wholemeal burger bun	bread roll
+whole wheat burger buns	bread roll
+whole wheat burger bun	bread roll
+wholemeal bun	bread roll
+wholemeal macaroni	pasta, plain
+wholemeal manicotti shells	pasta, plain
+whole wheat manicotti shells	pasta, plain
+manicotti shells	pasta, plain
+manicotti	pasta, plain
+brown lentils, dried	lentils green
+brown lentils, dry	lentils green
+brown lentils	lentils green
+poblano peppers	sweet pepper green
+poblano pepper	sweet pepper green
+poblano chili	sweet pepper green
+poblano	sweet pepper green
+tater tots	potatoes french fries
+mixed salad greens	lettuce leaves
+mixed salad leaves	lettuce leaves
+mixed leaves	lettuce leaves
+mixed greens	lettuce leaves
+mixed wild mushrooms	mushroom
+salad greens	lettuce leaves
+whole grain tortilla chips	tortilla chips
+whole wheat tortilla chips	tortilla chips
+wholegrain tortilla chips	tortilla chips
+wholemeal tortilla chips	tortilla chips
+tortilla chips, whole grain	tortilla chips
+tortilla chips, whole wheat	tortilla chips
+tortilla chips, wholegrain	tortilla chips
+tortilla chips, wholemeal	tortilla chips
+wholegrain baguette	bread wholemeal
+wholemeal baguette	bread wholemeal
+whole wheat baguette	bread wholemeal
+whole grain baguette	bread wholemeal
+tortilla wrap, wholemeal	tortilla wheat flour
+tortilla wrap, wholegrain	tortilla wheat flour
+wholemeal tortilla wrap	tortilla wheat flour
+wholegrain tortilla wrap	tortilla wheat flour
+wholemeal wrap	tortilla wheat flour
+wholemeal bread roll	bread roll
+wholegrain bread roll	bread roll
+wholemeal mustard	mustard
+wholegrain mustard	mustard
+wholemeal puff pastry	puff pastry
+wholegrain puff pastry	puff pastry
+wholemeal couscous	couscous
+wholegrain couscous	couscous
+whole wheat couscous	couscous
+wholemeal spelt flour	pearled spelt
+wholegrain spelt flour	pearled spelt
+whole wheat spelt flour	pearled spelt
+whole-wheat spelt flour	pearled spelt
+spelt flour	pearled spelt
+pitta bread	pita bread
+wholemeal pitta bread	pita bread
+wholegrain pitta bread	pita bread
+pitta	pita
+whole wheat noodles	grain noodles
+wholemeal noodles	grain noodles
+wholegrain noodles	grain noodles
+wholemeal pizza dough	bread roll
+wholegrain pizza dough	bread roll
+wholewheat pizza dough	bread roll
+whole wheat pizza dough	bread roll
+whole wheat pastry dough	bread roll
+pizza dough	bread roll
+pastry dough	bread roll
+wholemeal pizza flour	flour, wheat
+wholegrain pizza flour	flour, wheat
+whole wheat pizza flour	flour, wheat
+manicotti pasta tubes	pasta, plain
+wholegrain bagels	bagels
+wholemeal bagels	bagels
+whole wheat bagels	bagels
+whole grain bagels	bagels
+wholegrain bagel	bagels
+wholemeal bagel	bagels
+whole wheat bagel	bagels
+whole grain bagel	bagels
+wholemeal bread, average	bread wholemeal
+wholemeal bread, untoasted	bread wholemeal
+whole wheat bread	bread wholemeal
+emmentaler	cheese swiss
+emmenthal	cheese swiss
+emmental	cheese swiss
+hot sauce, buffalo style	sriracha
+hot sauce, buffalo	sriracha
+hot sauce, ready-to-use	sriracha
+hot sauce, ready	sriracha
+hot sauce, frank's redhot or similar	sriracha
+hot sauce, frank's	sriracha
+hot sauce	sriracha
+wholegrain slider buns	bread roll
+wholemeal slider buns	bread roll
+whole wheat slider buns	bread roll
+whole grain slider buns	bread roll
+instant polenta	cornmeal
+wholemeal cornmeal	cornmeal
+wholegrain cornmeal	cornmeal
+wholemeal lasagna pasta	pasta, plain
+wholegrain lasagna pasta	pasta, plain
+self-raising flour, wholemeal	wheat flour, wholemeal
+self-raising flour, whole wheat	wheat flour, wholemeal
+self-raising flour, wholegrain	wheat flour, wholemeal
+self-raising flour	wheat flour
+self raising flour	wheat flour
+wholemeal self-raising flour	wholemeal flour
+wholegrain self-raising flour	wholemeal flour
+whole wheat self-raising flour	wholemeal flour
+wholemeal english muffins	bread roll
+wholegrain english muffins	bread roll
+wheat english muffins	bread roll
+wheat english muffin	bread roll
+english muffins	bread roll
+english muffin	bread roll
+wholemeal shortcrust pie crust	puff pastry
+wholegrain pie crust	puff pastry
+wholemeal pie crust	puff pastry
+whole wheat pie crust	puff pastry
+wholemeal pastry crust	puff pastry
+wholegrain pastry crust	puff pastry
+whole wheat pie dough	puff pastry
+pie crust	puff pastry
+pie dough	puff pastry
+monterey jack cheese	cheese cheddar
+monterey jack	cheese cheddar
+blue cheese, roquefort type	cheese blue mold
+roquefort type cheese	cheese blue mold
+blue cheese, roquefort	cheese blue mold
+blue cheese	cheese blue mold
+feta cheese, from cow	cheese feta
+cheese, swiss type	cheese swiss
+cheese, light, cheddar type	cheese cheddar
+white cheddar cheese	cheese cheddar
+cheddar cheese, light	cheese cheddar
+corn tortillas, 6 inch	tortilla, corn
+corn tortillas, 8 inch	tortilla, corn
+white whole wheat flour	wholemeal flour
+whole wheat fusilli pasta	pasta, plain
+wholemeal fusilli pasta	pasta, plain
+fusilli pasta	pasta, plain
+whole wheat ricotta and spinach ravioli	pasta, plain
+wholemeal ricotta and spinach ravioli	pasta, plain
+whole wheat empanada discs	puff pastry
+empanada discs	puff pastry
+empanada disc	puff pastry
+whole wheat graham crackers	crackers, graham
+wholemeal oat biscuits	oatmeal
+oat biscuits	oatmeal
+tortilla chips, lightly salted	tortilla chips
+tortilla chips, lightly	tortilla chips
+wholemeal bread	bread wholemeal
+low-fat cheese, grated	cheese cheddar
+low fat cheese, grated	cheese cheddar
+low-fat ricotta cheese	ricotta
+low fat ricotta cheese	ricotta
+low-fat ricotta	ricotta
+low fat ricotta	ricotta
+low-fat cream cheese	cream cheese
+low fat cream cheese	cream cheese
+light cream cheese	cream cheese
+spaghetti, wholemeal	pasta, plain
+pasta, wholemeal	pasta, plain
+graham crackers, wholemeal	crackers, graham
+graham crackers, whole	crackers, graham
+wasabi paste	wasabi
+wasabi	wasabi
+tomato paste, concentrated	tomato puree
+tomato paste	tomato puree
+palm sugar or brown sugar	sugar, brown
+palm sugar	sugar, brown
+coconut sugar	sugar, brown
+pumpkin seeds, hulled	seeds, pumpkin
+pumpkin seeds, hulled, roasted	seeds, pumpkin
+pumpkin seeds	seeds, pumpkin
+pumpkin seed	seeds, pumpkin
+pumpkin puree, canned or cooked	pumpkin, butternut
+pumpkin puree, cooked	pumpkin, butternut
+snow peas	peas, sugar snap
+snow pea	peas, sugar snap
+graham crackers, whole wheat	crackers, graham
+graham crackers, regular	crackers, graham
+graham crackers	crackers, graham
+graham cracker	crackers, graham
+wholemeal crackers, graham	crackers, graham
+spring roll pastry sheets	pasta, plain
+spring roll pastry	pasta, plain
+dumpling wrappers, store-bought	pasta, plain
+dumpling wrappers, round, wheat-based	pasta, plain
+dumpling wrappers, round, white wheat	pasta, plain
+dumpling wrappers, round, wheat	pasta, plain
+dumpling wrappers, wheat flour	pasta, plain
+dumpling wrappers, wheat-based	pasta, plain
+dumpling wrappers, whole wheat	pasta, plain
+dumpling wrappers, round	pasta, plain
+dumpling wrappers	pasta, plain
+dumpling wrapper	pasta, plain
+egg roll wrappers	pasta, plain
+egg roll wrapper	pasta, plain
+wonton wrappers	pasta, plain
+wonton wrapper	pasta, plain
+spring roll wrappers	pasta, plain
+spring roll wrapper	pasta, plain
+almond milk, unsweetened	almond based beverage
+unsweetened almond milk	almond based beverage
+almond milk	almond based beverage
+milk, almond	almond based beverage
+plant-based milk, oat, fortified	oat based beverage
+plant-based milk, oat	oat based beverage
+plant-based oat milk	oat based beverage
+oat milk, unsweetened	oat based beverage
+oat milk	oat based beverage
+oat drink	oat based beverage
+bean sprouts	mung bean
+bean sprout	mung bean
+instant yeast	bakers yeast
+active dry yeast	bakers yeast
+dry yeast	bakers yeast
+fast action yeast	bakers yeast
+fast-action yeast	bakers yeast
+quick yeast	bakers yeast
+chilli flakes	pepper chili red
+chilli powder	chili powder
+chilli paste	pepper chili red
+chili paste	pepper chili red
+chilli	chili
+salsa verde, tomatillo-based	tomatillos
+green salsa verde	tomatillos
+tomatillo salsa	tomatillos
+salsa verde	tomatillos
+olive oil spread	margarine
+wheat burger buns	bread roll
+wheat burger bun	bread roll
+wheat buns	bread roll
+wheat bun	bread roll
+whole grain buns	bread roll
+whole grain bun	bread roll
+whole grain burger buns	bread roll
+wholemeal buns	bread roll
+wholemeal bun	bread roll
+burger buns, wholemeal	bread roll
+burger buns, whole grain	bread roll
+wholemeal hamburger buns	bread roll
+wholemeal hamburger bun	bread roll
+wholegrain hamburger buns	bread roll
+whole wheat hamburger buns	bread roll
+hamburger buns	bread roll
+hamburger bun	bread roll
+burger buns	bread roll
+burger bun	bread roll
+hot dog buns	bread roll
+hot dog bun	bread roll
+wholemeal pastry flour	wholemeal flour
+pastry flour, whole wheat	wholemeal flour
+whole wheat pastry flour	wholemeal flour
+corn tortillas, whole grain	tortilla, corn
+corn tortillas, cut into triangles	tortilla, corn
+corn tortillas, 6-inch	tortilla, corn
+corn tortillas, yellow, small	tortilla, corn
+corn tortilla, yellow	tortilla, corn
+corn tortillas, medium size	tortilla, corn
+corn tortillas	tortilla, corn
+corn tortilla	tortilla, corn
+whole wheat tortillas	tortilla, wheat flour
+whole wheat tortilla	tortilla, wheat flour
+wholemeal tortillas	tortilla, wheat flour
+wholemeal tortilla	tortilla, wheat flour
+flour tortillas	tortilla, wheat flour
+flour tortilla	tortilla, wheat flour
+whole wheat spaghetti	pasta, plain
+whole wheat pasta	pasta, plain
+whole grain spaghetti	pasta, plain
+whole grain pasta	pasta, plain
+wholemeal spaghetti	pasta, plain
+spaghetti squash	squash, winter
+spaghetti	pasta, plain
+macaroni	pasta, plain
+egg whites, raw	egg white
+egg white, raw	egg white
+egg whites	egg white
+almond butter	almond spread
+lemon, cut into wedges for serving	lemon juice
+lemon, cut into wedges	lemon juice
+lemon, cut into quarters	lemon juice
+lemon, cut in half	lemon juice
+lemon, zested and juiced	lemon juice
+lemon, juiced and zested	lemon juice
+lemon, zest only	lemon peel
+lemon, zested	lemon peel
+lemon, juiced	lemon juice
+lemon, fresh	lemon juice
+whey protein powder, vanilla	protein powder whey
+whey protein powder, unflavored	protein powder whey
+whey protein powder, chocolate	protein powder whey
+whey protein powder	protein powder whey
+protein powder	protein powder whey
+dark chocolate, minimum 70%	chocolate, dark
+dark chocolate, minimum 70	chocolate, dark
+head green cabbage	cabbage
+head cabbage	cabbage
+salsa, store-bought, mild	tomato
+salsa, mild, chunky	tomato
+salsa, store-bought	tomato
+green peas, frozen	peas
+peas, green, frozen	peas
+peas, green	peas, green
+green peas	peas, green
+frozen peas	peas
+peas, frozen	peas
+garden peas	peas, green
+fresh peas	peas, green
+rolled oats, whole grain	oats, rolled
+whole grain rolled oats	oats, rolled
+whole grain oats	oats, rolled
+fresh flat-leaf parsley	parsley, herb
+fresh flat leaf parsley	parsley, herb
+flat-leaf parsley	parsley, herb
+flat leaf parsley	parsley, herb
+chopped fresh parsley	parsley, herb
+fresh parsley	parsley, herb
+dried parsley	parsley, herb
+parsley, fresh	parsley, herb
+parsley, dried	parsley, herb
+parsley, flat-leaf	parsley, herb
+parsley, flat leaf	parsley, herb
+parsley, chopped	parsley, herb
+parsley, raw	parsley, herb
+chopped parsley	parsley, herb
+garlic cloves	garlic
+garlic clove	garlic
+garlic, cloves	garlic
+garlic, clove	garlic
+garlic, minced for sauce	garlic
+garlic, minced, for sauce	garlic
+garlic, fresh cloves, minced	garlic
+garlic, fresh cloves	garlic
+garlic cloves, minced	garlic
+for egg wash	
+mustard, dijon	mustard
+dijon mustard	mustard
+masa harina, corn flour	corn flour
+masa harina	corn flour
+pumpkin puree	pumpkin
+spinach and ricotta tortellini	tortellini
+spinach ricotta tortellini	tortellini
+tortellini, fresh, spinach and ricotta filling	tortellini
+tortellini, fresh, spinach and ricotta	tortellini
+tortellini, fresh	tortellini
+ladyfingers, whole grain	ladyfingers
+whole grain ladyfingers	ladyfingers
+beef, stewing cuts	beef
+beef stewing cuts	beef
+beef filet mignon	beef
+prime rib roast	beef
+slider buns, whole-grain	bread roll
+whole-grain slider buns	bread roll
+whole grain slider buns	bread roll
+slider buns, whole grain	bread roll
+rice noodles, bihon	rice noodles
+bihon noodles	rice noodles
+baguette, whole grain	baguette
+whole grain baguette	baguette
+hot sauce	sriracha
+cornmeal, whole grain	cornmeal
+whole grain cornmeal	cornmeal
+english muffins, whole wheat	bread roll
+whole wheat english muffins	bread roll
+whole grain ciabatta rolls	ciabatta
+whole grain ciabatta	ciabatta
+pie dough	pastry, plain
+hot sauce, frank's redhot or similar	sriracha
+graham crackers, whole grain	crackers, graham
+molasses, dark	molasses
+dark molasses	molasses
+for glaze	
+for frosting	
+for caramelizing	
+for dressing	
+cinnamon-sugar mixture	sugar, white
+roughly chopped	
+diagonally	
+sifted	
+debearded	
+scrubbed	
+paella rice	rice, short grain
+panini bread	ciabatta
+whole grain panini	ciabatta
+pasta, small shapes	pasta, plain
+pasta, small shells	pasta, plain
+pasta, small shape	pasta, plain
+small pasta	pasta, plain
+cornmeal, whole-grain	cornmeal
+cornmeal, yellow	cornmeal
+for tzatziki	
+vanilla bean	vanilla extract
+% cocoa	
+beef round steak	beef
+paella rice, short-grain	rice, white
+whole wheat pie dough	pastry, plain
+hot sauce, frank's redhot or similar	sriracha
+for sauce	
+white fish fillet, raw, tilapia	tilapia
+white fish fillet, raw, cod	cod
+white fish fillet, fresh, cod or sea bass	cod
+white fish fillet, fresh, cod	cod
+white fish fillet	cod
+beef stew meat	beef
+tomatillo salsa, green, homemade or store-bought	tomatillos
+tomatillo salsa, green	tomatillos
+oatmeal, whole grain	oatmeal
+bread roll, wholemeal	bread roll
+bread roll, whole-grain	bread roll
+bread roll, whole grain	bread roll
+whole-grain bread roll	bread roll
+whole grain bread roll	bread roll
+bread, white, whole grain	bread, wholemeal
+bread, white, wholemeal	bread, wholemeal
+whole grain bread, white	bread, wholemeal
+cornmeal, corn starch	cornmeal
+crackers, graham grain	crackers, graham
+wholemeal pastry, plain	pastry, plain
+pastry, plain, pre	pastry, plain
+cornmeal, whole-grain	cornmeal
+cornmeal, whole grain	cornmeal
+wholemeal puff pastry	puff pastry
+whole grain ciabatta	ciabatta
+bagel, wholemeal	bagels
+bagel, wholegrain	bagels
+flatbread, wholemeal	flatbread
+tomatillos, green	tomatillos
+tomatillos, green, homemade	tomatillos
+tomatillos, homemade	tomatillos
+chocolate, white, reduced sugar	chocolate, white
+chocolate, white, reduced	chocolate, white
+liqueur	
